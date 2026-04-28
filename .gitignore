@@ -3,3 +3,10 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Local Anaconda files
+anaconda_projects/
