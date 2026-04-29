@@ -10,3 +10,8 @@ notebooks/.ipynb_checkpoints/
 
 # Local Anaconda files
 anaconda_projects/
+
+# Downloaded PDFs and local archives
+data/raw/pdfs_rtve/
+data/raw/pdfs_rtve.zip
+*.zip
