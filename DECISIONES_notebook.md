@@ -135,6 +135,65 @@ Hasta este punto se ha conseguido:
 - inventario RTVE completo: 167 documentos;
 - textos completos extraídos: 167 documentos;
 - enlaces finales a PDF: 167 documentos;
-- manifiesto preparado para descargar PDFs físicos.
+- manifiesto de descarga de PDFs creado;
+- PDFs físicos descargados correctamente: 167 documentos;
+- errores de descarga: 0.
 
-El siguiente paso será descargar los PDFs en `data/raw/pdfs_rtve/` usando el manifiesto.
+Los PDFs se han guardado localmente en `data/raw/pdfs_rtve/` y también se ha creado un ZIP local. No se suben al repositorio Git porque ocupan aproximadamente 255 MB. Se conservarán para la entrega final o para compartirlos externamente si el equipo lo necesita.
+
+---
+
+## Decisión 10 — Usar La Moncloa solo como contraste institucional
+
+Se construye un inventario de La Moncloa para comprobar si contiene documentos oficiales no cubiertos por RTVE.
+
+El inventario de La Moncloa contiene 156 enlaces PDF detectados. Uno corresponde al BOE, por lo que se excluye de la comparación documental principal.
+
+Resultado de la comparación:
+
+- 155 documentos comparables de La Moncloa.
+- 155 documentos cubiertos por RTVE.
+- 150 coincidencias automáticas de alta confianza.
+- 5 coincidencias aceptadas tras revisión manual.
+- 12 documentos presentes en RTVE sin equivalente directo detectado en Moncloa.
+
+Se decide no descargar documentos adicionales desde La Moncloa porque no se detectan documentos comparables ausentes en RTVE.
+
+---
+
+## Decisión 11 — Mantener RTVE como fuente principal y más completa para el proyecto
+
+Tras la validación con La Moncloa, se mantiene RTVE como fuente principal del corpus de trabajo.
+
+Motivos:
+
+- RTVE proporciona los 167 documentos del corpus.
+- Permite extraer metadatos, texto completo y PDF.
+- Cubre los 155 documentos comparables de La Moncloa.
+- Aporta 12 registros adicionales no detectados en el inventario comparable de La Moncloa.
+
+La Moncloa queda como fuente institucional de contraste, no como fuente principal de extracción.
+
+---
+
+## Estado actual tras la comparación con La Moncloa
+
+Se han generado las siguientes salidas adicionales:
+
+- `inventory_moncloa.csv`: inventario de enlaces PDF detectados en La Moncloa.
+- `source_comparison.csv`: comparación final entre Moncloa y RTVE.
+- `rtve_not_matched_by_moncloa.csv`: documentos presentes en RTVE sin equivalente directo detectado en Moncloa.
+
+Resultado final de cobertura:
+
+- RTVE: 167 documentos.
+- La Moncloa: 156 enlaces PDF detectados.
+- La Moncloa comparable: 155 documentos, excluyendo el BOE.
+- Documentos comparables de La Moncloa cubiertos por RTVE: 155.
+- Coincidencias automáticas de alta confianza: 150.
+- Coincidencias aceptadas tras revisión manual: 5.
+- Documentos RTVE sin equivalente directo detectado en Moncloa: 12.
+
+La comparación no se ha realizado PDF a PDF ni byte a byte. Se ha hecho mediante títulos, nombres de archivo, fechas extraídas, similitud textual y revisión manual de los casos dudosos.
+
+Conclusión operativa: RTVE se mantiene como fuente principal del corpus porque cubre los documentos comparables de La Moncloa y además aporta registros adicionales con texto completo, metadatos y PDF asociado.
