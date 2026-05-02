@@ -54,7 +54,7 @@ En este repositorio ya se ha avanzado de forma real en la base de datos document
 
 ### Datos procesados
 
-- `data/processed/rtve_corpus_eda_ready.csv`
+- `data/processed/rtve_corpus_eda_descriptive.csv`
 
 ### Outputs de análisis
 
@@ -82,7 +82,7 @@ Para la entrega final se trabajará con cinco iniciativas. El mínimo exigido po
 
 - Pregunta: se puede predecir la sección institucional de un documento a partir de su contenido.
 - Estado: definido, pendiente de implementación.
-- Datos de entrada: `rtve_corpus_eda_ready.csv`.
+- Datos de entrada: `rtve_corpus_eda_descriptive.csv`.
 - Variables previstas: texto completo, título, longitud, indicadores de calidad y features textuales.
 - Modelos previstos: baseline, TF-IDF con Naive Bayes y Regresión Logística.
 - Evaluación prevista: accuracy, macro F1, matriz de confusión y análisis de errores.
