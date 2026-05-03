@@ -2,89 +2,165 @@
 
 Repositorio de trabajo del proyecto de Machine Learning sobre los documentos desclasificados del 23-F.
 
-El estado actual del repositorio corresponde a una entrega parcial avanzada: la construcción del corpus y el análisis exploratorio documental están ya desarrollados, y el resto de iniciativas queda definido y encaminado para la entrega final.
+Este proyecto tiene como objetivo construir un **pipeline reproducible de análisis documental** que permita transformar un corpus histórico complejo en un sistema analítico interpretable mediante técnicas de NLP, Machine Learning, grafos y recuperación semántica.
+
+El estado actual corresponde a una **entrega parcial consolidada**, donde:
+- El corpus está completamente construido y validado.
+- Se ha realizado un análisis exploratorio exhaustivo.
+- Se ha definido en detalle la metodología y los mini casos para la entrega final.
+
+---
 
 ## Dataset
 
-- Fuente principal: buscador RTVE de documentos desclasificados del 23-F.
-- Fuente de contraste institucional: relación oficial de La Moncloa.
+- **Fuente principal**: buscador de documentos desclasificados del 23-F de RTVE (167 documentos).
+- **Fuente complementaria**: relación oficial de La Moncloa para enriquecimiento institucional.
+
+### Características del dataset
+
+- 167 documentos con texto OCR completo.
+- 155 documentos con correspondencia institucional (RTVE ↔ La Moncloa).
+- Corpus altamente **heterogéneo**:
+  - Informes, notas, transcripciones, documentos militares, etc.
+- Dataset base:  
+  `data/processed/rtve_corpus_clean_base.csv` (167 docs, 25 variables).
+
+---
+
+## Objetivo del proyecto
+
+### Objetivo general
+Desarrollar un sistema completo, reproducible e interpretable para analizar los documentos del 23-F mediante:
+- NLP
+- clasificación
+- clustering
+- grafos
+- análisis temporal
+- recuperación semántica
+
+### Objetivos específicos
+
+- Construir un dataset estructurado y trazable.
+- Auditar la calidad del dato (OCR, duplicados, metadatos).
+- Clasificar documentos por procedencia institucional.
+- Detectar temas latentes.
+- Modelar relaciones entre actores e instituciones.
+- Desarrollar un sistema de búsqueda semántica.
+- Generar representaciones documentales enriquecidas.
+
+---
 
 ## Equipo
 
-- Diego Rodrigo
-- Gabriel Rezola
-- Hugo Ramiro
-- Iñigo Martinez
+- Diego Rodrigo  
+- Gabriel Rezola  
+- Hugo Ramiro  
+- Iñigo Martínez  
 
-Máster: `Big Data Science`
+Máster: `Big Data Science`  
 
-Repositorio: `https://github.com/dieegordg/Proyecto-Machine-Learning-UNAV---Bayesianos-de-los-Ca-dos`
+Repositorio:  
+`https://github.com/dieegordg/Proyecto-Machine-Learning-UNAV---Bayesianos-de-los-Ca-dos`
+
+---
 
 ## Estado de la entrega parcial
 
-### Trabajo ya realizado
+### Trabajo realizado
 
-- Construcción del inventario RTVE con 167 documentos.
-- Extracción del texto completo desde las páginas de detalle RTVE.
-- Validación y trazabilidad de enlaces a PDF.
-- Descarga controlada y manifiesto de PDFs.
-- Construcción del inventario de La Moncloa.
-- Comparación RTVE vs La Moncloa para validar cobertura documental.
-- Análisis exploratorio documental del corpus.
-- Generación de un dataset base listo para los siguientes mini casos.
+- Construcción completa del corpus RTVE (167 documentos).
+- Extracción y validación del texto OCR.
+- Descarga y trazabilidad de PDFs.
+- Integración con La Moncloa (155 matches).
+- Análisis exploratorio completo:
+  - integridad
+  - longitudes
+  - calidad OCR
+  - señal textual
+- Generación del dataset base limpio (`text_clean_base`).
+- Definición metodológica completa del proyecto.
 
-### Mini casos definidos para la entrega final
+---
 
-1. Auditoría y EDA documental del corpus.
-2. Clasificación automática de documentos por sección institucional.
-3. Clustering temático y exploración de topics.
-4. Grafo de actores, instituciones y lugares.
-5. Análisis temporal y prototipo de recuperación semántica.
+## Mini casos (entrega final)
 
-### Estado real por iniciativa
+### 1. Clasificación automática de documentos
+- Objetivo: predecir `moncloa_section`.
+- Técnicas: TF-IDF + modelos lineales (LogReg, SVM).
+- Dataset: 155 documentos etiquetados.
 
-- `EDA documental`: implementado en gran medida.
-- `Clasificación supervisada`: definido, pendiente de implementar.
-- `Clustering/topic modeling`: definido, pendiente de implementar.
-- `Grafo de entidades`: definido, pendiente de implementar.
-- `Análisis temporal aplicado / buscador semántico`: definido, con análisis preliminar temporal ya iniciado.
+---
 
-## Estructura del repositorio
+### 2. Clustering temático y topic modeling
+- Objetivo: descubrir estructuras temáticas sin etiquetas.
+- Técnicas:
+  - TF-IDF / embeddings
+  - K-Means / HDBSCAN
+  - UMAP / PCA
+- Evaluación: métricas internas + interpretación.
 
-- `notebooks/00_main_pipeline.ipynb`: punto de entrada y cuaderno de seguimiento global de la entrega parcial.
-- `notebooks/01_data_sources_and_dataset.ipynb`: construcción del corpus y validación de fuentes.
-- `notebooks/02_eda_documental_rtve.ipynb`: análisis exploratorio documental y generación del dataset base.
-- `src/`: módulos auxiliares para consolidar lógica reusable.
-- `data/raw/`: documentos originales y PDFs descargados.
-- `data/interim/`: tablas intermedias de inventario, extracción y contraste.
-- `data/processed/`: datasets preparados para modelado.
-- `outputs/`: figuras y tablas exportadas.
-- `docs/`: informe intermedio y documentación de apoyo.
+---
 
-## Flujo de trabajo previsto
+### 3. Grafo de actores, instituciones y lugares
+- Objetivo: modelar relaciones mediante co-ocurrencias.
+- Técnicas:
+  - NER
+  - NetworkX
+  - análisis de centralidad y comunidades
 
-1. Construcción y validación del corpus documental.
-2. Limpieza y enriquecimiento del dataset base.
-3. Desarrollo de mini casos sobre el corpus procesado.
-4. Evaluación, interpretación y redacción del informe final.
+---
 
-## Cómo revisar el proyecto
+### 4. Asistente documental semántico
+- Objetivo: sistema de búsqueda sobre el corpus.
+- Técnicas:
+  - chunking de documentos largos
+  - TF-IDF / embeddings
+  - similitud coseno
+- Output:
+  - fragmentos relevantes
+  - trazabilidad (doc_id, PDF)
 
-```bash
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-jupyter notebook notebooks/00_main_pipeline.ipynb
-```
+---
 
-## Documentación clave
+### 5. Generación automática de fichas documentales
+- Objetivo: enriquecer el corpus con resúmenes estructurados.
+- Contenido:
+  - resumen corto y extendido
+  - actores
+  - instituciones
+  - fechas
+  - temas
+- Enfoque:
+  - extractivo o generativo controlado
 
-- [docs/informe_intermedio.pdf](docs/informe_intermedio.pdf)
-- [docs/ENTREGA_PARCIAL_ESTADO.md](docs/ENTREGA_PARCIAL_ESTADO.md)
-- [DECISIONES_notebook.md](DECISIONES_notebook.md)
+---
 
-## Pendiente antes de enviar la entrega parcial
+## Estado real por iniciativa
 
-- Confirmar externamente los permisos de acceso al profesorado.
-- Revisar la exportación final del informe actualizado a PDF.
-- Revisar que el informe y el repositorio usen exactamente los mismos mini casos.
+- `EDA documental`: implementado completamente  
+- `Clasificación supervisada`: definido  
+- `Clustering`: definido  
+- `Grafo de entidades`: definido  
+- `Asistente semántico`: definido (con análisis de longitud avanzado)  
+- `Fichas documentales`: definido  
+
+---
+
+## Metodología
+
+### Pipeline de trabajo
+
+1. Ingesta y extracción  
+2. Limpieza base (conservadora)  
+3. Procesamiento NLP específico  
+4. Feature engineering  
+5. Modelado  
+6. Evaluación e interpretación  
+
+### Principios clave
+
+- Reproducibilidad  
+- Trazabilidad  
+- Separación clara entre EDA y modelado  
+- Evitar fuga de información  
+
