@@ -1,0 +1,6729 @@
+source,target,weight
+Congreso,Guardia Civil,39
+Congreso,España,31
+Congreso,General Armada,29
+CESID,Congreso,26
+España,Madrid,26
+España,Guardia Civil,26
+Armada,Congreso,25
+Constitución,Guardia Civil,24
+Congreso,Constitución,24
+Guardia Civil,Madrid,23
+General Armada,Guardia Civil,22
+Constitución,España,22
+Guardia Civil,Valencia,21
+Congreso,Madrid,21
+Armada,Guardia Civil,21
+Congreso,Valencia,21
+CESID,Guardia Civil,19
+Armada,General Armada,19
+España,General Armada,19
+Constitución,Valencia,17
+Armada,España,17
+Constitución,Madrid,17
+España,Valencia,16
+Congreso,Gobierno,16
+España,Gobierno,16
+Congreso,López Montero,16
+Congreso,Zarzuela,14
+CESID,España,14
+General Armada,Valencia,14
+Congreso,Coronel Manchado,14
+Armada,Valencia,14
+Armada,Constitución,14
+Gobierno,Guardia Civil,14
+Guardia Civil,López Montero,13
+Armada,Madrid,13
+CESID,General Armada,13
+Constitución,General Armada,13
+Capitán Gómez Iglesias,Congreso,13
+Comandante Pardo,Congreso,13
+Congreso,General Juste,13
+Congreso,JUJEM,13
+Constitución,Gobierno,12
+General Juste,Guardia Civil,12
+Armada,General Juste,12
+General Armada,General Juste,12
+Comandante Pardo,Guardia Civil,12
+Congreso,General Aramburu,12
+Armada,CESID,12
+Coronel Manchado,Guardia Civil,12
+CESID,Madrid,12
+Código de Justicia Militar,Madrid,12
+Guardia Civil,JUJEM,12
+CESID,Constitución,12
+Coronel Manchado,General Armada,11
+Congreso,El Presidente,11
+Guardia Civil,Guardias Civiles,11
+CESID,Capitán Gómez Iglesias,11
+General Armada,López Montero,11
+España,Estado,11
+Congreso,Gómez Iglesias,11
+Madrid,Valencia,11
+Gobierno,Madrid,11
+Capitán Abad,Congreso,11
+Comandante Pardo,General Armada,11
+Armada,López Montero,11
+Capitán Abad,Guardia Civil,11
+Congreso,Guardias Civiles,11
+Armada,Zarzuela,11
+Congreso,Después,11
+Congreso,Su Majestad,11
+Congreso,Torres Rojas,11
+Congreso,Teniente,11
+Guardia Civil,Zarzuela,11
+Guardia Civil,Gómez Iglesias,10
+Congreso,Servicio,10
+España,General Juste,10
+Comandante Cortina,Congreso,10
+JUJEM,Valencia,10
+CESID,Coronel Manchado,10
+Capitán Gómez Iglesias,Guardia Civil,10
+CESID,Gómez Iglesias,10
+General Armada,Zarzuela,10
+Congreso,Cortina,10
+Armada,Torres Rojas,10
+CESID,Valencia,10
+General Aramburu,Guardia Civil,10
+España,Zarzuela,10
+Congreso,Pardo,10
+España,JUJEM,10
+Guardia Civil,Pardo,10
+Valencia,Zarzuela,10
+Fuerzas Armadas,Madrid,10
+General Armada,Madrid,10
+Guardia Civil,Servicio,10
+Después,Guardia Civil,10
+Congreso,Juan Gris,9
+Cortina,Guardia Civil,9
+General Milans,Guardia Civil,9
+General Armada,Torres Rojas,9
+Madrid,Sala de Justicia,9
+General Armada,General Milans,9
+CESID,Comandante Cortina,9
+GUARDIA,Madrid,9
+Guardia Civil,Torres Rojas,9
+Armada,Comandante Pardo,9
+General Armada,Pardo,9
+Constitución,Zarzuela,9
+General Armada,Gobierno,9
+Congreso,Coronel San Martín,9
+Comandante Cortina,Guardia Civil,9
+Congreso,S.M. el Rey,9
+CESID,López Montero,9
+General Aramburu,General Armada,9
+Gobierno,JUJEM,9
+Congreso,Pardo Zancada,9
+Madrid,SEÑOR,9
+Guardia Civil,Teniente,9
+Consejo Supremo de Justicia Militar,Madrid,9
+Congreso,llegó,9
+Gobierno,López Montero,9
+España,General Aramburu,9
+España,Torres Rojas,8
+España,Su Majestad,8
+CESID,Su Majestad,8
+Congreso,General Milans,8
+Armada,General Aramburu,8
+División,España,8
+Congreso,General Milans del Bosch,8
+Capitán Batista,Congreso,8
+Coronel Ibañez,Valencia,8
+Coronel San Martín,Guardia Civil,8
+Constitución,Fuerzas Armadas,8
+CESID,Gobierno,8
+Constitución,Coronel Manchado,8
+Constitución,División,8
+Congreso,Coronel Ibañez,8
+Comandante Pardo,España,8
+Congreso,Consejo,8
+Coronel Ibañez,Guardia Civil,8
+Estado,Madrid,8
+Estado Mayor,Guardia Civil,8
+Madrid,Zarzuela,8
+Congreso,Consejeros,8
+General Milans del Bosch,Guardia Civil,8
+Consejo Reunido,Madrid,8
+Capitán Batista,Guardia Civil,8
+Guardia Civil,Su Majestad,8
+General Armada,Guardias Civiles,8
+CESID,Zarzuela,8
+Comandante,Guardia Civil,8
+Armada,Gómez Iglesias,8
+Comandante,Congreso,8
+Comandante Pardo,General Juste,8
+Capitán Gómez Iglesias,Gómez Iglesias,8
+Armada,Capitán Gómez Iglesias,8
+Armada,Coronel Manchado,8
+Gobierno,Valencia,8
+España,López Montero,8
+Armada,Pardo,8
+Capitán Gómez Iglesias,Comandante Cortina,8
+Constitución,JUJEM,8
+CESID,Cortina,8
+España,Fuerzas Armadas,8
+Guardias Civiles,Madrid,8
+General Armada,Su Majestad,8
+Congreso de los Diputados,Madrid,8
+Coronel Ibáñez,General Armada,8
+Congreso,Gral,8
+Capitán Gómez Iglesias,General Armada,8
+Congreso,Estado Mayor,8
+Armada,Gobierno,8
+Constitución,Estado,8
+Capitán Abad,General Armada,8
+López Montero,Valencia,8
+General Armada,Gómez Iglesias,8
+Capitán Abad,Coronel Manchado,8
+Guardia Civil,Región,8
+Congreso,Consejo Supremo de Justicia Militar,8
+CESID,Niega,7
+Constitución,Teniente,7
+Madrid,Teniente,7
+Comte,Congreso,7
+Congreso,Operación,7
+Congreso,Niega,7
+Guardia Civil,llegó,7
+Consejo Reunido,Código de Justicia Militar,7
+Gobierno,Zarzuela,7
+Constitución,López Montero,7
+Coronel Ibañez,López Montero,7
+Autoridad Militar,Congreso,7
+Pardo,Valencia,7
+Capitán Gómez Iglesias,España,7
+Guardia Civil,Policía Nacional,7
+Congreso,Presidente del Tribunal,7
+CESID,General Aramburu,7
+Coronel Manchado,España,7
+Coronel Manchado,Pardo,7
+Congreso,Milans,7
+Congreso,Quintana,7
+CESID,Pardo,7
+JUJEM,Madrid,7
+General Milans,Valencia,7
+Coronel Manchado,Guardias Civiles,7
+Armada,JUJEM,7
+Estado Mayor,Valencia,7
+Guardia Civil,Presidente del Tribunal,7
+Congreso,calle General Cabrera,7
+Consejo Reunido,Sala de Justicia,7
+Cortina,España,7
+Madrid,Providencia,7
+Constitución,Torres Rojas,7
+General Aramburu,General Juste,7
+El Presidente,Guardia Civil,7
+Madrid,Real Decreto,7
+Congreso,División,7
+General Juste,López Montero,7
+Armada,Cortina,7
+Ejército,Guardia Civil,7
+Madrid,S.M. el Rey,7
+Madrid,Su Majestad,7
+Cortina,Pardo,7
+El Presidente,López Montero,7
+Congreso,Coronel Ibáñez,7
+Capitanía,Congreso,7
+Constitución,Región,7
+Armada,Coronel San Martín,7
+Congreso,Ministerio Fiscal,7
+ARMADA,Constitución,7
+Coronel San Martín,General Armada,7
+ARMADA,Congreso,7
+Constitución,Guardias Civiles,7
+España,Pardo Zancada,7
+General Juste,Valencia,7
+Comandante Cortina,General Armada,7
+General Armada,General Milans del Bosch,7
+España,Gómez Iglesias,7
+División,Guardia Civil,7
+Consejeros,Guardia Civil,7
+Armada,Coronel Ibañez,7
+Coronel Manchado,General Aramburu,7
+Comandante Pardo,Constitución,7
+Comandante Pardo,General Aramburu,7
+Guardia Civil,S.M. el Rey,7
+Consejo Reunido,Providencia,7
+Capitán Gómez Iglesias,Coronel Manchado,7
+Guardia Civil,Juan Gris,7
+Torres Rojas,Valencia,7
+SEÑOR,Sala de Justicia,6
+El Presidente,General Armada,6
+ARMADA,Zarzuela,6
+Consejo Supremo el Consejero Togado Juez Especial,Madrid,6
+CESID,Enero,6
+Congreso,Declaración,6
+CONSEJO SUPREMO,Sala de Justicia,6
+Comandante,España,6
+López Montero,Madrid,6
+Código de Justicia Militar,Sala de Justicia,6
+General Armada,llegó,6
+ARMADA,Guardia Civil,6
+Congreso,Jefes,6
+España,S.M. el Rey,6
+Región,Valencia,6
+Congreso,Fuerzas Armadas,6
+Comandante Cortina,Gómez Iglesias,6
+Coronel Manchado,Madrid,6
+España,llegó,6
+Consejo Reunido,SEÑOR,6
+General Armada,JUJEM,6
+España,Policía Nacional,6
+MICROFILMACION,Madrid,6
+Madrid,Monarquía,6
+S.M. el Rey,Valencia,6
+Su Majestad,Valencia,6
+Bando,Congreso,6
+Congreso,General ARMADA,6
+España,General ARMADA,6
+Código de Justicia Militar,SEÑOR,6
+Guardia Civil,de Valencia,6
+CESID,JUJEM,6
+Providencia,SEÑOR,6
+Código de Justicia Militar,Providencia,6
+Providencia,Sala de Justicia,6
+Consejo Supremo de Justicia Militar,Guardia Civil,6
+Madrid,Marzo,6
+Constitución,Después,6
+Dirección General de la Guardia Civil,Madrid,6
+Fecha N,Madrid,6
+Consejo Supremo el Consejero Togado Juez Especial,Sala de Justicia,6
+EJERCITO,Madrid,6
+Guardia Civil,Parlamento,6
+Capitán Gómez Iglesias,Madrid,6
+Consejo Reunido,Real Decreto,6
+Congreso,Región,6
+Autoridad Militar,España,6
+Providencia,Real Decreto,6
+Consejo Supremo el Consejero Togado Juez Especial,Providencia,6
+Real Decreto,SEÑOR,6
+Consejo Reunido,Consejo Supremo el Consejero Togado Juez Especial,6
+Madrid,Región,6
+Gral,Guardia Civil,6
+Causa,Madrid,6
+Armada,Guardias Civiles,6
+Capitán Gómez Iglesias,calle General Cabrera,6
+España,Ministerio Fiscal,6
+General Milans,López Montero,6
+Cuartel General,Guardia Civil,6
+Comandante Pardo,Valencia,6
+Comandante Pardo,Madrid,6
+General Juste,Presidente del Tribunal,6
+Capitán Batista,López Montero,6
+España,Juan Gris,6
+Coronel Manchado,Gómez Iglesias,6
+Comandante Pardo,López Montero,6
+Comandante Pardo,Coronel Manchado,6
+Comandante Cortina,Comandante Pardo,6
+Capitán Gómez Iglesias,Comandante Pardo,6
+Capitán Abad,General Aramburu,6
+Capitán Abad,Comandante Pardo,6
+CESID,Ministerio Fiscal,6
+CESID,Comandante Pardo,6
+Al Sr. Hermosilla,Congreso,6
+El General,España,6
+Al Sr. Hermosilla,Guardia Civil,6
+Armada,Teniente,6
+España,Estado Mayor,6
+Ejército,Madrid,6
+Teniente,Valencia,6
+Coronel Ibañez,General Armada,6
+CESID,Continúa,6
+Armada,El Presidente,6
+Cortina,Gómez Iglesias,6
+Capitanía,Constitución,6
+Congreso,Sr. Hermosilla,6
+CESID,Consejo Supremo de Justicia Militar,6
+Armada,llegó,6
+Congreso,Estado,6
+Armada,Sr. Hermosilla,6
+Allí,Guardia Civil,6
+Allí,Congreso,6
+General Armada,Juan Gris,6
+General Armada,Servicio,6
+España,Teniente,6
+Guardia Civil,Oficiales,6
+El Presidente,España,6
+Cortina,Madrid,6
+Cortina,General Armada,6
+Congreso,Miguel,6
+CESID,El Presidente,6
+España,General Milans del Bosch,6
+Constitución,General Juste,6
+Congreso,Guardias,6
+España,General Milans,6
+Capitán Abad,España,6
+Armada,Milans,6
+Gobierno,Parlamento,6
+General Armada,Milans,6
+Consejo Supremo de Justicia Militar,España,6
+Armada,Quintana,6
+General Armada,Teniente,6
+Comandante,Constitución,6
+Coronel Manchado,Valencia,6
+Guardia Civil,Milans,6
+Congreso,de Valencia,6
+General Milans del Bosch,Valencia,6
+Coronel Ibañez,JUJEM,6
+Coronel Ibañez,Gobierno,6
+Fuerzas Armadas,Gobierno,6
+General Armada,Presidente del Tribunal,6
+España,Pardo,6
+Congreso,Policía Nacional,6
+Congreso,Teniente General Milans,5
+Congreso,Enero,5
+Centro,Madrid,5
+Valencia,de Valencia,5
+Fuerzas Armadas,Guardia Civil,5
+Coronel Manchado,Cortina,5
+Congreso de los Diputados,Guardia Civil,5
+Armada,calle General Cabrera,5
+España,calle General Cabrera,5
+Congreso de los Diputados,Constitución,5
+Enero,General Armada,5
+Estado,Guardia Civil,5
+España,Ministro de Defensa,5
+Coronel Ibañez,General Juste,5
+Guardia Civil,calle General Cabrera,5
+España,Gral,5
+Coronel San Martín,General Juste,5
+Coronel San Martín,Valencia,5
+General Juste,Torres Rojas,5
+General Armada,calle General Cabrera,5
+Madrid,SITUACION,5
+Capitán Gómez Iglesias,Zarzuela,5
+CESID,General Juste,5
+Armada,Juan Gris,5
+Armada,Comandante Cortina,5
+Gómez Iglesias,Zarzuela,5
+Además,Guardia Civil,5
+El Presidente,Gobierno,5
+General Armada,Quintana,5
+General Armada,Operación,5
+Armada,Coronel Ibáñez,5
+España,Guardias Civiles,5
+Guardia Civil,Teniente General Milans,5
+Armada,Operación,5
+Coronel Ibáñez,España,5
+General Armada,Teniente General Milans,5
+Coronel San Martín,Pardo,5
+Comandante Pardo,Zarzuela,5
+Quintana,Zarzuela,5
+ARMADA,España,5
+Consejo Supremo el Consejero Togado Juez Especial,Real Decreto,5
+JUJEM,López Montero,5
+Congreso,Cuartel General,5
+Armada,Comte,5
+Comte,Torres Rojas,5
+Abril,Madrid,5
+Constitución,General Aramburu,5
+ENTRADA,Madrid,5
+Al Sr. Hermosilla,Armada,5
+Al Sr. Hermosilla,General Armada,5
+Consejo Supremo el Consejero Togado Juez Especial,SEÑOR,5
+Al Sr. Hermosilla,Valencia,5
+Consejo Supremo el Consejero Togado Juez Especial,Código de Justicia Militar,5
+Congreso,Muñoz Perea,5
+Coronel Ibañez,General Milans,5
+Constitución,Coronel Ibañez,5
+CESID,Coronel Ibañez,5
+Comandante Pardo,Gobierno,5
+Congreso,Gral. Armada,5
+Armada,Servicio,5
+López Montero,Zarzuela,5
+Consejo,Su Majestad,5
+Armada,Consejeros,5
+Armada,Estado Mayor,5
+Constitución,Parlamento,5
+Congreso,Hermosilla,5
+General Juste,Pardo,5
+Gómez Iglesias,Pardo,5
+Guardia Civil,Operación,5
+Armada,Gral. Armada,5
+Operación,Zarzuela,5
+Dirección General de la Guardia Civil,Guardia Civil,5
+ARMADA,Madrid,5
+CONSEJO SUPREMO,Madrid,5
+CONSEJO SUPREMO,Consejo Reunido,5
+Real Decreto,Sala de Justicia,5
+Código de Justicia Militar,Real Decreto,5
+ARMADA,General ARMADA,5
+Constitución,Coronel San Martín,5
+Congreso,General Gutiérrez Mellado,5
+Congreso,Santamaría,5
+Constitución,General Milans,5
+General ARMADA,JUJEM,5
+España,Presidente del Tribunal,5
+CESID,General ARMADA,5
+Guardia Civil,Niega,5
+Autoridad Militar,CESID,5
+Presidente del Tribunal,Valencia,5
+Consejo,España,5
+Capitán Abad,Servicio,5
+General Gutiérrez Mellado,Guardia Civil,5
+Capitán Gómez Iglesias,Valencia,5
+Coronel Manchado,Gobierno,5
+Constitución,rebelión,5
+Constitución,llegó,5
+Guardia Civil,Jefes,5
+Congreso,rebelión,5
+Guardia Civil,ningún,5
+CESID,Declaración,5
+CESID,Juan Gris,5
+Capitán Gómez Iglesias,Constitución,5
+Capitán Acera,Congreso,5
+Congreso,Ordenanzas,5
+Capitán Abad,Constitución,5
+Capitán Batista,General Juste,5
+Guardia Civil,Región Militar,5
+Gobierno,Región,5
+Bando,Constitución,5
+Bando,Valencia,5
+Gobierno,Mando,5
+Capitanía,Guardia Civil,5
+Comandante,Valencia,5
+Congreso,Región Militar,5
+Constitución,General ARMADA,5
+Constitución,Servicio,5
+Gobierno,Región Militar,5
+JUJEM,Zarzuela,5
+Guardia Civil,Pardo Zancada,5
+Armada,Capitán Abad,5
+Armada,General Milans,5
+Armada,Presidente del Tribunal,5
+CESID,Capitán Abad,5
+CESID,General Milans,5
+Gral,JUJEM,5
+España,Mando,5
+Congreso,Mando,5
+Autoridad Militar,Guardia Civil,5
+Capitán Abad,Capitán Gómez Iglesias,5
+CESID,calle General Cabrera,5
+CESID,Guardias Civiles,5
+Capitán Abad,Gómez Iglesias,5
+Congreso,Gabeiras,5
+Constitución,S.M. el Rey,5
+Consejeros,España,5
+Constitución,Estado Mayor,5
+Continúa,Su Majestad,5
+El Presidente,Valencia,5
+España,Miguel,5
+Congreso,Reina,5
+Congreso,Presidente del Gobierno,5
+Congreso,Palacio de la Zarzuela,5
+Congreso,Oficiales,5
+Consejo Supremo de Justicia Militar,General Armada,5
+Comandante Pardo,Coronel San Martín,5
+Guardia Civil,Miguel,5
+Allí,Armada,5
+Armada,S.M. el Rey,5
+Armada,Lérida,5
+Armada,General Milans del Bosch,5
+CESID,Torres Rojas,5
+ARMADA,Valencia,5
+Armada,Capitán Batista,5
+Capitán Batista,España,5
+Capitán Batista,General Armada,5
+Constitución,Su Majestad,5
+Comandante Cortina,López Montero,5
+Después,España,5
+Después,Estado Mayor,5
+España,Jefes,5
+Comandante Pardo,Gómez Iglesias,5
+Torres Rojas,Zarzuela,5
+Coronel San Martín,España,5
+S.M. el Rey,Zarzuela,5
+General Aramburu,Gómez Iglesias,5
+Reina,Valencia,5
+Guardia Civil,Ministerio Fiscal,5
+Consejo,Guardia Civil,5
+Capitán Batista,Comandante Pardo,5
+Capitán Gómez Iglesias,Cortina,5
+Guardia Civil,Reina,5
+Congreso,Villalonga,5
+Cortina,Valencia,5
+General Armada,S.M. el Rey,5
+Gabeiras,Valencia,5
+Juan Gris,Valencia,5
+Gabeiras,Guardia Civil,5
+Estado Mayor,Zarzuela,5
+España,Región,5
+Después,Valencia,5
+Armada,Santamaría,5
+Abad,Armada,5
+Ayudante,España,5
+División,Gobierno,5
+Exmo,Madrid,5
+España,GUARDIA,5
+Ejército,Guardias Civiles,5
+Además,Constitución,5
+Congreso,Ejército,5
+Capitanía,España,5
+Ayudante,Guardia Civil,5
+Congreso,Policía Militar,5
+Guardia Civil,Guardias,5
+Congreso,GUARDIA,5
+Congreso,Lleva,5
+General Armada,TORNO AL DESARROLLO,5
+Guardia Civil,Sevilla,5
+General Armada,Policía Militar,5
+Congreso,TORNO AL DESARROLLO,5
+General Armada,Policía Nacional,5
+Ejército,España,5
+Estado,Fuerzas Armadas,5
+Constitución,Cortina,5
+Además,España,5
+España,Patria,5
+Madrid,POLICIA,5
+Estado,Gobierno,5
+Congreso,Diputados,5
+Ante,Congreso,5
+Diputados,Guardia Civil,5
+General Armada,Jefes,5
+CESID,RESUMEN,4
+CESID,Pardo Zancada,4
+Guardia Civil,Según,4
+Madrid,Oficiales,4
+Hermosilla,Pardo,4
+Hermosilla,Zarzuela,4
+Guardia Civil,Policía Militar,4
+Armada,Consejo,4
+CESID,General TORRES,4
+Congreso,Oficial,4
+Coronel San Martín,Sr. De Miguel,4
+Congreso,Director General de la Guardia Civil,4
+Director General de la Guardia Civil,General Aramburu,4
+Congreso,RESUMEN,4
+Guardia Civil,Menéndez,4
+Comandante Pardo,General Milans,4
+Comandante Pardo,Coronel Ibañez,4
+Gral,Pardo Zancada,4
+CESID,Consejo,4
+Armada,Comenzó,4
+General Juste,calle General Cabrera,4
+CESID,Comenzó,4
+Gobierno,Pardo,4
+Junio,Madrid,4
+Guardia Civil,Hermosilla,4
+Guardia Civil,Quintana,4
+Director General de la Guardia Civil,Guardia Civil,4
+Guardia Civil,Sr. De Miguel,4
+Congreso,División Azul,4
+General Milans,Madrid,4
+ARMADA,CESID,4
+Consejeros,Consejo,4
+Autoridad Militar,Madrid,4
+Constitución,Ejército,4
+España,Pavía,4
+El General,General Armada,4
+Comandante Cortina,Constitución,4
+Coronel San Martín,Torres Rojas,4
+Comandante Cortina,Valencia,4
+Sr. Hermosilla,Zarzuela,4
+Comandante Pardo,Teniente,4
+Al Sr. Hermosilla,López Montero,4
+López Montero,Milans,4
+Congreso,Interrogatorio,4
+Comandante Cortina,Zarzuela,4
+Congreso,El General,4
+Congreso,De Miguel,4
+Al Sr. Hermosilla,Gobierno,4
+Comandante Pardo Zancada,General Armada,4
+Fuerzas Armadas,Jefe Supremo,4
+Consejo,Constitución,4
+Congreso,Conversaciones,4
+Congreso,PREJUJEM,4
+General Torres Rojas,López Montero,4
+Conversaciones,General ARMADA,4
+Milans,Pardo,4
+Lleva,Madrid,4
+General Aramburu,Gobierno,4
+España,Parlamento,4
+Guardia Civil,Oficial,4
+General Aramburu,llegó,4
+General Armada,ningún,4
+Operación,Quintana,4
+Capitán Batista,Valencia,4
+General Juste,Gobierno,4
+Armada,Región Militar,4
+España,PREJUJEM,4
+Capitán Dusmet,Congreso,4
+Pardo,Zarzuela,4
+Armada,Muñoz Perea,4
+Capitán Dusmet,Guardia Civil,4
+General Torres Rojas,Guardia Civil,4
+Coronel San Martín,Gómez Iglesias,4
+Alcalá,Guardia Civil,4
+Cuartel General,General Armada,4
+GUARDIA,Guardia Civil,4
+Jefes,llegó,4
+López Montero,Sanz Arribas,4
+Gobierno,llegó,4
+Sanz Arribas,Valencia,4
+Capitán Batista,Gobierno,4
+Servicio,llegó,4
+General Armada,Mando,4
+Consejo Supremo de Justicia Militar,Gobierno,4
+Teniente,de Valencia,4
+Congreso,Manifiesta,4
+El Presidente,JUJEM,4
+CESID,Coronel San Martín,4
+Capitán de la Guardia Civil,Guardia Civil,4
+Armada,Enero,4
+Capitán Gómez Iglesias,Servicio,4
+Comandante Pardo,Servicio,4
+General Armada,Parlamento,4
+GUARDIA,Guardias Civiles,4
+Guardia Civil,Sanz Arribas,4
+Constitución,Monarquía,4
+Bando,España,4
+Valencia,llegó,4
+Asegura,General Armada,4
+General Armada,General Fernández Campos,4
+Constitución,de Valencia,4
+Comandante,JUJEM,4
+Gobierno,Sanz Arribas,4
+Gral,Gral. Armada,4
+Capitanía,Valencia,4
+Enero,Zarzuela,4
+Gral,Valencia,4
+España,Ministro de Asuntos Exteriores,4
+El Presidente,Su Majestad,4
+Instituciones,Madrid,4
+Guardia Civil,Teniente General Gutiérrez Mellado,4
+Guardia Civil,Valdemoro,4
+Bando,JUJEM,4
+Bando,Guardia Civil,4
+Constitución,Historia,4
+Congreso,Tráfico,4
+Constitución,División Azul,4
+Comandante Cortina,España,4
+Guardia Civil,Plaza de Neptuno,4
+Guardia Civil,SITUACION,4
+Guardia Civil,Mando,4
+Comenzó,Congreso,4
+Congreso,General Torres Rojas,4
+General Aramburu,Madrid,4
+Torres Rojas,calle General Cabrera,4
+Coronel Ibañez,Muñoz Perea,4
+General ARMADA,Guardia Civil,4
+Coronel Ibañez,Zarzuela,4
+Comandante Pardo,Sr. De Miguel,4
+Estado Mayor,Gobierno,4
+Madrid,PAMPLONA,4
+Congreso,Sr. De Miguel,4
+Coronel Manchado,Coronel San Martín,4
+Coronel Ibañez,España,4
+Coronel Manchado,Juan Gris,4
+Guardia Civil,POLICIA,4
+CESID,Capitán García Almenta,4
+Congreso,Orden,4
+Capitán García Almenta,Capitán Gómez Iglesias,4
+Constitución,POLICIA,4
+CESID,Después,4
+CESID,Comte,4
+Comandante Pardo,llegó,4
+Congreso,Superioridad,4
+Capitán Gómez Iglesias,General Aramburu,4
+Cuartel General,Valencia,4
+Capitán Gómez Iglesias,Juan Gris,4
+Comenzó,Zarzuela,4
+Ante,Valencia,4
+General Armada,de Valencia,4
+Armada,Hermosilla,4
+General Milans del Bosch,JUJEM,4
+Capitán Gómez Iglesias,Comandante,4
+Capitán García Almenta,Gómez Iglesias,4
+Capitán García Almenta,Congreso,4
+Capitán García Almenta,Comandante Cortina,4
+Comandante Pardo Zancada,Congreso,4
+Ante,España,4
+Guardias Civiles,Policía Nacional,4
+España,Presidente del Gobierno,4
+Armada,Ministerio Fiscal,4
+Armada,Miguel,4
+Continúa,Guardia Civil,4
+Coronel Ibáñez,Torres Rojas,4
+Allí,López Montero,4
+Consejo,Estado,4
+Después,López Montero,4
+Coronel Manchado,General Juste,4
+Coronel Manchado,Zarzuela,4
+El Presidente,Servicio,4
+España,Palacio de la Zarzuela,4
+Congreso,Sr. Zugasti,4
+ARMADA,Después,4
+ARMADA,División,4
+ARMADA,Estado Mayor,4
+Valencia,calle General Cabrera,4
+Coronel Manchado,Torres Rojas,4
+Congreso,General Fernández Campos,4
+Continúa,España,4
+Armada,Pardo Zancada,4
+Armada,Recibió,4
+Constitución,Miguel,4
+Gobierno,Monarquía,4
+Consejeros,General Armada,4
+Guardias Civiles,Gómez Iglesias,4
+Congreso,Recibió,4
+General Armada,Región,4
+General Armada,Oficiales,4
+General Armada,Lérida,4
+Teniente General Milans,Zarzuela,4
+Capitanía,Gobierno,4
+Galaxia,Guardias Civiles,4
+General Aramburu,Zarzuela,4
+Galaxia,General Armada,4
+Gabeiras,Zarzuela,4
+Constitución,El Presidente,4
+Autoridad Militar,Cortina,4
+Gabeiras,Torres Rojas,4
+General Prieto,Guardia Civil,4
+Batista,Congreso,4
+ARMADA,Región,4
+Congreso,la Ley,4
+Constitución,Reina,4
+España,POLICIA,4
+Después,División,4
+Miguel,Su Majestad,4
+General Gabeiras,General Juste,4
+López Montero,Servicio,4
+López Montero,Miguel,4
+García Carrés,General Armada,4
+García Carrés,Guardia Civil,4
+Constitución,General Milans del Bosch,4
+ARMADA,Su Majestad,4
+General Armada,General Prieto,4
+General Armada,General Gabeiras,4
+Madrid,SEGURIDAD,4
+General Armada,Miguel,4
+Congreso,Galaxia,4
+General Aramburu,Guardias Civiles,4
+Congreso,Lérida,4
+General Armada,Teniente General Milans del Bosch,4
+PAMPLONA,POLICIA,4
+España,Villalonga,4
+PAMPLONA,SEGURIDAD,4
+Armada,Su Majestad,4
+Abad,Gómez Iglesias,4
+Abad,Guardia Civil,4
+El Teniente Coronel Tejero,General Armada,4
+División,Valencia,4
+Abad,Congreso,4
+División,Región,4
+Congreso,Muñecas,4
+División,General Armada,4
+Armada,Después,4
+Después,Zarzuela,4
+Armada,Gabeiras,4
+Armada,Galaxia,4
+POLICIA,SEGURIDAD,4
+Armada,Oficiales,4
+España,General Gabeiras,4
+Armada,Región,4
+Armada,Reina,4
+Congreso,Teniente General Milans del Bosch,4
+Congreso,Regiones Militares,4
+Gómez Iglesias,Servicio,4
+Capitán Gómez Iglesias,General Juste,4
+Fuerzas Armadas,Valencia,4
+Capitán Acera,Coronel Manchado,4
+Capitanías,Congreso,4
+CESID,rebelión,4
+CESID,Teniente,4
+Miguel,Torres Rojas,4
+Guardia Civil,Villalonga,4
+Capitanías,General Armada,4
+CESID,Capitán Acera,4
+Congreso,García Carrés,4
+Boza Carranco,Teniente,4
+López Montero,Torres Rojas,4
+Congreso,Instituciones,4
+España,Monarquía,4
+Boza Carranco,Congreso,4
+Gral,Madrid,4
+S.M. el Rey,Teniente,4
+General Armada,General Caruana,4
+Armada,Capitanía,4
+Capitán Gómez Iglesias,López Montero,4
+Al Sr. Hermosilla,Coronel Ibañez,4
+JUJEM,de Valencia,4
+Congreso,Ministro de Defensa,4
+Guardias Civiles,Sevilla,4
+López Montero,Teniente,4
+Consejo,Valencia,4
+Guardias Civiles,Teniente,4
+Congreso,Teniente General,4
+Gobierno,Teniente,4
+Armada,Teniente General Milans,4
+Armada,General Gabeiras,4
+General Aramburu,Pardo,4
+Coronel Manchado,López Montero,4
+Cortina,Villalonga,4
+Cortina,General Aramburu,4
+España,Milans,4
+Congreso,General Caruana,4
+Congreso,Sumario,4
+Armada,De Miguel,4
+ALCAZAR,Constitución,4
+ALCAZAR,España,4
+España,Sección,4
+Guardias Civiles,Torres Rojas,4
+Autoridades,Constitución,4
+Autoridades,Guardia Civil,4
+Comandante Cortina,General Milans,4
+Constitución,Ministerio Fiscal,4
+Constitución,Policía Nacional,4
+Guardia Civil,Presidente del Gobierno,4
+CAPITAN,Madrid,4
+Congreso,General Gabeiras,4
+Constitución,Gómez Iglesias,4
+División,Policía Nacional,4
+Congreso,General Prieto,4
+Guardia Civil,Palacio de la Zarzuela,4
+Guardia Civil,Lérida,4
+Comandante Cortina,Servicio,4
+General Milans del Bosch,Torres Rojas,4
+Congreso,Continúa,4
+Congreso,El Teniente Coronel Tejero,4
+Continúa,Cortina,4
+CESID,Villalonga,4
+ALCAZAR,Guardia Civil,4
+Comte,General Armada,4
+General Armada,Hermosilla,4
+Además,Congreso,4
+Su Majestad,Zarzuela,4
+Reina,Zarzuela,4
+Región,Zarzuela,4
+General Caruana,Valencia,4
+España,Sr. Hermosilla,4
+Guardia Civil,Regiones Militares,4
+CESID,Consejeros,4
+General Juste,Madrid,4
+General Juste,Zarzuela,4
+Congreso,Su Majestad el Rey,4
+Gobierno,Su Majestad,4
+CESID,Miguel,4
+General Milans,Zarzuela,4
+CESID,Servicio,4
+EUROPA,España,4
+Armada,General Miláns,4
+General Armada,Villalonga,4
+Congreso,ningún,4
+Operación,Valencia,4
+España,Teniente General,4
+Madrid,Sevilla,4
+Estado Mayor,JUJEM,4
+Cuartel General,General Juste,4
+Coronel Ibañez,Madrid,4
+Madrid,Noviembre,4
+General Gutiérrez Mellado,Teniente,4
+Guardias Civiles,Servicio,4
+Guardia Civil,Muñoz Perea,4
+Guardias Civiles,Región,4
+Comandante,General Armada,4
+Coronel Ibañez,Gral. Armada,4
+Guardia Civil,VALENCIA,4
+Capitán Muñecas,Guardia Civil,4
+General Juste,Gómez Iglesias,4
+General Juste,Lérida,4
+Guardia Civil,Málaga,4
+Capitán Muñecas,Congreso,4
+Congreso,Tejero,4
+General ARMADA,Valencia,4
+Fuerza Nueva,Madrid,4
+General ARMADA,Zarzuela,4
+Coronel Alcalá Galiano,Valencia,4
+Capitán Gómez Iglesias,Pardo,4
+JUJEM,Región,4
+España,Servicio,4
+Allí,General Armada,4
+Capitán Abad,llegó,4
+España,Informe,4
+Guardia Civil,rebelión,4
+JUJEM,Pardo,4
+Enero,Valencia,4
+Después,Servicio,4
+Cortina,General Juste,4
+Constitución,Presidente del Tribunal,4
+Armada,Parlamento,4
+Guardia Civil,teléfono,4
+General Armada,Pardo Zancada,4
+Constitución,Pardo,4
+Constitución,Ordenanzas,4
+Operación,llegó,4
+General Armada,Sr. Hermosilla,4
+Enero,Guardia Civil,4
+General Armada,Teniente General Miláns,4
+CONSEJO SUPREMO,SEÑOR,4
+España,SITUACION,4
+Región,Zona,4
+Madrid,Pardo,4
+CESID,Centro,4
+Congreso,Sr. García Carrés,4
+Diputados,Zarzuela,4
+General Milans,Gobierno,4
+Coronel Ibañez,Torres Rojas,4
+Coronel Ibañez,Sanz Arribas,4
+Gobierno,Muñoz Perea,4
+Congreso,Hotel Palace,4
+Congreso,Información,4
+Gral. Armada,López Montero,4
+Aramburu,Armada,4
+CONSEJO SUPREMO,Real Decreto,4
+España,TORNO AL DESARROLLO,4
+CONSEJO SUPREMO,Providencia,4
+Aramburu,Congreso,4
+Consejo Reunido,EXCMO,4
+CONSEJO SUPREMO,Código de Justicia Militar,4
+CONSEJO SUPREMO,Consejo Supremo el Consejero Togado Juez Especial,4
+Congreso,El Teniente,4
+Aramburu,España,4
+Lérida,Pardo,4
+Ministerio Fiscal,Su Majestad,4
+El General,Valencia,4
+Aramburu,Guardia Civil,4
+Capitán Abad,Guardias Civiles,4
+CESID,Escandell,4
+Sr. García Carrés,Valencia,4
+Su Majestad,TORNO AL DESARROLLO,4
+Ayudante,General Armada,4
+Coronel Manchado,Policía Militar,4
+Ayudante,Congreso,4
+EXCMO,SEÑOR,4
+EXCMO,Providencia,4
+EXCMO,Madrid,4
+Coronel Manchado,JUJEM,4
+CESID,Policía Militar,4
+Congreso,Coronel Alcalá Galiano,4
+Congreso,Escandell,4
+Teniente General,Valencia,4
+Gral. Armada,Guardia Civil,4
+El Teniente,Guardia Civil,4
+Región Militar,Valencia,4
+Armada,Coronel Alcalá Galiano,4
+Capitán Abad,Pardo,4
+Armada,Escandell,4
+Armada,Gral,4
+Consejo Supremo de Justicia Militar,Declaración,4
+Congreso,Miláns del Bosch,4
+Pardo,Presidente del Tribunal,4
+Servicio,Zarzuela,4
+Código de Justicia Militar,General de División,4
+Abril,Código de Justicia Militar,4
+Armada,Sanz Arribas,4
+Constitución,SITUACION,4
+Congreso,Nación,4
+Constitución,Escandell,4
+Guardia Civil,Sanz Esteban,4
+General de División,Madrid,4
+Congreso,Parlamento,4
+Teniente,Zarzuela,4
+Estado Mayor del Ejército,Madrid,4
+Congreso,Sanz Arribas,4
+Capitán Abad,Capitán Muñecas,4
+Europa,Madrid,4
+Capitán Acera,Guardia Civil,4
+Madrid,Señor,4
+López Montero,Muñoz Perea,4
+Congreso,Teniente General Miláns,4
+Congreso,General Miláns,4
+Informe,Madrid,4
+España,Operación,4
+Constitución,Región Militar,4
+Consejo Supremo de Justicia Militar,Constitución,4
+General Juste,General Milans,4
+Coronel San Martín,Cuartel General,4
+España,rebelión,4
+España,Londres,4
+Asegura,Congreso,4
+Congreso,Valdemoro,4
+General Milans,Presidente del Tribunal,4
+Madrid,Ministerio,4
+España,General Miláns,4
+Guardia Civil,Tejero,4
+El Presidente,Gral,4
+Guardia Civil,Ordenanzas,4
+España,Europa,4
+Coronel Ibáñez,Teniente General Miláns,4
+Muñoz Perea,Valencia,4
+Teniente General Milans,Valencia,4
+Congreso,Teniente General Gutiérrez Mellado,4
+General Milans,General Milans del Bosch,4
+Consejo,Fuerzas Armadas,4
+General Milans,JUJEM,4
+Constitución,Teniente General,4
+Guardia Civil,Sr. García Carrés,4
+Guardia Civil,Santamaría,4
+Consejo Supremo de Justicia Militar,Después,4
+Consejo,Madrid,4
+General Armada,Tejero,4
+España,Sr. García Carrés,4
+General Armada,Niega,4
+General Juste,JUJEM,4
+Fuerzas Armadas,Ordenanzas,3
+Congreso,Sevilla,3
+Capitán Acera,Constitución,3
+Juan Gris,Madrid,3
+El Fiscal,Guardia Civil,3
+Constitución,Presidente del Gobierno,3
+Constitución,General MILANS DEL BOSCH,3
+Meer,Valencia,3
+Coronel Manchado,Diputados,3
+El Fiscal,General Juste,3
+Congreso,Según,3
+El Fiscal,General Armada,3
+Alcalá,Armada,3
+Coronel Ibañez,Teniente General Milans,3
+Constitución,Oficiales,3
+Capitán Gómez Iglesias,Guardias Civiles,3
+Capitán Gómez Iglesias,Gobierno,3
+Capitán Acera,Guardias Civiles,3
+Pardo,Santamaría,3
+Bando,Coronel Ibañez,3
+Al Sr. Hermosilla,Constitución,3
+Capitán Acera,Capitán Gómez Iglesias,3
+Bando,Coronel Alcalá Galiano,3
+Coronel Ibañez,Presidente del Tribunal,3
+Capitán Acera,López Montero,3
+CESID,Presidente del Tribunal,3
+Al Sr. Hermosilla,Comandante Pardo,3
+Coronel Ibañez,General Caruana,3
+General Armada,Ignora,3
+CESID,Ejército,3
+Juan Gris,S.M. el Rey,3
+Muñoz Perea,Reina,3
+Oficial,Torres Rojas,3
+Capitán Abad,Madrid,3
+España,Gobierno Militar,3
+Valencia,Villalonga,3
+Abad,General Armada,3
+Abad,General Aramburu,3
+General Armada,Sumario,3
+General Caruana,General Juste,3
+Su Majestad,Torres Rojas,3
+General Caruana,General Milans,3
+Jefes,Policía Nacional,3
+General Armada,Muñoz Grandes,3
+BARCELONA,Madrid,3
+General Caruana,Guardia Civil,3
+Reina,S.M. el Rey,3
+General Armada,Generales Milans,3
+Muñoz Perea,Región Militar,3
+Armada,Palace,3
+General Armada,Regiones Militares,3
+Boza Carranco,Guardias Civiles,3
+López Montero,Reina,3
+España,Senado,3
+Policía Nacional,Según,3
+España,SEVILLA,3
+España,SEGURIDAD,3
+Capitán Gómez Iglesias,Teniente,3
+Guardia Civil,Patria,3
+España,POLITICA,3
+Capitán Abad,General Jefe,3
+Bando,CESID,3
+España,General Caruana,3
+Coroneles,España,3
+López Montero,Región Militar,3
+España,Jefes y Oficiales,3
+Policía Nacional,Suárez,3
+General Armada,Oficial,3
+General Armada,Sr. García Carrés,3
+España,Lérida,3
+Pide,Valencia,3
+Consejo,Teniente,3
+Ayudante,Constitución,3
+CESID,Región Militar,3
+Congreso,Jefe Supremo,3
+CESID,Palace,3
+Consejo,Cortina,3
+NUÑEZ,Teniente,3
+Al Sr. Hermosilla,General Milans del Bosch,3
+Madrid,calle General Cabrera,3
+Ante,Presidente del Tribunal,3
+Consejo,Gobierno,3
+López Montero,rebelión,3
+López Montero,calle General Cabrera,3
+Valencia,rebelión,3
+Al Sr. Hermosilla,General Milans,3
+General Jefe,Guardia Civil,3
+CESID,División Azul,3
+Armada,El Fiscal,3
+Armada,General Caruana,3
+Ante,General Juste,3
+Ante,General Caruana,3
+Coronel Alcalá Galiano,España,3
+Al Sr. Hermosilla,Zarzuela,3
+Consejero,Constitución,3
+Coronel Manchado,Guardias,3
+Al Sr. Hermosilla,Hermosilla,3
+Consejero,Guardia Civil,3
+Gobierno,la Ley,3
+Al Sr. Hermosilla,Pardo,3
+López Montero,de Valencia,3
+Consejero,Valencia,3
+Armada,Sr. García Carrés,3
+España,Jefe Supremo,3
+Armada,rebelión,3
+Ante,Bando,3
+Ayudante,Capitán Abad,3
+Boza,Congreso,3
+General Jefe,Pardo,3
+General Armada,Pintor Juan Gris,3
+Ante,General Armada,3
+España,la Ley,3
+Al Sr. Hermosilla,General Juste,3
+Gobierno,Guardias Civiles,3
+Santamaría,Valencia,3
+Comandante Pardo,Pardo,3
+Constitución,División Acorazada,3
+Cortina,S.M. el Rey,3
+JUJEM,Policía Militar,3
+Cortina,Teniente,3
+España,Suárez,3
+Alcalá,Comandante Pardo,3
+Constitución,Gabeiras,3
+Congreso,NUÑEZ,3
+Congreso,García Villalonga,3
+CESID,Capitán Dusmet,3
+Constitución,Galaxia,3
+España,PAMPLONA,3
+Comandante Pardo,Teniente General Milans,3
+Coronel Manchado,Ejército,3
+Congreso,El Fiscal,3
+CESID,General Milans del Bosch,3
+General Torres Rojas,Valencia,3
+CESID,Muñoz Grandes,3
+Alcalá,Congreso,3
+Comandante Pardo,El Fiscal,3
+Al Sr. Hermosilla,España,3
+Cortina,Juan Gris,3
+Bando,General Armada,3
+Bando,General Caruana,3
+Bando,General Juste,3
+Alcalá,General Armada,3
+General Aramburu,Torres Rojas,3
+General Armada,rebelión,3
+García Villalonga,López Montero,3
+Constitución,Juan Gris,3
+Coronel Manchado,calle General Cabrera,3
+Constitución,Villalonga,3
+Coronel Manchado,NUÑEZ,3
+García Carrés,Valencia,3
+Bando,Torres Rojas,3
+Información,JUJEM,3
+Bando,Presidente del Tribunal,3
+Constitución,calle General Cabrera,3
+España,Unidades,3
+Coronel Manchado,General Milans del Bosch,3
+Además,Servicio,3
+Después,Gabeiras,3
+Guardia Civil,Muñoz Grandes,3
+Teniente,Teniente General Milans,3
+El General Juste,Guardia Civil,3
+Madrid,Presidente del Tribunal,3
+Consejeros,Valencia,3
+División,Reina,3
+Madrid,Policía Militar,3
+Constitución,Continúa,3
+España,Está,3
+Galaxia,Lérida,3
+Constitución,Finaliza,3
+El Teniente Coronel Tejero,Guardia Civil,3
+Galaxia,Guardia Civil,3
+JUJEM,Muñoz Perea,3
+Al Sr. Hermosilla,Madrid,3
+El General Juste,General Armada,3
+Guardia Civil,parecía,3
+Madrid,Muñoz Grandes,3
+División,Zarzuela,3
+Consejeros,Su Majestad,3
+Consejeros,Servicio,3
+Galaxia,Zarzuela,3
+General Prieto,Guardias Civiles,3
+Generales Milans,Guardia Civil,3
+Consejeros,El Presidente,3
+Congreso,General Jefe,3
+El Gobierno,Gobierno,3
+Congreso,Generales Milans,3
+Congreso,Muñoz Grandes,3
+Madrid,Santamaría,3
+General Prieto,Jefes,3
+General Armada,Reina,3
+Al Sr. Quintana,Armada,3
+General Milans del Bosch,Quintana,3
+Al Sr. Hermosilla,Torres Rojas,3
+División,Estado Mayor,3
+JUJEM,Reina,3
+Alcalde,Guardia Civil,3
+El Presidente,Pardo Zancada,3
+Congreso,Sr. Sanz Arribas,3
+Gabeiras,Región,3
+Constitución,García Carrés,3
+Consejeros,Constitución,3
+Armada,Gobierno Militar,3
+Estado,Valencia,3
+JUJEM,Sr. García Carrés,3
+Continúa,Valencia,3
+Gobierno,Pavía,3
+Cortina,calle General Cabrera,3
+General Juste,Ignora,3
+General Juste,Guardias Civiles,3
+Coronel Manchado,General Jefe,3
+JUJEM,Santamaría,3
+Capitán Gómez Iglesias,Consejeros,3
+España,Reina,3
+JUJEM,Presidente del Tribunal,3
+Al Sr. Hermosilla,CESID,3
+El Presidente,Miguel,3
+El Presidente,Jefes y Oficiales,3
+Valencia,parecía,3
+Cortina,Gobierno,3
+España,Nación,3
+Constitución,Sr. García Carrés,3
+Estado Mayor,Gabeiras,3
+Al Sr. Hermosilla,Coronel Manchado,3
+Batista,Comte,3
+Constitución,Niega,3
+Gabeiras,Madrid,3
+Congreso,Conocía,3
+Comte,Consejo,3
+El Teniente Coronel Tejero,España,3
+Constitución,Pide,3
+Constitución,Policía Militar,3
+Continúa,Finaliza,3
+Constitución,Suárez,3
+Continúa,General Armada,3
+Estado Mayor,S.M. el Rey,3
+Estado Mayor,Reina,3
+Estado Mayor,Región,3
+El General Juste,España,3
+Estado Mayor,Presidente del Gobierno,3
+Estado Mayor,Palacio de la Zarzuela,3
+Estado Mayor,Nación,3
+General Armada,Zaragoza,3
+Congreso,El General Juste,3
+Muñoz Perea,Segura,3
+Madrid,Presidente del Gobierno,3
+Al Sr. Quintana,Torres Rojas,3
+General Milans,Teniente General Milans,3
+Ordenanzas,Valencia,3
+Abad,Coronel Manchado,3
+Nación,Palacio de la Zarzuela,3
+BARCELONA,PAMPLONA,3
+Capitán Gómez Iglesias,Policía Militar,3
+Madrid,Torres Rojas,3
+Lérida,Zarzuela,3
+López Montero,Teniente General Milans,3
+Generales Armada,Guardia Civil,3
+Lérida,Valencia,3
+Capitán Gómez Iglesias,Presidente del Tribunal,3
+Guardia Civil,Sumario,3
+España,Teniente General Milans del Bosch,3
+Comandante Cortina,Consejeros,3
+Guardias Civiles,Zarzuela,3
+Guardias Civiles,Valencia,3
+Al Sr. Quintana,Valencia,3
+CESID,García Carrés,3
+Oficiales,Valencia,3
+Capitán Gómez Iglesias,General Milans del Bosch,3
+Región,S.M. el Rey,3
+Región,Reina,3
+Presidente del Gobierno,Valencia,3
+Presidente del Gobierno,S.M. el Rey,3
+General Caruana,Presidente del Tribunal,3
+Presidente del Gobierno,Región,3
+Además,General Armada,3
+Además,López Montero,3
+Capitán Abad,Presidente del Tribunal,3
+General Caruana,Zarzuela,3
+Armada,Capitán Acera,3
+General Armada,General Jefe,3
+General Milans del Bosch,Generales Milans,3
+Armada,Bando,3
+Guardia Civil,Ignora,3
+CESID,Finaliza,3
+Capitán Gómez Iglesias,General Milans,3
+Gobierno,Reina,3
+Abad,Capitán Abad,3
+General MILANS DEL BOSCH,Madrid,3
+Al Sr. Quintana,Comte,3
+General Milans del Bosch,Presidente del Tribunal,3
+JUJEM,parecía,3
+Madrid,Sr. García Carrés,3
+General Prieto,llegó,3
+Milans,Teniente,3
+General Milans del Bosch,Zarzuela,3
+Al Sr. Quintana,Congreso,3
+Comandante,Presidente del Tribunal,3
+General Milans del Bosch,Madrid,3
+Madrid,Milans,3
+Congreso,Jefes y Oficiales,3
+España,García Carrés,3
+España,Generales Milans,3
+General Prieto,Policía Nacional,3
+Al Sr. Quintana,CESID,3
+España,Finaliza,3
+Congreso,Pintor Juan Gris,3
+Presidente del Tribunal,Zarzuela,3
+General Gabeiras,Guardia Civil,3
+Guardia Civil,Meer,3
+Después,Torres Rojas,3
+España,Pintor Juan Gris,3
+España,Policía Militar,3
+Guardias Civiles,Presidente del Gobierno,3
+Guardias Civiles,Lérida,3
+BARCELONA,POLICIA,3
+Capitán Muñecas,Constitución,3
+Guardia Civil,Zaragoza,3
+Capitán Muñecas,Coronel Manchado,3
+BARCELONA,SEGURIDAD,3
+Niega,Pardo,3
+Madrid,Teniente General Milans,3
+Después,Región,3
+Después,Reina,3
+Capitán Muñecas,General Armada,3
+España,Pide,3
+Capitán Muñecas,Madrid,3
+Boza,Guardia Civil,3
+Gobierno,de Valencia,3
+Muñoz Grandes,Valencia,3
+CESID,Información,3
+Armada,Policía Militar,3
+CESID,Luego,3
+Capitán García Almenta,Coronel San Martín,3
+Congreso,llamó,3
+Diputados,Gobierno,3
+Ante,Coronel Ibañez,3
+Congreso,Luego,3
+Comte,Madrid,3
+Cuartel General de la DAC,España,3
+General Armada,Miláns del Bosch,3
+CESID,Tráfico,3
+CESID,Orden,3
+CESID,Hotel Palace,3
+División Azul,Gobierno,3
+Coronel Manchado,Palace,3
+Capitán Gómez Iglesias,Capitán de la Guardia Civil,3
+BRIPAC,Congreso,3
+Ante,Guardia Civil,3
+Capitán Abad,Jefes,3
+Ante,JUJEM,3
+El Capitán Gómez Iglesias,Gómez Iglesias,3
+El Capitán Gómez Iglesias,Guardia Civil,3
+General Juste,parecía,3
+Capitán Gómez Iglesias,Coronel San Martín,3
+Ante,Armada,3
+Capitán Abad,Teniente General Gutiérrez Mellado,3
+Capitán Abad,Valdemoro,3
+Capitán García Almenta,Comandante Pardo,3
+Capitán de la Guardia Civil,Ignacio Román,3
+Después,JUJEM,3
+CESID,Sr. De Miguel,3
+CESID,Valdemoro,3
+C.J.M,Constitución,3
+Capitán Abad,Comandante Cortina,3
+GUARDIA,Sevilla,3
+Gobierno,Proceso,3
+General Armada,Guardias,3
+Capitanía General,Guardia Civil,3
+Capitán Abad,Coronel San Martín,3
+Gral,Zarzuela,3
+General Juste,Teniente General,3
+Guardia Civil,Manifiesta,3
+Diputados,España,3
+Capitanía General,España,3
+Manifiesta,Zarzuela,3
+Capitán Abad,Juan Gris,3
+Madrid,Niega,3
+Luego,Madrid,3
+Cuartel General de la DAC,Guardia Civil,3
+Congreso,El Capitán Gómez Iglesias,3
+Ante,OIDREP,3
+Ante,Pardo,3
+Comandante Cortina,Coronel Manchado,3
+Coronel Ibañez,de Valencia,3
+Estado Mayor,General ARMADA,3
+Capitán Batista,Zarzuela,3
+Madrid,PREJUJEM,3
+Madrid,Mando,3
+JUJEM,Pardo Zancada,3
+Guardias Civiles,Parlamento,3
+Gabeiras,Gobierno,3
+JUJEM,Mando,3
+Congreso,Los Consejeros,3
+Guardias,Madrid,3
+Comandante Cortina,Juan Gris,3
+Congreso,OIDREP,3
+Coronel Ibañez,Teniente,3
+Congreso,Sr. de Miguel,3
+Gabeiras,JUJEM,3
+Congreso,Zugasti,3
+Coronel Ibañez,Coronel San Martín,3
+Coronel Ibañez,Reina,3
+Coronel Ibañez,Región Militar,3
+General Aramburu,JUJEM,3
+Comandante Cortina,Coronel San Martín,3
+Capitán Batista,Milans,3
+Cuartel General,de Valencia,3
+CESID,Comandante,3
+División,General ARMADA,3
+División,JUJEM,3
+Ante,Torres Rojas,3
+Servicio,Teniente,3
+Ante,Zarzuela,3
+Comandante,Comandante Cortina,3
+Capitán Gómez Iglesias,Ministerio Fiscal,3
+España,Región Militar,3
+Armada,Los Consejeros,3
+España,S.M. El Rey,3
+Armada,OIDREP,3
+Capitán García Almenta,Guardia Civil,3
+Capitán de la Guardia Civil,Comandante Cortina,3
+Armada,Zugasti,3
+Capitán de la Guardia Civil,Comandante Pardo,3
+Capitán de la Guardia Civil,Congreso,3
+Cuartel General,JUJEM,3
+CESID,Superioridad,3
+Coronel Ibañez,parecía,3
+Ayudante,Valencia,3
+General Milans del Bosch,Policía Nacional,3
+Guardia Civil,Ignacio Román,3
+Coronel Tejero,España,3
+Coronel Ibañez,Gral,3
+Congreso,Ministerio Público,3
+General Armada,parecía,3
+Congreso,Tenientes de la Guardia Civil,3
+Gral,Santamaría,3
+Gral,Sanz Arribas,3
+Capitanía,JUJEM,3
+Gral,Torres Rojas,3
+Ejército,GUARDIA,3
+General Armada,Teniente General,3
+Congreso,Sala de Justicia,3
+Gral. Armada,JUJEM,3
+Capitanía,División,3
+Constitución,Enero,3
+Capitanía,Después,3
+Capitanía,Consejo Supremo de Justicia Militar,3
+General Armada,Región Militar,3
+Ejército,General Milans del Bosch,3
+Gral. Armada,Sanz Arribas,3
+Gral. Armada,Torres Rojas,3
+Gral. Armada,Valencia,3
+General Aramburu,Valencia,3
+Consejo Supremo de Justicia Militar,Zarzuela,3
+Guardia Civil,Tenientes de la Guardia Civil,3
+Gral,Muñoz Perea,3
+Gral,López Montero,3
+Gral,Gral. Milans,3
+Comandante,División,3
+Ejército,JUJEM,3
+Escandell,Valencia,3
+Gabeiras,López Montero,3
+Comandante PARDO ZANCADA,Zarzuela,3
+Comandante PARDO ZANCADA,Valencia,3
+Comandante PARDO ZANCADA,JUJEM,3
+Comandante PARDO ZANCADA,Guardia Civil,3
+Constitución,Jefes,3
+Comandante PARDO ZANCADA,General ARMADA,3
+Comandante PARDO ZANCADA,Estado Mayor,3
+Comandante PARDO ZANCADA,España,3
+Gobierno,Gral,3
+Gobierno,Gral. Armada,3
+Comandante PARDO ZANCADA,Constitución,3
+Comandante PARDO ZANCADA,Congreso,3
+Constitución,Sala de Justicia,3
+Comandante,Zarzuela,3
+Comandante,Servicio,3
+Ejército,Patria,3
+Constitución,ningún,3
+Gobierno,Torres Rojas,3
+Bando,Zarzuela,3
+El Presidente,Torres Rojas,3
+Bando,Teniente General,3
+Presidente del Tribunal,ningún,3
+Constitución,la Ley,3
+ARMADA,Comandante PARDO ZANCADA,3
+División Azul,Valencia,3
+El Presidente,Gral. Armada,3
+Teniente,Teniente General Gutiérrez Mellado,3
+Consejo Supremo de Justicia Militar,Mando,3
+Teniente,llegó,3
+Ante,Hermosilla,3
+División Azul,López Montero,3
+Congreso,Coronel SAN MARTIN,3
+Capitán Abad,ningún,3
+División Azul,JUJEM,3
+Gobierno,OIDREP,3
+de Valencia,llegó,3
+Después,General ARMADA,3
+llegó,ningún,3
+España,OIDREP,3
+División Azul,Guardia Civil,3
+Enero,Gobierno,3
+Enero,España,3
+Coronel Tejero,Guardia Civil,3
+Constitución,Teniente General MILANS DEL BOSCH,3
+ARMADA,Diputados,3
+Constitución,Diputados,3
+Dopico,España,3
+Bando,Gobierno,3
+Jefes,Teniente,3
+General Juste,General Milans del Bosch,3
+El Presidente,Santamaría,3
+El Presidente,Muñoz Perea,3
+JUJEM,Sanz Arribas,3
+JUJEM,Torres Rojas,3
+Autoridades,Valencia,3
+Jefes,ningún,3
+España,parecía,3
+Diputados,JUJEM,3
+Autoridades,Congreso,3
+Muñoz Perea,Santamaría,3
+Muñoz Perea,Sanz Arribas,3
+Palace,Torres Rojas,3
+Presidente del Tribunal,Sala de Justicia,3
+Dopico,General Juste,3
+ARMADA,Teniente General MILANS DEL BOSCH,3
+Dopico,General Armada,3
+ARMADA,JUJEM,3
+ARMADA,Gobierno,3
+Coronel Ibañez,Pardo,3
+Coronel Ibañez,Gabeiras,3
+Ayer,Madrid,3
+Guardia Civil,Suárez,3
+Capitán Batista,Comandante Cortina,3
+GUARDIA,Junio,3
+Guardias,Vicepresidente Primero,3
+Armada,de Valencia,3
+GUARDIA,INTENTO,3
+Capitán Batista,Madrid,3
+Aramburu,Constitución,3
+OIDREP,Zarzuela,3
+Operación,Torres Rojas,3
+Capitán Dusmet,Capitán Gómez Iglesias,3
+Pardo,Regiones Militares,3
+Hermosilla,de Valencia,3
+España,Vicepresidente Primero,3
+Capitán Dusmet,Comandante Cortina,3
+Aramburu,General Armada,3
+Capitán Dusmet,Comandante Pardo,3
+España,Información,3
+España,Guardias,3
+Guardias,Información,3
+Congreso,El País,3
+Pardo,Torres Rojas,3
+Pardo,de Valencia,3
+Capitán Batista,Capitán Gómez Iglesias,3
+JUJEM,PREJUJEM,3
+Milans,de Valencia,3
+Milans,Zarzuela,3
+Ballesteros,Congreso,3
+Capitán Cid Fortea,Congreso,3
+ARENAS,Guardia Civil,3
+Capitán Cid Fortea,Guardia Civil,3
+Congreso,Expone,3
+Comte,Valencia,3
+Los Consejeros,Valencia,3
+Consejeros,Después,3
+ARENAS,Valencia,3
+López Montero,Pardo,3
+López Montero,Quintana,3
+Consejo,Expone,3
+España,¿Qué,3
+López Montero,Zugasti,3
+Milans,Quintana,3
+Milans,Regiones Militares,3
+Aramburu,CESID,3
+Expone,Guardia Civil,3
+Milans,Servicio,3
+Congreso,Finaliza,3
+Milans,Valencia,3
+Capitán Abad,Teniente,3
+Armada,Meer,3
+Conversaciones,JUJEM,3
+Capitán Gómez Iglesias,Villalonga,3
+Autoridad Militar,Ministro de Defensa,3
+Comandante,Comandante Pardo,3
+Armada,Generales Milans,3
+Comandante Cortina,Madrid,3
+Sanz Arribas,Zarzuela,3
+Capitán Dusmet,Coronel Manchado,3
+Al Sr. Hermosilla,de Valencia,3
+Actitud,JUJEM,3
+Comandante Pardo,Cortina,3
+Actitud,General ARMADA,3
+Actitud,España,3
+Actitud,Conversaciones,3
+Actitud,Congreso,3
+Comandante Pardo,Fuerzas Armadas,3
+Al Sr. Hermosilla,Región Militar,3
+Congreso,Tratar,3
+Armada,Muñoz Grandes,3
+Congreso,Consejero,3
+Armada,Niega,3
+General Prieto,Teniente,3
+Al Sr. Hermosilla,JUJEM,3
+Armada,Ballesteros,3
+Ayer,Guardia Civil,3
+Quintana,Servicio,3
+Armada,División Azul,3
+Conversaciones,España,3
+Capitán Abad,General Gutiérrez Mellado,3
+Congreso,Vicepresidente Primero,3
+Congreso,Sectores,3
+Congreso,Redacción,3
+Comte,Gral,3
+Guardias,JUJEM,3
+Capitán Abad,El Teniente,3
+CESID,Vicepresidente Primero,3
+Capitán Dusmet,Madrid,3
+CESID,Sectores,3
+Comte,El Presidente,3
+CESID,Redacción,3
+Quintana,Torres Rojas,3
+CESID,Ministro de Defensa,3
+Armada,General Torres Rojas,3
+Ejército,General Armada,3
+CESID,Guardias,3
+Coronel Manchado,Policía Nacional,3
+Armada,Dopico,3
+CESID,Conversaciones,3
+ACTUACIONES,CESID,3
+Congreso,Gral. Milans,3
+General ARMADA,Madrid,3
+Congreso,Dopico,3
+Constitución,Cuartel General,3
+Alcalá,Madrid,3
+Coronel San Martín,General Aramburu,3
+JUJEM,Región Militar,3
+Congreso,parecía,3
+Congreso,Segura,3
+Alcalá,Oficiales,3
+Congreso,Meer,3
+Gobierno,Hermosilla,3
+General Milans,Teniente,3
+Lleva,RESUMEN,3
+Congreso,Palace,3
+JUJEM,Teniente General,3
+Diputados,General Armada,3
+Declaración,España,3
+Coronel Alcalá Galiano,Madrid,3
+Guardia Civil,información,3
+Declaración,Guardia Civil,3
+Guardia Civil,RESUMEN,3
+Guardia Civil,Miláns del Bosch,3
+Finaliza,Guardia Civil,3
+Guardia Civil,Lleva,3
+Guardia Civil,la Ley,3
+Guardia Civil,Teniente General,3
+Coronel Manchado,Sr. De Miguel,3
+El General,Guardia Civil,3
+General Gutiérrez Mellado,Servicio,3
+General ARMADA,Teniente General MILANS DEL BOSCH,3
+Coronel San Martín,El Presidente,3
+Armada,Cuartel General,3
+Coronel San Martín,Hermosilla,3
+Coronel San Martín,JUJEM,3
+Guardia Civil,Hotel Palace,3
+Coronel Ibañez,General Torres Rojas,3
+Coronel Ibañez,General Milans del Bosch,3
+Comandante Pardo,Policía Nacional,3
+Centro,España,3
+Centro,Congreso,3
+Coronel San Martín,Servicio,3
+Congreso,Código de Justicia Militar,3
+Alcalá,Guardias Civiles,3
+CESID,Capitanía General,3
+Coronel Ibañez,El Presidente,3
+Gobierno,Servicio,3
+Coronel Ibañez,División Azul,3
+Coronel Ibañez,Cuartel General,3
+Constitución,Muñoz Perea,3
+El Teniente,Servicio,3
+Gral,información,3
+Congreso,Cuartel General de la DAC,3
+Ballesteros,General Juste,3
+Congreso,Menéndez,3
+Gómez Iglesias,Juan Gris,3
+Congreso,General PRIETO,3
+El País,Guardia Civil,3
+Después,Finaliza,3
+CESID,información,3
+Después,El País,3
+Hermosilla,Milans,3
+CESID,Menéndez,3
+CESID,Lleva,3
+ARENAS,Congreso,3
+CESID,Gral,3
+CESID,General PRIETO,3
+CESID,Director General de la Guardia Civil,3
+Gómez Iglesias,Ministerio Fiscal,3
+Hermosilla,Quintana,3
+Ballesteros,General Armada,3
+Gómez Iglesias,Valdemoro,3
+Ballesteros,España,3
+Ballesteros,Dopico,3
+Hermosilla,Valencia,3
+Congreso,información,3
+Servicio,Valencia,3
+Alcalá,teléfono,3
+S.M. El Rey,Zarzuela,3
+Región,Región Militar,3
+Coronel Alcalá Galiano,Guardia Civil,3
+Guardia Civil,Ministerio del Interior,3
+Comandante Pardo,JUJEM,3
+General PRIETO,Guardia Civil,3
+Abad,España,3
+España,Sr. De Miguel,3
+España,Valdemoro,3
+INTENTO,Madrid,3
+General Aramburu,Pardo Zancada,3
+General Aramburu,Menéndez,3
+General Aramburu,Lleva,3
+Guardia Civil,Nación,3
+General Aramburu,Juan Gris,3
+Región Militar,Zarzuela,3
+Guardia Civil,Los Consejeros,3
+General Aramburu,Policía Nacional,3
+General Aramburu,Sr. De Miguel,3
+General Milans,parecía,3
+Director General de la Guardia Civil,Menéndez,3
+Gobierno,Senado,3
+Madrid,Suárez,3
+El Capitán,Guardia Civil,3
+Madrid,OCUPACION,3
+Facultad de Derecho,Madrid,3
+Facultad de Derecho,Universidad,3
+Facultad de Derecho,SITUACION ACTUAL,3
+Facultad de Derecho,SEGURIDAD,3
+Congreso,General TORRES,3
+Facultad de Derecho,Palacio del Congreso de los Diputados,3
+Facultad de Derecho,PROTESTA PREVISTAS,3
+Facultad de Derecho,POLICIALES,3
+Facultad de Derecho,POLICIA,3
+Facultad de Derecho,PAMPLONA,3
+Facultad de Derecho,OVIEDO,3
+Facultad de Derecho,OCUPACION,3
+Congreso,III Región Militar,3
+Facultad de Derecho,JEFATURA SUPERIOR,3
+Constitución,PROTESTA PREVISTAS,3
+Congreso,Menciona,3
+Facultad de Derecho,Guardia Civil,3
+Facultad de Derecho,Fuerza Pública,3
+Al Sr. Villalonga,Torres Rojas,3
+Congreso,Reconoce,3
+Constitución,VALENCIA,3
+Constitución,Universidad,3
+Constitución,Sevilla,3
+Constitución,SITUACION ACTUAL,3
+Constitución,SEGURIDAD,3
+Al Sr. Villalonga,Zarzuela,3
+Constitución,Plaza de Neptuno,3
+Comenzó,Valencia,3
+Fuerza Pública,Guardia Civil,3
+Fuerza Pública,JEFATURA SUPERIOR,3
+Fuerza Pública,Madrid,3
+Guardia Civil,PROTESTA PREVISTAS,3
+Guardia Civil,POLICIALES,3
+Guardia Civil,PAMPLONA,3
+Guardia Civil,OVIEDO,3
+Guardia Civil,OCUPACION,3
+Congreso,Coronel Sanmartín,3
+Guardia Civil,Melilla,3
+Guardia Civil,JEFATURA SUPERIOR,3
+Guardia Civil,Instituciones,3
+Guardia Civil,Historia,3
+Comenzó,España,3
+Al Sr. Villalonga,Enero,3
+Fuerza Pública,Universidad,3
+Fuerza Pública,SITUACION ACTUAL,3
+Comandante Pardo Zancada,López Montero,3
+Fuerza Pública,SEGURIDAD,3
+Comenzó,Guardia Civil,3
+Fuerza Pública,Palacio del Congreso de los Diputados,3
+Fuerza Pública,PROTESTA PREVISTAS,3
+Fuerza Pública,POLICIALES,3
+Fuerza Pública,POLICIA,3
+Fuerza Pública,PAMPLONA,3
+Fuerza Pública,OVIEDO,3
+Fuerza Pública,OCUPACION,3
+Al Sr. Villalonga,General Armada,3
+Constitución,Palacio del Congreso de los Diputados,3
+Constitución,POLICIALES,3
+Guardia Civil,SEGURIDAD,3
+Capitán Batista,El Presidente,3
+Capitán Gómez Iglesias,Comenzó,3
+Capitán Gómez Iglesias,Enero,3
+El Presidente,Madrid,3
+Capitán Gómez Iglesias,Torres Rojas,3
+El Presidente,llegó,3
+Comenzó,Enero,3
+Comenzó,General Armada,3
+Capitán Batista,Voz de Madrid,3
+Capitán Batista,Servicio,3
+Ayuntamiento,Plaza de Neptuno,3
+Comenzó,Torres Rojas,3
+Comenzó,calle General Cabrera,3
+General TORRES,Su Majestad,3
+Constitución,PAMPLONA,3
+Ayuntamiento,Guardia Civil,3
+Gobierno,Reconoce,3
+Ayuntamiento,Constitución,3
+Capitán Abad,Gobierno,3
+Guardia Civil,III Región Militar,3
+Capitán Abad,General Juste,3
+ACCIONES,Universidad,3
+ACCIONES,SITUACION ACTUAL,3
+Guardia Civil,Reconoce,3
+ACCIONES,SEGURIDAD,3
+ACCIONES,Palacio del Congreso de los Diputados,3
+ACCIONES,PROTESTA PREVISTAS,3
+Comandante Pardo,División,3
+Comandante Pardo,General Torres Rojas,3
+Comandante Pardo,Jefes,3
+El Presidente,Sr. Zugasti,3
+Constitución,OVIEDO,3
+Constitución,OCUPACION,3
+Al Sr. Villalonga,calle General Cabrera,3
+Congreso,Seguidamente,3
+Constitución,JEFATURA SUPERIOR,3
+Consejo,El Presidente,3
+Constitución,Fuerza Pública,3
+Constitución,Facultad de Derecho,3
+Consejo,General TORRES,3
+Consejo,Zarzuela,3
+Congreso de los Diputados,Universidad,3
+Congreso de los Diputados,SITUACION ACTUAL,3
+Congreso de los Diputados,SEGURIDAD,3
+Congreso de los Diputados,Región,3
+Congreso de los Diputados,Palacio del Congreso de los Diputados,3
+Congreso de los Diputados,PROTESTA PREVISTAS,3
+Congreso de los Diputados,POLICIALES,3
+Congreso de los Diputados,POLICIA,3
+Congreso de los Diputados,PAMPLONA,3
+Congreso de los Diputados,OVIEDO,3
+Congreso de los Diputados,OCUPACION,3
+Congreso de los Diputados,JEFATURA SUPERIOR,3
+Comandante Pardo,Presidente del Tribunal,3
+Congreso de los Diputados,Fuerza Pública,3
+Congreso de los Diputados,Facultad de Derecho,3
+Guardia Civil,Palacio del Congreso de los Diputados,3
+Guardia Civil,SITUACION ACTUAL,3
+ACCIONES,POLICIA,3
+POLICIA,Palacio del Congreso de los Diputados,3
+PROTESTA PREVISTAS,SEGURIDAD,3
+Escandell,General Armada,3
+PROTESTA PREVISTAS,Palacio del Congreso de los Diputados,3
+POLICIALES,Universidad,3
+POLICIALES,SITUACION ACTUAL,3
+Escandell,Zarzuela,3
+POLICIALES,SEGURIDAD,3
+POLICIALES,Palacio del Congreso de los Diputados,3
+POLICIALES,PROTESTA PREVISTAS,3
+POLICIA,Universidad,3
+POLICIA,SITUACION ACTUAL,3
+POLICIA,SITUACION,3
+POLICIA,PROTESTA PREVISTAS,3
+OVIEDO,POLICIALES,3
+POLICIA,POLICIALES,3
+PAMPLONA,Universidad,3
+PAMPLONA,SITUACION ACTUAL,3
+División,llegó,3
+PAMPLONA,Palacio del Congreso de los Diputados,3
+PAMPLONA,PROTESTA PREVISTAS,3
+PAMPLONA,POLICIALES,3
+División,Jefes,3
+OVIEDO,Universidad,3
+OVIEDO,SITUACION ACTUAL,3
+OVIEDO,SEGURIDAD,3
+OVIEDO,Palacio del Congreso de los Diputados,3
+CARRES,Congreso,3
+PROTESTA PREVISTAS,SITUACION ACTUAL,3
+PROTESTA PREVISTAS,Universidad,3
+CARRES,Comandante PARDO,3
+General Aramburu,Servicio,3
+España,WASHINGTON,3
+Ministerio Fiscal,Valencia,3
+General Aramburu,López Montero,3
+General Aramburu,Jefes,3
+Valencia,columna del,3
+Madrid,Sincerely,3
+ARMADA,Consejo,3
+CESID,Quintana,3
+ARMADA,General TORRES,3
+España,ningún,3
+SITUACION ACTUAL,Universidad,3
+España,Voz de Madrid,3
+SEGURIDAD,Universidad,3
+SEGURIDAD,SITUACION ACTUAL,3
+Capitán Gómez Iglesias,Quintana,3
+Armada,Diputados,3
+Madrid,teléfono,3
+El Presidente,Sanz Esteban,3
+Armada,Reconoce,3
+Armada,Seguidamente,3
+Palacio del Congreso de los Diputados,Universidad,3
+Palacio del Congreso de los Diputados,SITUACION ACTUAL,3
+El Presidente,General Juste,3
+Palacio del Congreso de los Diputados,SEGURIDAD,3
+OVIEDO,PROTESTA PREVISTAS,3
+OVIEDO,POLICIA,3
+Guardia Civil,Universidad,3
+JEFATURA SUPERIOR,OVIEDO,3
+General Aramburu,General Prieto,3
+Presidente del Tribunal,Torres Rojas,3
+JEFATURA SUPERIOR,Universidad,3
+JEFATURA SUPERIOR,SITUACION ACTUAL,3
+Presidente del Tribunal,calle General Cabrera,3
+JEFATURA SUPERIOR,SEGURIDAD,3
+Comandante PARDO,Congreso,3
+JEFATURA SUPERIOR,Palacio del Congreso de los Diputados,3
+JEFATURA SUPERIOR,PROTESTA PREVISTAS,3
+JEFATURA SUPERIOR,POLICIALES,3
+JEFATURA SUPERIOR,POLICIA,3
+JEFATURA SUPERIOR,PAMPLONA,3
+JEFATURA SUPERIOR,OCUPACION,3
+OVIEDO,PAMPLONA,3
+Coronel Sanmartín,Guardia Civil,3
+JEFATURA SUPERIOR,Madrid,3
+Instituciones,Valencia,3
+Coronel Sanmartín,General Armada,3
+Congreso,Voz de Madrid,3
+Congreso,Sanz Esteban,3
+Comandante,Madrid,3
+Al Sr. Villalonga,Armada,3
+Al Sr. Villalonga,CESID,3
+Al Sr. Villalonga,Capitán Gómez Iglesias,3
+Al Sr. Villalonga,Comenzó,3
+Al Sr. Villalonga,Congreso,3
+Madrid,OVIEDO,3
+Madrid,POLICIALES,3
+Madrid,PROTESTA PREVISTAS,3
+Madrid,Palacio del Congreso de los Diputados,3
+División,General Juste,3
+OCUPACION,Universidad,3
+OCUPACION,SITUACION ACTUAL,3
+OCUPACION,SEGURIDAD,3
+Gómez Iglesias,calle General Cabrera,3
+OCUPACION,Palacio del Congreso de los Diputados,3
+OCUPACION,PROTESTA PREVISTAS,3
+OCUPACION,POLICIALES,3
+OCUPACION,POLICIA,3
+OCUPACION,PAMPLONA,3
+OCUPACION,OVIEDO,3
+División,General Aramburu,3
+CESID,III Región Militar,3
+CESID,Menciona,3
+Constitución,General Caruana,3
+Cuartel General,llegó,3
+Coronel San Martín,Pardo Zancada,3
+Cuartel General,López Montero,3
+Cuartel General,Gobierno,3
+Cuartel General,General Torres Rojas,3
+Melilla,Valencia,3
+Cuartel General,España,3
+General Milans del Bosch,calle General Cabrera,3
+Madrid,Universidad,3
+Madrid,SITUACION ACTUAL,3
+ACCIONES,POLICIALES,3
+ACCIONES,PAMPLONA,3
+General Armada,Voz de Madrid,3
+Fecha N,Marzo,3
+Guardia Civil,Sr. Gómez García,3
+Su Majestad,Teniente,3
+General de División,SEÑOR,3
+Zarzuela,de Valencia,3
+Código de Justicia Militar,Señor,3
+CESID,TORNO AL DESARROLLO,3
+General Juste,Sanz Esteban,3
+Congreso,Pardo de Santayana,3
+ESTADO MAYOR,Madrid,3
+CESID,Tejero,3
+Consejo Supremo de Justicia Militar,Fecha N,3
+CESID,Teniente General Milans,3
+Exmo,Marzo,3
+Cortina,TORNO AL DESARROLLO,3
+Exmo,Fecha N,3
+Consejo Supremo de Justicia Militar JUZGADO ESPECIAL S/,Madrid,3
+Consejo Supremo de Justicia Militar JUZGADO ESPECIAL S/,Fecha N,3
+Consejo Supremo de Justicia Militar JUZGADO ESPECIAL S/,Exmo,3
+Madrid,Orden,3
+Consejo Supremo de Justicia Militar,Pardo de Santayana,3
+Guardia Civil,Orden,3
+Consejo Supremo de Justicia Militar,TORNO AL DESARROLLO,3
+Código de Justicia Militar,Guardia Civil,3
+Capital,Madrid,3
+Capital,Guardia Civil,3
+Capital,GUARDIA,3
+Gómez Iglesias,Lérida,3
+Patria,Su Majestad,3
+Abril,General de División,3
+Constitución,País Vasco,3
+ENTRADA,Sala de Justicia,3
+ENTRADA,SEÑOR,3
+ENTRADA,Providencia,3
+Además,División,3
+EJERCITO,Sala de Justicia,3
+EJERCITO,SEÑOR,3
+EJERCITO,Providencia,3
+Pardo,Sanz Esteban,3
+EJERCITO,ENTRADA,3
+Además,Gobierno,3
+Código de Justicia Militar,EXCMO,3
+Código de Justicia Militar,ENTRADA,3
+Código de Justicia Militar,EJERCITO,3
+Armada,TORNO AL DESARROLLO,3
+Además,Madrid,3
+Consejo Supremo el Consejero Togado Juez Especial,EXCMO,3
+Consejo Supremo el Consejero Togado Juez Especial,ENTRADA,3
+Consejo Supremo el Consejero Togado Juez Especial,EJERCITO,3
+Madrid,Patria,3
+Lérida,Presidente del Tribunal,3
+Consejo Reunido,ENTRADA,3
+Consejo Reunido,EJERCITO,3
+Constitución,Informe,3
+Constitución,Movimiento Comunista,3
+Abril,SEÑOR,3
+Coronel Ibáñez,Coronel Manchado,3
+División,Madrid,3
+Pardo,Sr. Gómez García,3
+CESID,NECESIDAD,3
+Coronel San Martín,Sr. Gómez García,3
+Enero,Teniente General Milans,3
+Coronel San Martín,Sanz Esteban,3
+España,los Estados Unidos,3
+Estado,Movimiento Comunista,3
+España,Según,3
+General Gutiérrez Mellado,S.M. el Rey,3
+Coronel San Martín,Cortina,3
+Juan Gris,Pardo,3
+Alemania,Madrid,3
+Alemania,General Armada,3
+Alemania,Congreso,3
+Consejeros,Gómez Iglesias,3
+Cuartel General,Sanz Esteban,3
+Consejeros,Coronel San Martín,3
+Madrid,País Vasco,3
+Madrid,Movimiento Comunista,3
+Pardo,Tejero,3
+INFORME,Madrid,3
+S.M. el Rey,Teniente General Milans,3
+Gobierno,SITUACION,3
+Gobierno,Informe,3
+Armada,Sr. Gómez García,3
+Fuerzas Armadas,Movimiento Comunista,3
+Armada,Sanz Esteban,3
+Fuerzas Armadas,Informe,3
+Anexo,Consejo Supremo de Justicia Militar,3
+Anexo,Congreso,3
+Enero,Pardo,3
+Cortina,Lérida,3
+Guardia,Guardia Civil,3
+Coronel Manchado,Enero,3
+España,Pardo de Santayana,3
+Consejo Supremo de Justicia Militar,SEÑOR,3
+Cuartel General,Presidente del Tribunal,3
+Cuartel General,Pardo,3
+General Armada,Pardo de Santayana,3
+Coronel Manchado,Tejero,3
+Cortina,Enero,3
+El Comandante,Guardia Civil,3
+Cortina,Su Majestad,3
+Cortina,Tejero,3
+Enero,Sala de Justicia,3
+Enero,Madrid,3
+CESID,Sala de Justicia,3
+España,MICROFILMACION,3
+España,Movimiento Comunista,3
+Madrid,Pardo de Santayana,3
+Madrid,TORNO AL DESARROLLO,3
+Ilmo,Madrid,3
+España,Señor,3
+Pardo de Santayana,TORNO AL DESARROLLO,3
+Madrid,llegó,3
+Madrid,Según,3
+Madrid,Operación,3
+EXCMO,Sala de Justicia,3
+General de División,Sala de Justicia,3
+ACCIONES,OVIEDO,3
+Consejo,S.M. el Rey,3
+Fuerzas Armadas,S.M. el Rey,3
+Reconoce,Zarzuela,3
+EJERCITO,Fuerzas Armadas,3
+Pardo,Villalonga,3
+Zarzuela,llegó,3
+Guardias Civiles,Oficiales,3
+Cuartel General,Teniente General,3
+Consejo Supremo de Justicia Militar,Su Majestad el Rey,3
+Consejo Supremo de Justicia Militar,Su Majestad,3
+Armada,Teniente General Miláns,3
+Consejo Supremo de Justicia Militar,Fuerzas Armadas,3
+Zarzuela,calle General Cabrera,3
+Guardia Civil,¿Qué,3
+Madrid,Parlamento,3
+Ante,Teniente General,3
+Ante,Cuartel General,3
+Coronel Ibáñez,General Miláns,3
+Coronel Ibáñez,Juan Gris,3
+Asegura,Comandante Pardo,3
+Coronel Ibáñez,Sr. Hermosilla,3
+Estado Mayor,Madrid,3
+Cartagena,Madrid,3
+Coronel Ibáñez,Valencia,3
+General Armada,Ministerio Fiscal,3
+Armada,Sala de Justicia,3
+GOBIERNO,Madrid,3
+Fuerzas Armadas,Su Majestad,3
+Reconoce,Valencia,3
+El Presidente,TORNO AL DESARROLLO,3
+S.M. el Rey,Su Majestad,3
+ACCIONES,OCUPACION,3
+ACCIONES,Madrid,3
+ACCIONES,JEFATURA SUPERIOR,3
+ACCIONES,Guardia Civil,3
+ACCIONES,Fuerza Pública,3
+ACCIONES,Facultad de Derecho,3
+ACCIONES,Constitución,3
+ACCIONES,Congreso de los Diputados,3
+III Región Militar,Valencia,3
+Madrid,Washington,3
+Madrid,Ministro de Asuntos Exteriores,3
+Instituciones,S.M. el Rey,3
+Enero,Torres Rojas,3
+España,POLITICA EXTERIOR,3
+España,Instituciones,3
+Calvo Sotelo,Madrid,3
+Enero,calle General Cabrera,3
+AMERICA,España,3
+Madrid,Ministro de Defensa,3
+JUJEM,llegó,3
+LUIS ABAD GUTIERREZ,ROMAN,3
+Juan Gris,Zarzuela,3
+Gómez Iglesias,Villalonga,3
+Madrid,Seguidamente,3
+Asegura,Guardia Civil,3
+Batista,CESID,3
+Guardia Civil,Juez Instructor,3
+Allí,General Juste,3
+GABINETE,Madrid,3
+CESID,Fuerzas Armadas,3
+DEMOCRACIA,Dirección General de la Guardia Civil,3
+CESID,Grupos Tácticos,3
+Guardia Civil,Tráfico,3
+CESID,Patria,3
+General Juste,empezó,3
+Después,Guardias Civiles,3
+Cadena SER,Guardia Civil,3
+Constitución,Grupos Tácticos,3
+De Miguel,López Montero,3
+Congreso,empezó,3
+Después,Madrid,3
+Capitán Camacho,Congreso,3
+España,Pilar Urbano,3
+Capitán Batista,Gral. Armada,3
+ENTRADA,Real Decreto,3
+Guardia Civil,Residencia,3
+España,de Valencia,3
+EXCMO,Real Decreto,3
+EJERCITO,Real Decreto,3
+Armada,empezó,3
+Armada,Tráfico,3
+López Montero,Ministerio Fiscal,3
+López Montero,Sr. Zugasti,3
+López Montero,Su Majestad,3
+LUIS TORRES,Madrid,3
+DEMOCRACIA,Guardia Civil,3
+DEMOCRACIA,Madrid,3
+CESID,Capitán GOMEZ,3
+Jefes,Sr. Zugasti,3
+España,Teniente General Miláns,3
+General Armada,Sr. Zugasti,3
+General Armada,General Miláns,3
+Batista,General Armada,3
+Región,VALENCIA,3
+Región,Sevilla,3
+Región,Servicio,3
+General Miláns,Valencia,3
+Juan Gris,Teniente General Miláns,3
+Pardo Zancada,Valencia,3
+Madrid,VALENCIA,3
+Allí,General Aramburu,3
+Sr. Hermosilla,Teniente General Miláns,3
+Madrid,Málaga,3
+Madrid,Ministro,3
+Madrid,Ministerio del Interior,3
+Sr. Hermosilla,Valencia,3
+Guardia Civil,Zona,3
+Allí,Coronel Sanmartín,3
+Jefes,López Montero,3
+Teniente General Miláns,Valencia,3
+Allí,Comandante Pardo,3
+Allí,Capitán Abad,3
+Fuerza Nueva,Guardia Civil,3
+Dirección General de la Guardia Civil,Guardias Civiles,3
+General Armada,General Torres Rojas,3
+Congreso,Zaragoza,3
+Guardia Civil,Recibió,3
+Armada,Regiones Militares,3
+Congreso,Coronel Tejero,3
+Capitanías,Coronel Ibáñez,3
+Capitanías,Constitución,3
+Pardo Zancada,Torres Rojas,3
+Sr. Hermosilla,Torres Rojas,3
+Coronel San Martín,Coronel Tejero,3
+Delicias,Gómez Iglesias,3
+Allí,España,3
+Después,Estado,3
+CORTINA,Gobierno,3
+HENARES,Madrid,3
+Después,la Ley,3
+Guardia Civil,Informe,3
+Coronel Tejero,General Armada,3
+Armada,El General,3
+Asegura,Constitución,3
+Armada,García Carrés,3
+Armada,General Fernández Campos,3
+CORTINA,Congreso,3
+Capitanías,Coronel Manchado,3
+Congreso,Sección,3
+Comandante Pardo,Oficiales,3
+Armada,Autoridad Militar,3
+Gobierno,Patria,3
+España,Secretario General,3
+Declaración,Ministerio Fiscal,3
+El Teniente Coronel Tejero,Madrid,3
+Armada,Manchado,3
+Armada,López Silva,3
+Coronel Ibáñez,General Juste,3
+Armada,Consejo Supremo de Justicia Militar,3
+Capitanías,General Juste,3
+Comandante Pardo,Manifiesta,3
+Capitán Gómez Iglesias,Manifiesta,3
+Aramburu,López Montero,3
+Allí,Torres Rojas,3
+Comandante Cortina,General Juste,3
+Comandante Cortina,Manifiesta,3
+Capitanías,General Aramburu,3
+Allí,Gómez Iglesias,3
+Capitanías,España,3
+Cortina,Guardias Civiles,3
+Armada,Sr. De Miguel,3
+2.6.- Interrogatorio,General Juste,3
+Armada,columna del,3
+Ante,Gobierno,3
+Capitán Batista,Mando,3
+Declaración,TORNO AL DESARROLLO,3
+Congreso,Suárez,3
+Allí,CESID,3
+Armada,Capitanías,3
+Armada,Asegura,3
+Congreso,Unidades,3
+Capitán de Navío Menéndez,General Armada,3
+Coronel Manchado,Galaxia,3
+Además,Allí,3
+Capitán de Navío Menéndez,Torres Rojas,3
+Comandante Pardo,Comandante Pardo Zancada,3
+Comandante Pardo,García Carrés,3
+CESID,Interrogatorio,3
+ARMADA,S.M. el Rey,3
+Congreso,El Comandante Cortina,3
+Ante,Constitución,3
+Congreso,Delicias,3
+Ante,Madrid,3
+ARMADA,División Acorazada,3
+Comandante,Después,3
+General Aramburu,Recibió,3
+Capitanía,Comandante Pardo,3
+Capitanía,Coronel San Martín,3
+Capitanía,Fuerzas Armadas,3
+Armada,Oficial,3
+Capitanía,General Armada,3
+Armada,Miláns del Bosch,3
+Armada,Ignora,3
+ARMADA,Armada,3
+Capitanía,Torres Rojas,3
+Gómez Iglesias,Manifiesta,3
+General Armada,Manifiesta,3
+Delicias,General Armada,3
+General Armada,Recibió,3
+Capitán Batista,Comandante Pardo Zancada,3
+General Juste,Oficiales,3
+General Juste,Recibió,3
+Armada,General Prieto,3
+Guardias Civiles,Pardo,3
+ALCAZAR,Congreso,3
+Gobierno,Jefes,3
+ALCAZAR,Madrid,3
+El Teniente Coronel Tejero,Zarzuela,3
+Comte,General Juste,3
+Gómez Iglesias,Teniente General Gutiérrez Mellado,3
+Cortina,Manchado,3
+Cortina,Ministerio Fiscal,3
+Coronel Ibáñez,TORNO AL DESARROLLO,3
+Cortina,Recibió,3
+Declaración,El Presidente,3
+Cortina,Torres Rojas,3
+Consejo Supremo de Justicia Militar,López Montero,3
+España,Redacción,3
+Gómez Iglesias,Tejero,3
+Gómez Iglesias,Quintana,3
+Comte,España,3
+Gómez Iglesias,Muñecas,3
+Gómez Iglesias,Milans,3
+Gómez Iglesias,Madrid,3
+Comte,Coronel Manchado,3
+Comte,Coronel Ibáñez,3
+Consejo Supremo de Justicia Militar,Gómez Iglesias,3
+España,Noviembre,3
+España,Justicia,3
+Coronel Ibáñez,Su Majestad,3
+Congreso,Generales Armada,3
+Constitución,Noviembre,3
+Constitución,Pardo Zancada,3
+Consejo Supremo de Justicia Militar,Recibió,3
+Añade,Guardia Civil,3
+Añade,Constitución,3
+Constitución,Sr. Hermosilla,3
+Autoridades,España,3
+Congreso,General Santamaría,3
+Madrid,Muñecas,3
+Comte,Guardia Civil,3
+Congreso,Ignora,3
+Areilza,Madrid,3
+Areilza,Guardia Civil,3
+Areilza,Gobierno,3
+Comte,Guardias Civiles,3
+Areilza,España,3
+Congreso,Ordenó,3
+Continúa,Ministerio Fiscal,3
+Consejo Supremo de Justicia Militar,Cortina,3
+Guardias Civiles,Tejero,3
+Comte,Constitución,3
+Congreso,Dirección General de la Guardia Civil,3
+ACTUACION,JUJEM,3
+Congreso de los Diputados,Guardias Civiles,3
+Comandante Pardo,General Prieto,3
+Gómez Iglesias,Sr. Hermosilla,3
+Gómez Iglesias,Torres Rojas,3
+Capitán Acera,General Armada,3
+Congreso,Está,3
+Constitución,General Prieto,3
+Congreso,Congreso de los Diputados,3
+Gómez Iglesias,López Montero,3
+General Armada,Muñecas,3
+Armada,Está,3
+Comandante Pardo,General Gabeiras,3
+Autoridad Militar,Gómez Iglesias,3
+Coronel Ibáñez,General Aramburu,3
+Galaxia,Gómez Iglesias,3
+Galaxia,General Aramburu,3
+López Montero,López Silva,3
+Gómez Iglesias,Manchado,3
+General Armada,Teniente General Gutiérrez Mellado,3
+Gobierno,Justicia,3
+Comandante Pardo,Ignora,3
+Congreso,Manchado,3
+Congreso,López Silva,3
+Antonio,España,3
+Armada,Coronel Tejero,3
+España,Recibió,3
+Guardia Civil,Muñecas,3
+Guardia Civil,Redacción,3
+Está,Guardia Civil,3
+Madrid,Policía Nacional,3
+CESID,Oficiales,3
+Comandante Pardo,Guardias Civiles,3
+Madrid,Redacción,3
+España,Historia,3
+Declaración,General Armada,3
+CESID,Sr. Hermosilla,3
+CESID,Recibió,3
+CESID,Manchado,3
+CESID,Manifiesta,3
+Comandante Pardo,Mando,3
+Capitanía,General Juste,3
+Coronel Manchado,Interrogatorio,3
+Constitución,Jefe Supremo,3
+Miguel,Valencia,3
+Congreso,Coronel Escandell,3
+Miguel,rebelión,3
+Congreso,Operación Galaxia,3
+PAMPLONA,SEVILLA,3
+España,General Prieto,3
+Congreso de los Diputados,España,3
+Congreso de los Diputados,Estado,3
+Constitución,GUARDIA,3
+General Juste,Mando,3
+Capitán Abad,Zarzuela,3
+Allí,Zarzuela,3
+General Juste,Sr. De Miguel,3
+Armada,Policía Nacional,3
+Capitanías Generales,Valencia,3
+Congreso de los Diputados,Fuerzas Armadas,3
+POLICIA,SEVILLA,3
+2.6.- Interrogatorio,Armada,3
+López Montero,Voz de Madrid,3
+SEGURIDAD,SEVILLA,3
+Capitanías Generales,Zarzuela,3
+Capitanes Generales,Valencia,3
+Abad,Cortina,3
+De Miguel,Guardia Civil,3
+Capitanes Generales,Congreso,3
+Coronel San Martín,García Carrés,3
+Dirección General de la Guardia Civil,España,3
+Fuerzas Armadas,Ministerio Fiscal,3
+Capitanías Generales,Congreso,3
+Alvarez,Congreso,3
+De Miguel,General Armada,3
+España,Miláns del Bosch,3
+General Torres Rojas,Gobierno,3
+García Carrés,Sr. De Miguel,3
+Capitanes Generales,Guardia Civil,3
+Guardia Civil,Interrogatorio,3
+García Carrés,General Juste,3
+España,Generales Armada,3
+España,Regiones Militares,3
+General Armada,Sr. De Miguel,3
+López Montero,llegó,3
+Capitanes Generales,España,3
+General Armada,columna del,3
+Capitanes Generales,Después,3
+General Juste,ningún,3
+Guardia Civil,Pintor Juan Gris,3
+Capitanes Generales,Constitución,3
+General Juste,llegó,3
+General Armada,Interrogatorio,3
+Capitanías Generales,Después,3
+Alvarez,España,3
+Asamblea,Guardia Civil,3
+General Juste,Servicio,3
+Madrid,SEVILLA,3
+General Juste,columna del,3
+Guardia Civil,columna del,3
+General Torres Rojas,llegó,3
+El General,General Juste,3
+General Juste,General Torres Rojas,3
+Asamblea,Constitución,3
+Gobierno,Sanz Esteban,3
+Constitución,Dirección General de la Guardia Civil,3
+General Aramburu,General Gabeiras,3
+Ejército,Fuerzas Armadas,3
+Ejército,Gobierno,3
+Guardia Civil,Voz de Madrid,3
+Comandante Pardo,Quintana,3
+Jefe Supremo,Ministerio Fiscal,3
+Abad,CESID,3
+Abad,Allí,3
+Comandante Pardo Zancada,Guardia Civil,3
+Allí,Operación,3
+Capitanías Generales,Estado Mayor,3
+2.6.- Interrogatorio,España,3
+Allí,Quintana,3
+Comandante Pardo Zancada,España,3
+Guardia Civil,Sr. Zugasti,3
+Comandante Pardo,Torres Rojas,3
+Coronel Escandell,General Armada,3
+General Juste,Jefes,3
+2.6.- Interrogatorio,Congreso,3
+Congreso,columna del,3
+López Montero,Sanz Esteban,3
+2.6.- Interrogatorio,General Armada,3
+Comandante Pardo,columna del,3
+López Montero,Presidente del Tribunal,3
+Armada,División,3
+Capitanías Generales,Guardia Civil,3
+Capitanías Generales,Gabeiras,3
+Asamblea,España,3
+Comandante Pardo,Policía Militar,3
+General Armada,Operación Galaxia,3
+Congreso,División Acorazada,3
+Ejército,Estado,3
+Guardia Civil,Teniente General Milans del Bosch,3
+Ignora,Valencia,2
+JUJEM,Teniente,2
+Consejo,Lérida,2
+General Milans del Bosch,Gobierno,2
+General Milans del Bosch,General Torres Rojas,2
+Ignora,columna del,2
+Consejo,Presidente del Tribunal,2
+JUJEM,Segura,2
+Después,Gral. Armada,2
+General Milans,de Valencia,2
+Consejo,Santamaría,2
+Consejo,Sala de Justicia,2
+General Juste,Tráfico,2
+General Milans del Bosch,General Santamaría,2
+General Armada,General Santamaría,2
+Constitución,General Miláns,2
+General Milans,columna del,2
+Estado Mayor,López Montero,2
+Gral. Armada,Tráfico,2
+General Juste,Gral. Armada,2
+General Milans,Teniente General,2
+JUJEM,Meer,2
+Estado Mayor,Gral. Armada,2
+Consejo,Pardo,2
+Constitución,General Gabeiras,2
+Gobierno,Meer,2
+Guardia Civil,empezó,2
+Está,Torres Rojas,2
+Allí,Presidente del Tribunal,2
+Allí,Servicio,2
+Capitán Pascual Galvez,Santamaría,2
+General Milans,General Torres Rojas,2
+Allí,llegó,2
+Capitán Pascual Galvez,Guardia Civil,2
+Brigada,Guardia Civil,2
+General Aramburu,Oficial,2
+Alvarez,Comandante,2
+Alvarez,Cuartel General,2
+General Juste,de Valencia,2
+General Aramburu,Ignora,2
+Brigada,General Juste,2
+Brigada,Cuartel General,2
+López Montero,parecía,2
+Alvarez,General Armada,2
+López Montero,Segura,2
+López Montero,columna del,2
+General Aramburu,General Miláns,2
+General Santamaría,Guardia Civil,2
+Comte,Oficial,2
+Armada,Menéndez,2
+General Santamaría,Ignora,2
+Allí,Gobierno,2
+Allí,General Torres Rojas,2
+Consejo,Gómez Iglesias,2
+Está,Oficial,2
+Bueno,¿Qué,2
+López Montero,empezó,2
+General Milans,Reina,2
+Además,Capitán Abad,2
+General Prieto,Ignora,2
+Además,Comandante Pardo,2
+General Milans,Región Militar,2
+Además,General Aramburu,2
+Además,llegó,2
+López Montero,Meer,2
+Constitución,Coronel Ibáñez,2
+Congreso,Secretario,2
+Está,General Juste,2
+General Milans del Bosch,Ignora,2
+Consejo,General Juste,2
+Está,Ignora,2
+Consejo,Coronel San Martín,2
+General Milans,Muñoz Perea,2
+López Montero,Región,2
+Consejeros,General Juste,2
+General Prieto,Regiones Militares,2
+General Milans,Ignora,2
+Consejeros,Cortina,2
+General Armada,Generales Armada,2
+General Miláns,Miláns del Bosch,2
+Coronel San Martín,Lérida,2
+Constitución,General Santamaría,2
+Gómez Iglesias,Sala de Justicia,2
+Cuartel General,Sr. Gómez García,2
+Gobierno,Segura,2
+General Torres Rojas,columna del,2
+General Juste,General Miláns,2
+Cuartel General,Santamaría,2
+Gómez Iglesias,Sr. Gómez García,2
+División,Secretario,2
+General Juste,General Prieto,2
+El Teniente,España,2
+Coronel Manchado,Director General de la Guardia Civil,2
+Alvarez,Guardia Civil,2
+General Juste,General Santamaría,2
+Gobierno,parecía,2
+General Torres Rojas,Segura,2
+El Teniente,General Armada,2
+General Gabeiras,General Santamaría,2
+General Torres Rojas,Reina,2
+El Teniente,General Juste,2
+Ejército,teléfono,2
+Cortina,Sr. Gómez García,2
+Cortina,Sanz Esteban,2
+General Torres Rojas,Muñoz Perea,2
+Cortina,Sala de Justicia,2
+General Torres Rojas,Meer,2
+General Juste,Generales Armada,2
+Lérida,Menéndez,2
+General Torres Rojas,de Valencia,2
+Gómez Iglesias,Presidente del Tribunal,2
+General Gabeiras,Ignora,2
+General Gabeiras,Policía Nacional,2
+General Juste,Sala de Justicia,2
+General Gabeiras,Regiones Militares,2
+Director General de la Guardia Civil,General Juste,2
+Director General de la Guardia Civil,General Armada,2
+General Juste,Santamaría,2
+Coronel Manchado,llegó,2
+Generales Milans,Región Militar,2
+Director General de la Guardia Civil,Guardias Civiles,2
+General Gabeiras,llegó,2
+División,General Gabeiras,2
+General Juste,Sr. Gómez García,2
+Coronel Manchado,Oficial,2
+Generales Milans,Gobierno,2
+Coronel Manchado,General Miláns,2
+Coronel Manchado,General Prieto,2
+Ejército,El Comandante,2
+General Gabeiras,Ordenó,2
+División,General Prieto,2
+División,General Santamaría,2
+General Gabeiras,Jefes,2
+General Juste,Parlamento,2
+General Juste,Menéndez,2
+División,Ignora,2
+División,Ordenó,2
+Gómez Iglesias,Menéndez,2
+EXTERIOR,Madrid,2
+General Torres Rojas,JUJEM,2
+Lérida,Sala de Justicia,2
+Lérida,Sr. Gómez García,2
+Coronel San Martín,Santamaría,2
+Santamaría,Sanz Esteban,2
+General Milans del Bosch,Muñoz Perea,2
+Santamaría,Sr. Gómez García,2
+Sanz Esteban,Sr. Gómez García,2
+Allí,Capitán Batista,2
+General Miláns,Guardias Civiles,2
+Allí,Tráfico,2
+Armada,Capitán Camacho,2
+Después,Oficiales,2
+Está,General Armada,2
+General Miláns,Torres Rojas,2
+General Prieto,General Santamaría,2
+Capitán Batista,Después,2
+Presidente del Tribunal,Sanz Esteban,2
+Coronel San Martín,Presidente del Tribunal,2
+Ignora,López Montero,2
+Ejército,¿Qué,2
+Constitución,Secretario,2
+Capitán Batista,Estado Mayor,2
+Constitución,Ordenó,2
+Constitución,Ignora,2
+Después,Milans del Bosch,2
+Capitán Camacho,Guardia Civil,2
+General Milans del Bosch,López Montero,2
+Coronel San Martín,Menéndez,2
+Constitución,Generales Armada,2
+General Milans del Bosch,Región Militar,2
+General Milans del Bosch,Segura,2
+General Juste,Oficial,2
+Cortina,Menéndez,2
+Menéndez,Pardo,2
+Cortina,Presidente del Tribunal,2
+General Torres Rojas,Ignora,2
+Menéndez,Sr. Gómez García,2
+Pardo,Sala de Justicia,2
+General Santamaría,Segura,2
+General Gabeiras,General Prieto,2
+General Juste,Ordenó,2
+Guardia Civil,Segura,2
+General Juste,Policía Nacional,2
+General Juste,Regiones Militares,2
+España,General Santamaría,2
+General Miláns,Generales Armada,2
+General Milans del Bosch,Teniente General,2
+General Santamaría,Muñoz Perea,2
+General Armada,Ordenó,2
+España,Ignora,2
+General Miláns,Guardia Civil,2
+España,Oficial,2
+Coronel Ibáñez,Miláns del Bosch,2
+España,Ordenó,2
+Coronel Ibáñez,Guardias Civiles,2
+Coronel Ibáñez,General Gabeiras,2
+General Prieto,Región,2
+General Milans del Bosch,parecía,2
+General Milans del Bosch,columna del,2
+Alvarez,General Juste,2
+Armada,Teniente General,2
+Alvarez,Presidente del Tribunal,2
+Cuartel General,División,2
+2.6.- Interrogatorio,Comte,2
+Cuartel General,El General Juste,2
+Al Sr. Hermosilla,Ignora,2
+Coronel Ibañez,General Aramburu,2
+2.6.- Interrogatorio,Constitución,2
+Coronel Ibañez,General Gabeiras,2
+2.6.- Interrogatorio,Coronel Ibáñez,2
+Alcalá,El Capitán,2
+Sanz Esteban,llegó,2
+Coronel Sanmartín,Presidente del Tribunal,2
+Coronel Sanmartín,López Montero,2
+2.6.- Interrogatorio,Coronel Manchado,2
+Al Sr. Hermosilla,Generales Milans,2
+Al Sr. Hermosilla,General Torres Rojas,2
+Parlamento,Pavía,2
+Junta Militar,Pavía,2
+Constitución,parecía,2
+Constitución,empezó,2
+Cuartel General,El Presidente,2
+2.6.- Interrogatorio,Comandante Pardo,2
+Servicio,Voz de Madrid,2
+Ayer,Guardias Civiles,2
+Servicio,Zaragoza,2
+Al Sr. Hermosilla,Teniente,2
+División,El General Juste,2
+Cuartel General,ningún,2
+Al Sr. Hermosilla,Región,2
+Cuartel General,Sr. Zugasti,2
+Cuartel General,Servicio,2
+Sr. Zugasti,llegó,2
+Cuartel General,Jefes,2
+Al Sr. Hermosilla,Muñoz Perea,2
+Constitución,Cuartel General de la DAC,2
+2.6.- Interrogatorio,Capitanías,2
+Cuartel General,General Aramburu,2
+2.6.- Interrogatorio,General Aramburu,2
+Coronel Ibañez,Ignora,2
+Guardias Civiles,Villaviciosa,2
+Comandante,Ejército,2
+Armada,El Teniente,2
+Comandante Pardo Zancada,Voz de Madrid,2
+Coronel Ibañez,llegó,2
+Cuartel General,General Milans,2
+Cuartel General,General Milans del Bosch,2
+Cuartel General,Meer,2
+Cuartel General,Muñoz Perea,2
+Al Sr. Hermosilla,General Gabeiras,2
+Bueno,Ejército,2
+Armada,General Santamaría,2
+Cuartel General,Reina,2
+Armada,Generales Armada,2
+Al Sr. Hermosilla,General Aramburu,2
+Armada,Jefes,2
+Cuartel General,Segura,2
+Armada,Director General de la Guardia Civil,2
+Coronel Ibañez,columna del,2
+Guardias Civiles,Pavía,2
+2.6.- Interrogatorio,Torres Rojas,2
+Coronel Ibañez,Meer,2
+2.6.- Interrogatorio,General Gabeiras,2
+Coronel Ibañez,Región,2
+Coronel Sanmartín,Gobierno,2
+Coronel Sanmartín,General Torres Rojas,2
+Coronel Sanmartín,General Juste,2
+Coronel Sanmartín,General Aramburu,2
+Coronel Sanmartín,España,2
+Coronel Ibañez,Segura,2
+2.6.- Interrogatorio,General Miláns,2
+2.6.- Interrogatorio,Guardia Civil,2
+Coronel Ibañez,Teniente General,2
+2.6.- Interrogatorio,Guardias Civiles,2
+2.6.- Interrogatorio,Ordenó,2
+2.6.- Interrogatorio,Regiones Militares,2
+Servicio,Sr. Zugasti,2
+Al Sr. Hermosilla,columna del,2
+General Juste,Teniente,2
+BRIPAC,de Valencia,2
+España,Sr. Zugasti,2
+BRIPAC,Reina,2
+España,Sanz Esteban,2
+España,General Torres Rojas,2
+BRIPAC,Segura,2
+General Juste,Voz de Madrid,2
+BRIPAC,Valencia,2
+BRIPAC,llegó,2
+Al Sr. Hermosilla,parecía,2
+General Juste,Zaragoza,2
+El Presidente,Voz de Madrid,2
+Ballesteros,Cuartel General de la DAC,2
+El Presidente,General Torres Rojas,2
+Ballesteros,General Aramburu,2
+El Presidente,General Aramburu,2
+Ballesteros,General Gabeiras,2
+BRIPAC,Muñoz Perea,2
+BRIPAC,Meer,2
+Comandante,Guardia,2
+BRIPAC,López Montero,2
+General Aramburu,ningún,2
+Armada,parecía,2
+BRIPAC,Coronel Ibañez,2
+General Aramburu,Zaragoza,2
+BRIPAC,Cuartel General,2
+Ayer,Ejército,2
+BRIPAC,General Torres Rojas,2
+General Aramburu,Sanz Esteban,2
+Armada,Segura,2
+BRIPAC,Gobierno,2
+General Aramburu,Presidente del Tribunal,2
+General Aramburu,General Torres Rojas,2
+Comandante,El Comandante,2
+BRIPAC,Guardia Civil,2
+BRIPAC,JUJEM,2
+General Torres Rojas,Jefes,2
+El General Juste,llegó,2
+General Torres Rojas,Presidente del Tribunal,2
+Ballesteros,López Montero,2
+Armada,BRIPAC,2
+División,General Torres Rojas,2
+Brigada,General Armada,2
+Aramburu,General Juste,2
+Comandante Pardo,División Azul,2
+Aramburu,Dopico,2
+Comandante Pardo,General Milans del Bosch,2
+Mando,Presidente del Tribunal,2
+Aramburu,Cuartel General de la DAC,2
+Comandante Pardo,Región,2
+Comandante Pardo,de Valencia,2
+Comandante Pardo,parecía,2
+Sanz Esteban,Servicio,2
+Aramburu,Ballesteros,2
+Sanz Esteban,Sr. Zugasti,2
+División,López Montero,2
+División,Mando,2
+General Torres Rojas,Sanz Esteban,2
+Armada,Cuartel General de la DAC,2
+El General Juste,López Montero,2
+El General Juste,Jefes,2
+General Torres Rojas,Servicio,2
+General Torres Rojas,Sr. Zugasti,2
+El General Juste,Gobierno,2
+Gobierno,Presidente del Tribunal,2
+El General Juste,General Torres Rojas,2
+El General Juste,General Juste,2
+Gobierno,Sr. Zugasti,2
+Gobierno,Voz de Madrid,2
+El General Juste,General Aramburu,2
+Ballesteros,Guardia Civil,2
+López Montero,Mando,2
+El General,General Aramburu,2
+División,ningún,2
+Comandante Pardo Zancada,Gobierno,2
+Comandante Pardo,ningún,2
+Armada,Ordenó,2
+Ayudante,llegó,2
+Ignora,Jefes,2
+General Aramburu,empezó,2
+Capitán Abad,Capitán Batista,2
+Ayudante,ningún,2
+Comandante Pardo,Oficial,2
+General Armada,Muñoz Perea,2
+Comandante Pardo,Ordenó,2
+Guardias Civiles,Junta Militar,2
+Cuartel General,parecía,2
+Guardias Civiles,llegó,2
+Guardias Civiles,Regiones Militares,2
+Guardias Civiles,Jefes,2
+Ayudante,Jefes,2
+Guardia Civil,Ordenó,2
+Comandante Pardo,Regiones Militares,2
+Ayudante,General Juste,2
+General Armada,Sanz Esteban,2
+Capitán Abad,Comandante Pardo Zancada,2
+General Aramburu,Teniente General,2
+General Aramburu,Teniente,2
+Dopico,López Montero,2
+España,Meer,2
+España,empezó,2
+Capitán Abad,División,2
+Comandante Pardo,General Santamaría,2
+Capitán Abad,Cuartel General,2
+Ignora,llegó,2
+General Aramburu,General Milans del Bosch,2
+General Aramburu,Generales Milans,2
+General Aramburu,Región,2
+Ignora,Torres Rojas,2
+General Aramburu,Región Militar,2
+Ignora,Policía Nacional,2
+Ignora,Oficial,2
+Capitán Abad,Coronel Sanmartín,2
+General Armada,empezó,2
+Generales Armada,ningún,2
+General Gabeiras,General Milans,2
+Comte,General Santamaría,2
+General Gabeiras,Teniente,2
+General Santamaría,llegó,2
+Asegura,España,2
+General Santamaría,Policía Nacional,2
+Asegura,División,2
+General Gabeiras,Valencia,2
+General Gabeiras,de Valencia,2
+General Gabeiras,parecía,2
+Comte,Ignora,2
+General Santamaría,Jefes,2
+Comte,Miláns del Bosch,2
+Asegura,Comandante,2
+Asegura,Capitán Abad,2
+Asegura,Ayudante,2
+Alvarez,ningún,2
+Asegura,General Aramburu,2
+Comte,General Miláns,2
+Ayudante,General Aramburu,2
+General Gabeiras,López Montero,2
+Ayudante,División,2
+Ayudante,Comandante Pardo,2
+Asegura,ningún,2
+Asegura,llegó,2
+Asegura,Servicio,2
+Comte,Está,2
+Asegura,López Montero,2
+General Gabeiras,Gobierno,2
+Asegura,Jefes,2
+Generales Armada,Torres Rojas,2
+Asegura,Gobierno,2
+Comte,General Aramburu,2
+General Gabeiras,JUJEM,2
+Asegura,General Juste,2
+Generales Armada,Miláns del Bosch,2
+Dopico,Guardia Civil,2
+Capitán Abad,López Montero,2
+Dopico,General Gabeiras,2
+Cuartel General de la DAC,General Juste,2
+Cuartel General de la DAC,JUJEM,2
+Comandante Pardo,Voz de Madrid,2
+Cuartel General de la DAC,López Montero,2
+Cuartel General de la DAC,Región,2
+Torres Rojas,llegó,2
+Cuartel General de la DAC,Reina,2
+Cuartel General de la DAC,Valencia,2
+Capitanías,General Gabeiras,2
+Capitanías,General Miláns,2
+Regiones Militares,llegó,2
+Regiones Militares,Torres Rojas,2
+División,División Azul,2
+División Azul,España,2
+Comandante Pardo,Sanz Esteban,2
+Capitanías,Guardia Civil,2
+Comandante Pardo,Zaragoza,2
+Cuartel General de la DAC,General Armada,2
+Comandante,Residencia,2
+Torres Rojas,ningún,2
+Asegura,Parlamento,2
+Al Sr. Hermosilla,División Azul,2
+Al Sr. Hermosilla,Cuartel General,2
+Capitanía,Coronel Manchado,2
+Capitanía,General Aramburu,2
+Cuartel General de la DAC,División,2
+Capitanía,Ordenó,2
+Bueno,Guardia Civil,2
+Cuartel General de la DAC,Dopico,2
+Capitanía,Regiones Militares,2
+Capitanía,Secretario,2
+Bueno,teléfono,2
+Capitanía,llegó,2
+Capitanías,Capitán Abad,2
+Capitanías,Comte,2
+Capitanías,Guardias Civiles,2
+Policía Nacional,llegó,2
+Capitán Abad,Voz de Madrid,2
+Comandante,Cuartel General,2
+Capitán Batista,llegó,2
+Capitán Batista,Sr. Zugasti,2
+Comandante Pardo,Comte,2
+División Azul,Región,2
+Capitán Batista,Sanz Esteban,2
+División Azul,Región Militar,2
+Comandante Pardo,Director General de la Guardia Civil,2
+Capitán Batista,Presidente del Tribunal,2
+Miláns del Bosch,Torres Rojas,2
+Capitán Batista,General Torres Rojas,2
+Jefes,Regiones Militares,2
+Comandante Pardo,Está,2
+Capitán Batista,Cuartel General,2
+Dopico,General Aramburu,2
+Capitán Abad,Zaragoza,2
+División Azul,Muñoz Perea,2
+Capitán Abad,Torres Rojas,2
+División Azul,General Aramburu,2
+Comandante,General Juste,2
+Policía Nacional,Regiones Militares,2
+División Azul,General Armada,2
+División Azul,General Juste,2
+Capitanías,Torres Rojas,2
+Capitán Abad,Director General de la Guardia Civil,2
+Después,El Comandante,2
+Ordenó,Secretario,2
+Comandante Pardo,El Presidente,2
+Comandante Pardo,El General Juste,2
+Capitán Abad,General Prieto,2
+Ordenó,Regiones Militares,2
+Comandante Pardo,Cuartel General,2
+Comandante Pardo,Coronel Sanmartín,2
+Capitán Abad,Oficial,2
+Comandante,ningún,2
+General Aramburu,General Santamaría,2
+Extremadura,Movimiento Comunista,2
+Meer,Muñoz Perea,2
+Consejo Supremo de Justicia Militar,Patria,2
+España,Muñecas,2
+España,Interrogatorio,2
+Coronel Manchado,Sumario,2
+Consejo Supremo de Justicia Militar,según,2
+Consejo Supremo de Justicia Militar,Valdemoro,2
+Consejo Supremo de Justicia Militar,Sumario,2
+Consejo Supremo de Justicia Militar,Policía Militar,2
+Consejo Supremo de Justicia Militar,Muñecas,2
+General Armada,Sr. Sanz Arribas,2
+Consejo Supremo de Justicia Militar,El Teniente Coronel Tejero,2
+Consejo Supremo de Justicia Militar,Coronel Manchado,2
+Congreso,según,2
+Congreso,Patria,2
+Comandante Pardo Zancada,Sr. Sanz Arribas,2
+Comandante Pardo,Consejo Supremo de Justicia Militar,2
+Comandante Cortina,Voz de Madrid,2
+General Armada,Patria,2
+General Armada,Valdemoro,2
+Comandante Cortina,Gobierno,2
+Interrogatorio,Sumario,2
+Muñecas,Su Majestad,2
+Muñecas,Patria,2
+Manifiesta,Policía Militar,2
+Madrid,Valdemoro,2
+López Montero,Sr. Sanz Arribas,2
+López Montero,Policía Militar,2
+Interrogatorio,Zarzuela,2
+Interrogatorio,Su Majestad,2
+Gobierno,Gómez Iglesias,2
+Gómez Iglesias,Voz de Madrid,2
+Gómez Iglesias,Su Majestad,2
+Gómez Iglesias,Policía Militar,2
+Gómez Iglesias,Patria,2
+Gómez Iglesias,Interrogatorio,2
+Gobierno,Policía Militar,2
+Gobierno,Interrogatorio,2
+Comandante Cortina,Policía Militar,2
+Abad,Milans,2
+Patria,Valdemoro,2
+Oficiales,Pardo,2
+Areilza,Comandante Pardo,2
+Areilza,CESID,2
+Recibió,Sr. De Miguel,2
+Pardo,Sr. De Miguel,2
+Pardo,Recibió,2
+Oficiales,Sr. De Miguel,2
+Oficiales,Recibió,2
+Niega,Tejero,2
+Areilza,Consejo Supremo de Justicia Militar,2
+Manifiesta,Servicio,2
+Manchado,Pardo,2
+Lérida,Manchado,2
+Gómez Iglesias,Niega,2
+Guardias Civiles,Niega,2
+Guardias Civiles,Manchado,2
+General Juste,Manchado,2
+Areilza,Congreso,2
+Areilza,Coronel Manchado,2
+Capitán Gómez Iglesias,Voz de Madrid,2
+Capitán Abad,Interrogatorio,2
+Capitán Gómez Iglesias,Interrogatorio,2
+Capitán Cid Fortea,Sumario,2
+Capitán Cid Fortea,Interrogatorio,2
+Capitán Cid Fortea,General Armada,2
+Capitán Cid Fortea,Coronel Manchado,2
+Capitán Batista,Gómez Iglesias,2
+Capitán Abad,Sumario,2
+Capitán Abad,Capitán Cid Fortea,2
+Areilza,General Armada,2
+CESID,según,2
+CESID,Voz de Madrid,2
+CESID,Sumario,2
+CESID,Muñecas,2
+CESID,Capitán Batista,2
+Areilza,Policía Militar,2
+Areilza,López Montero,2
+Muñecas,Valdemoro,2
+Policía Militar,Zarzuela,2
+Meer,Reina,2
+Capitán Gómez Iglesias,Hermosilla,2
+Comandante,Coronel San Martín,2
+Centro,Orden,2
+Centro,Gómez Iglesias,2
+Centro,General Armada,2
+Centro,Delicias,2
+Capitán Gómez Iglesias,Sr. Hermosilla,2
+Capitán Gómez Iglesias,Operación Galaxia,2
+Capitán Gómez Iglesias,Escandell,2
+Comandante Cortina,Operación Galaxia,2
+Capitán Camacho,Orden,2
+Capitán Camacho,Gómez Iglesias,2
+Capitán Camacho,General Armada,2
+Capitán Camacho,Delicias,2
+Capitán Camacho,Centro,2
+CESID,Operación Galaxia,2
+CESID,Hermosilla,2
+Comandante Cortina,Escandell,2
+Comandante Cortina,Quintana,2
+CESID,Capitán Camacho,2
+Gómez Iglesias,Hermosilla,2
+CESID,Milans,2
+Ballesteros,Juan Gris,2
+Superioridad,Zarzuela,2
+Sr. Hermosilla,Superioridad,2
+Operación Galaxia,Servicio,2
+Gómez Iglesias,Orden,2
+Gómez Iglesias,Operación Galaxia,2
+General Armada,Superioridad,2
+Consejeros,Operación Galaxia,2
+General Armada,Orden,2
+Escandell,Sr. Hermosilla,2
+Escandell,Gómez Iglesias,2
+Delicias,Orden,2
+Coronel San Martín,Policía Militar,2
+Coronel Escandell,Quintana,2
+Constitución,Superioridad,2
+CESID,Delicias,2
+Asegura,Zarzuela,2
+Su Majestad,Valdemoro,2
+Capitanías,Valencia,2
+Constitución,Interrogatorio,2
+Constitución,Hermosilla,2
+Constitución,Coronel Escandell,2
+Capitán Acera,Operación Galaxia,2
+Capitán Acera,Milans,2
+Capitán Acera,Juan Gris,2
+Capitán Abad,Hermosilla,2
+Capitanías,Pardo,2
+Coronel Escandell,Coronel San Martín,2
+Capitanías,Juan Gris,2
+Capitanías,Interrogatorio,2
+Autoridades,General Armada,2
+Autoridades,Cuartel General,2
+Autoridades,Coronel San Martín,2
+Al Sr. Hermosilla,Juan Gris,2
+Al Sr. Hermosilla,Capitán Abad,2
+Constitución,Operación Galaxia,2
+Coronel Escandell,Hermosilla,2
+Asegura,Escandell,2
+Juan Gris,Milans,2
+Asegura,Comandante Cortina,2
+Asegura,CESID,2
+Armada,Superioridad,2
+Armada,Operación Galaxia,2
+Armada,Coronel Escandell,2
+Milans,Operación Galaxia,2
+Juan Gris,Operación Galaxia,2
+Interrogatorio,Valencia,2
+Coronel Escandell,Milans,2
+Interrogatorio,Pardo,2
+Hermosilla,Operación Galaxia,2
+Hermosilla,Juan Gris,2
+Guardia Civil,Operación Galaxia,2
+Coronel San Martín,Operación Galaxia,2
+Coronel Manchado,Hermosilla,2
+Coronel Escandell,Operación Galaxia,2
+General Armada,Manchado,2
+General Aramburu,Oficiales,2
+General Aramburu,Manchado,2
+Guardias Civiles,Muñecas,2
+Madrid,Quintana,2
+Antonio,Está,2
+Gómez Iglesias,Tráfico,2
+Gómez Iglesias,Teniente,2
+Gómez Iglesias,Operación,2
+Guardias Civiles,Tráfico,2
+Guardias Civiles,Teniente General Gutiérrez Mellado,2
+Guardias Civiles,Milans,2
+Madrid,Teniente General Gutiérrez Mellado,2
+Guardias,Zarzuela,2
+Guardias,Muñecas,2
+Guardias,Gómez Iglesias,2
+General Prieto,Teniente General Gutiérrez Mellado,2
+General Prieto,Tejero,2
+General Prieto,Muñecas,2
+General Prieto,Milans,2
+Madrid,Tejero,2
+Milans,Muñecas,2
+General Prieto,Gómez Iglesias,2
+Quintana,Teniente General Gutiérrez Mellado,2
+Tejero,Tráfico,2
+Tejero,Teniente General Gutiérrez Mellado,2
+Tejero,Teniente,2
+Servicio,Tráfico,2
+Servicio,Tejero,2
+Quintana,teléfono,2
+Quintana,Teniente General Milans,2
+Operación,teléfono,2
+Milans,Tejero,2
+Operación,Teniente General Milans,2
+Operación,Teniente General Gutiérrez Mellado,2
+Muñecas,Zarzuela,2
+Muñecas,Teniente General Gutiérrez Mellado,2
+Muñecas,Teniente,2
+Muñecas,Tejero,2
+Milans,Teniente General Gutiérrez Mellado,2
+General Prieto,Madrid,2
+General Armada,teléfono,2
+General Aramburu,Lérida,2
+Delicias,Milans,2
+Delicias,Zarzuela,2
+Delicias,Teniente General Gutiérrez Mellado,2
+Delicias,Teniente,2
+Delicias,Tejero,2
+Delicias,Servicio,2
+Delicias,Quintana,2
+Delicias,Muñecas,2
+Delicias,Madrid,2
+Diputados,Gómez Iglesias,2
+Delicias,Guardias Civiles,2
+Delicias,Guardia Civil,2
+Delicias,General Prieto,2
+Coronel Manchado,Tráfico,2
+Coronel Manchado,Teniente General Gutiérrez Mellado,2
+Coronel Manchado,Servicio,2
+Coronel Manchado,Quintana,2
+Diputados,General Aramburu,2
+Diputados,Operación,2
+General Armada,Tráfico,2
+Galaxia,Tráfico,2
+Antonio,¿Qué,2
+General Aramburu,Tráfico,2
+General Aramburu,Teniente General Gutiérrez Mellado,2
+General Aramburu,Tejero,2
+General Aramburu,S.M. el Rey,2
+General Aramburu,Quintana,2
+General Aramburu,Operación,2
+Galaxia,Tejero,2
+Diputados,Quintana,2
+Galaxia,Servicio,2
+El Teniente Coronel Tejero,S.M. el Rey,2
+El Teniente Coronel Tejero,Muñecas,2
+El Teniente Coronel Tejero,Gómez Iglesias,2
+El Teniente Coronel Tejero,Guardias,2
+El Teniente Coronel Tejero,General Aramburu,2
+Diputados,Teniente General Gutiérrez Mellado,2
+Teniente General Gutiérrez Mellado,Zarzuela,2
+Teniente General Milans,teléfono,2
+Zarzuela,teléfono,2
+Coronel Manchado,Oficiales,2
+Coronel Tejero,García Carrés,2
+Coronel Tejero,Cortina,2
+Coronel San Martín,Recibió,2
+Coronel San Martín,Oficiales,2
+Coronel San Martín,Manifiesta,2
+Coronel San Martín,General Jefe,2
+Coronel Manchado,Recibió,2
+Coronel Manchado,Manifiesta,2
+Coronel Tejero,General Juste,2
+Coronel Manchado,Manchado,2
+Coronel Manchado,Lérida,2
+Coronel Manchado,García Carrés,2
+Coronel Manchado,Coronel Tejero,2
+Conocía,Niega,2
+Comandante Pardo,Recibió,2
+Comandante Pardo,Coronel Tejero,2
+Coronel Tejero,General Aramburu,2
+Coronel Tejero,Oficiales,2
+Abad,Capitán Gómez Iglesias,2
+El Fiscal,Oficiales,2
+García Carrés,Recibió,2
+García Carrés,Pardo,2
+García Carrés,Oficiales,2
+García Carrés,General Aramburu,2
+Galaxia,Pardo,2
+Galaxia,Manchado,2
+Galaxia,General Juste,2
+Cortina,Tráfico,2
+Coronel Tejero,Pardo,2
+Cortina,Sr. De Miguel,2
+Cortina,Oficiales,2
+Cortina,Niega,2
+Cortina,García Carrés,2
+Cortina,Galaxia,2
+Coronel Tejero,Sr. De Miguel,2
+Coronel Tejero,Recibió,2
+Comandante Cortina,Oficiales,2
+Comandante Cortina,Niega,2
+Comandante Cortina,El Fiscal,2
+CESID,Conocía,2
+Capitán Abad,Capitán Dusmet,2
+Capitán Abad,Capitán Acera,2
+CESID,Lérida,2
+Antonio,Armada,2
+CESID,Galaxia,2
+CESID,El Fiscal,2
+CESID,Coronel Tejero,2
+Armada,Manifiesta,2
+Capitán Gómez Iglesias,Oficiales,2
+Armada,Capitán García Almenta,2
+Alcalá,General Juste,2
+Alcalá,El Fiscal,2
+Alcalá,Comandante Cortina,2
+Alcalá,Capitán Gómez Iglesias,2
+Alcalá,CESID,2
+Abad,Pardo,2
+Capitán Abad,Cortina,2
+Capitán Abad,Manifiesta,2
+Capitán Acera,Comandante Cortina,2
+Capitán Acera,Coronel San Martín,2
+Capitán Gómez Iglesias,Manchado,2
+Capitán Gómez Iglesias,Lérida,2
+Capitán Gómez Iglesias,Galaxia,2
+Capitán Gómez Iglesias,El Fiscal,2
+Capitán García Almenta,Servicio,2
+Capitán García Almenta,Manifiesta,2
+Capitán García Almenta,General Armada,2
+Capitán Dusmet,Manifiesta,2
+Capitán Dusmet,Gómez Iglesias,2
+Capitán Dusmet,General Armada,2
+Capitán Acera,Servicio,2
+Capitán Acera,Pardo,2
+Capitán Acera,Gómez Iglesias,2
+Capitán Acera,General Juste,2
+Capitán Acera,General Jefe,2
+Comandante Cortina,calle General Cabrera,2
+Dopico,Juan Gris,2
+Abad,Gobierno Militar,2
+CESID,Coronel SAN MARTIN,2
+Milans,Teniente General Milans del Bosch,2
+General Armada,Zugasti,2
+General Armada,López Silva,2
+De Miguel,Zugasti,2
+Niega,Su Majestad,2
+Gobierno,Niega,2
+Coronel SAN MARTIN,General TORRES,2
+ARMADA,Niega,2
+General Fernández Campos,Zarzuela,2
+Muñoz Grandes,Oficiales,2
+López Montero,Oficiales,2
+López Montero,Muñoz Grandes,2
+General Juste,Muñoz Grandes,2
+Enero,López Montero,2
+Enero,General Milans,2
+Coronel Ibañez,Oficiales,2
+General Fernández Campos,S.M. el Rey,2
+Niega,Teniente,2
+Coronel Ibañez,Enero,2
+España,INFORMACIONES,2
+Pardo Zancada,TORNO AL DESARROLLO,2
+INFORMACIONES,Teniente,2
+INFORMACIONES,TORNO AL DESARROLLO,2
+INFORMACIONES,Su Majestad,2
+Gral. Armada,TORNO AL DESARROLLO,2
+Gral. Armada,Su Majestad,2
+General Armada,INFORMACIONES,2
+Código de Justicia Militar,Teniente,2
+BOZA CARRANCO,Código de Justicia Militar,2
+Coronel Tejero,TORNO AL DESARROLLO,2
+Coronel Tejero,Pardo Zancada,2
+Coronel Tejero,El Presidente,2
+Coronel San Martín,TORNO AL DESARROLLO,2
+Congreso,INFORMACIONES,2
+Capitán de Navío Menéndez,Coronel Ibáñez,2
+BOZA CARRANCO,Teniente,2
+Coronel Ibañez,Muñoz Grandes,2
+Comandante Pardo,Muñoz Grandes,2
+Batista,Villalonga,2
+Comenzó,Presidente del Tribunal,2
+Consejo,General Armada,2
+Consejo,Coronel Ibáñez,2
+Congreso,Grupos Tácticos,2
+Comte,calle General Cabrera,2
+Comte,Zarzuela,2
+Comte,Presidente del Tribunal,2
+Comte,Enero,2
+Comenzó,General Juste,2
+Consejo,Torres Rojas,2
+Comenzó,Comte,2
+Capitán Gómez Iglesias,Comte,2
+Capitanías,Zarzuela,2
+Capitanías,Teniente General Miláns,2
+Capitanías,Sr. Hermosilla,2
+CESID,General Caruana,2
+Batista,calle General Cabrera,2
+Consejo,Interrogatorio,2
+Coronel Ibáñez,Zarzuela,2
+Comandante Cortina,Teniente General Milans,2
+Grupos Tácticos,Sala de Justicia,2
+Comandante Cortina,Enero,2
+Comandante Cortina,Coronel Ibañez,2
+CESID,Tenientes de la Guardia Civil,2
+Batista,Madrid,2
+Batista,Guardia Civil,2
+Teniente General Miláns,Zarzuela,2
+Guardias Civiles,Villalonga,2
+General Juste,Teniente General Miláns,2
+Enero,Escandell,2
+General Juste,Sr. Hermosilla,2
+General Aramburu,Teniente General Miláns,2
+General Aramburu,Sr. Hermosilla,2
+Escandell,General Caruana,2
+Enero,Presidente del Tribunal,2
+Enero,General Juste,2
+Enero,General Caruana,2
+TORNO AL DESARROLLO,Teniente,2
+CESID,Informe,2
+CESID,LINEAS,2
+Anexo,Recibió,2
+Consejo Supremo de Justicia Militar,El Presidente,2
+Consejo Supremo de Justicia Militar,División Azul,2
+Capitanía,División Azul,2
+Capitanía,Declaración,2
+CESID,Capitanía,2
+Armada,Pardo de Santayana,2
+Anexo,TORNO AL DESARROLLO,2
+Anexo,Pardo de Santayana,2
+Consejo Supremo de Justicia Militar,General Juste,2
+Anexo,Madrid,2
+Anexo,General Juste,2
+Anexo,General Armada,2
+Anexo,General Aramburu,2
+Anexo,Fuerzas Armadas,2
+Anexo,España,2
+Anexo,División Azul,2
+Consejo Supremo de Justicia Militar,General Aramburu,2
+Constitución,Declaración,2
+CESID,Pardo de Santayana,2
+Madrid,Recibió,2
+Consejo Supremo de Justicia Militar,Superioridad,2
+Consejo Supremo de Justicia Militar,OIDREP,2
+Capitanías,OIDREP,2
+Capitanías,Consejo Supremo de Justicia Militar,2
+Anexo,Superioridad,2
+Recibió,TORNO AL DESARROLLO,2
+Pardo de Santayana,Recibió,2
+General Juste,TORNO AL DESARROLLO,2
+Coronel Ibañez,Cortina,2
+General Juste,Pardo de Santayana,2
+General Aramburu,TORNO AL DESARROLLO,2
+General Aramburu,Pardo de Santayana,2
+División Azul,Fuerzas Armadas,2
+Declaración,Fuerzas Armadas,2
+Declaración,División Azul,2
+Coronel Ibañez,TORNO AL DESARROLLO,2
+Anexo,Declaración,2
+Anexo,Constitución,2
+Anexo,Capitanía,2
+Cortina,Declaración,2
+Declaración,Niega,2
+Declaración,Madrid,2
+Declaración,LINEAS,2
+Declaración,Informe,2
+Cortina,Pardo de Santayana,2
+Cortina,LINEAS,2
+Cortina,Informe,2
+Continúa,TORNO AL DESARROLLO,2
+Anexo,CESID,2
+Consejo Supremo de Justicia Militar,Teniente,2
+Consejo Supremo de Justicia Militar,Pardo,2
+Consejo Supremo de Justicia Militar,Niega,2
+Consejo Supremo de Justicia Militar,LINEAS,2
+Consejo Supremo de Justicia Militar,Informe,2
+Congreso,LINEAS,2
+Congreso,Informe,2
+Declaración,Pardo,2
+Declaración,Pardo de Santayana,2
+España,LINEAS,2
+General Armada,Informe,2
+Anexo,Armada,2
+Pardo,TORNO AL DESARROLLO,2
+Pardo,Pardo de Santayana,2
+LINEAS,TORNO AL DESARROLLO,2
+LINEAS,Pardo de Santayana,2
+LINEAS,Pardo,2
+LINEAS,Madrid,2
+Informe,TORNO AL DESARROLLO,2
+Informe,Pardo de Santayana,2
+Informe,Pardo,2
+Informe,LINEAS,2
+Guardia Civil,TORNO AL DESARROLLO,2
+Guardia Civil,Pardo de Santayana,2
+Guardia Civil,LINEAS,2
+General Armada,LINEAS,2
+Batista,Zarzuela,2
+Batista,Valencia,2
+General Juste,Juan Gris,2
+Allí,Capitán Gómez Iglesias,2
+Armada,Villalonga,2
+Armada,Coronel Sanmartín,2
+Allí,calle General Cabrera,2
+Allí,Oficial,2
+Allí,General Milans del Bosch,2
+Allí,Enero,2
+Allí,Comenzó,2
+Al Sr. Villalonga,Villalonga,2
+Autoridad Militar,Pardo,2
+Al Sr. Villalonga,Quintana,2
+Al Sr. Villalonga,Pardo,2
+Al Sr. Villalonga,Palace,2
+Al Sr. Villalonga,Operación,2
+Al Sr. Villalonga,Oficial,2
+Al Sr. Villalonga,Gómez Iglesias,2
+Al Sr. Villalonga,Guardia Civil,2
+Autoridad Militar,General Armada,2
+Autoridad Militar,Teniente General Gutiérrez Mellado,2
+Al Sr. Villalonga,General Aramburu,2
+Comenzó,Coronel Manchado,2
+Comenzó,Operación,2
+Comenzó,Oficial,2
+Comenzó,Gómez Iglesias,2
+Comenzó,General Milans del Bosch,2
+Comenzó,General Aramburu,2
+Comenzó,Cortina,2
+Comenzó,Coronel Sanmartín,2
+Capitán Gómez Iglesias,Palace,2
+Autoridad Militar,Villalonga,2
+Capitán Gómez Iglesias,Operación,2
+Capitán Gómez Iglesias,Oficial,2
+Capitán Gómez Iglesias,Coronel Sanmartín,2
+CESID,Teniente General Gutiérrez Mellado,2
+CESID,Operación,2
+CESID,Oficial,2
+CESID,Coronel Sanmartín,2
+Al Sr. Villalonga,General Milans del Bosch,2
+Al Sr. Villalonga,España,2
+Batista,Torres Rojas,2
+General Caruana,Teniente General,2
+General Milans,ningún,2
+General Milans,calle General Cabrera,2
+General Milans,Torres Rojas,2
+General Juste,Sr. García Carrés,2
+General Juste,Pardo Zancada,2
+General Caruana,calle General Cabrera,2
+General Caruana,Torres Rojas,2
+Coronel San Martín,Sr. García Carrés,2
+Pardo Zancada,Sr. García Carrés,2
+Coronel Ibañez,calle General Cabrera,2
+Coronel Ibañez,Sr. García Carrés,2
+Coronel Ibañez,Pardo Zancada,2
+Bando,calle General Cabrera,2
+Ante,calle General Cabrera,2
+Ante,Capitanes Generales,2
+Juan Gris,calle General Cabrera,2
+General Milans del Bosch,Pintor Juan Gris,2
+Pintor Juan Gris,Torres Rojas,2
+Al Sr. Villalonga,Cortina,2
+Al Sr. Hermosilla,Enero,2
+Al Sr. Villalonga,Coronel Sanmartín,2
+Al Sr. Villalonga,Coronel Manchado,2
+Al Sr. Villalonga,Allí,2
+Al Sr. Hermosilla,calle General Cabrera,2
+Al Sr. Hermosilla,Quintana,2
+Al Sr. Hermosilla,Operación,2
+Al Sr. Hermosilla,Oficial,2
+Al Sr. Hermosilla,Coronel Sanmartín,2
+Pintor Juan Gris,calle General Cabrera,2
+Al Sr. Hermosilla,Comenzó,2
+Al Sr. Hermosilla,Capitán Gómez Iglesias,2
+Al Sr. Hermosilla,Allí,2
+Al Sr. Hermosilla,Al Sr. Villalonga,2
+Teniente General,calle General Cabrera,2
+Teniente General,Torres Rojas,2
+Presidente del Tribunal,Teniente General,2
+Comenzó,Palace,2
+Comenzó,Pardo,2
+Comenzó,Quintana,2
+Al Sr. Quintana,Batista,2
+Al Sr. Quintana,Zarzuela,2
+Al Sr. Quintana,Presidente del Tribunal,2
+Al Sr. Quintana,General Juste,2
+Al Sr. Quintana,General Armada,2
+Al Sr. Quintana,Enero,2
+Al Sr. Quintana,Comenzó,2
+Al Sr. Quintana,Capitán Gómez Iglesias,2
+Al Sr. Quintana,Al Sr. Villalonga,2
+Al Sr. Villalonga,Batista,2
+Villalonga,calle General Cabrera,2
+Villalonga,Zarzuela,2
+Torres Rojas,Villalonga,2
+Teniente General Gutiérrez Mellado,Villalonga,2
+Quintana,calle General Cabrera,2
+Pardo,calle General Cabrera,2
+Pardo,Teniente General Gutiérrez Mellado,2
+Al Sr. Quintana,calle General Cabrera,2
+Al Sr. Villalonga,Comte,2
+Comenzó,Villalonga,2
+Batista,Cortina,2
+Batista,Presidente del Tribunal,2
+Batista,Pardo,2
+Batista,Gómez Iglesias,2
+Batista,Guardias Civiles,2
+Batista,General Juste,2
+Batista,España,2
+Batista,Enero,2
+Batista,Comenzó,2
+Al Sr. Villalonga,General Juste,2
+Batista,Capitán Gómez Iglesias,2
+Bando,Sala de Justicia,2
+Bando,Grupos Tácticos,2
+Armada,Batista,2
+Ante,Capitanías,2
+Al Sr. Villalonga,Valencia,2
+Al Sr. Villalonga,Presidente del Tribunal,2
+Palace,calle General Cabrera,2
+Palace,Zarzuela,2
+Palace,Villalonga,2
+Coronel Sanmartín,calle General Cabrera,2
+Enero,Oficial,2
+Enero,Gómez Iglesias,2
+Enero,General Milans del Bosch,2
+Enero,General Aramburu,2
+Cortina,Zarzuela,2
+Cortina,Teniente General Gutiérrez Mellado,2
+Cortina,Palace,2
+Coronel Sanmartín,Zarzuela,2
+Palace,Pardo,2
+Coronel Sanmartín,Torres Rojas,2
+Coronel Sanmartín,Quintana,2
+Coronel Sanmartín,Operación,2
+Coronel Sanmartín,Oficial,2
+Coronel Sanmartín,General Milans del Bosch,2
+Coronel Sanmartín,Enero,2
+Coronel Manchado,Villalonga,2
+Enero,Operación,2
+Enero,Palace,2
+Enero,Quintana,2
+Enero,Región Militar,2
+Operación,calle General Cabrera,2
+Oficial,calle General Cabrera,2
+Oficial,Zarzuela,2
+Oficial,Quintana,2
+Oficial,Operación,2
+Gómez Iglesias,Palace,2
+General Milans del Bosch,Operación,2
+General Milans del Bosch,Oficial,2
+General Armada,Palace,2
+General Aramburu,calle General Cabrera,2
+General Aramburu,Villalonga,2
+General Aramburu,Palace,2
+España,Teniente General Gutiérrez Mellado,2
+España,Palace,2
+Enero,Villalonga,2
+Coronel Manchado,Operación,2
+Coronel Manchado,Muñecas,2
+Coronel Manchado,Milans,2
+General Armada,Pavía,2
+Operación,Reina,2
+Operación,Región,2
+Melilla,Zarzuela,2
+Melilla,Reina,2
+Melilla,Operación,2
+JUJEM,Operación,2
+JUJEM,Melilla,2
+Gral,Reina,2
+Ante,Capitán Batista,2
+Gral,Operación,2
+Gral,Melilla,2
+Estado Mayor,Operación,2
+Estado Mayor,Melilla,2
+Estado Mayor,Gral,2
+España,Manifiesta,2
+Después,Operación,2
+Operación,S.M. el Rey,2
+Ante,Coronel San Martín,2
+Después,Gral,2
+Ante,de Valencia,2
+Capitanía,López Montero,2
+Capitanía,El Presidente,2
+Capitanía,Coronel Ibañez,2
+Armada,llamó,2
+Bueno,Villaviciosa,2
+General Armada,Junta Militar,2
+Armada,Jefes y Oficiales,2
+Ante,Sr. de Miguel,2
+Ante,Después,2
+Ante,Sr. Hermosilla,2
+Ante,Sanz Arribas,2
+Ante,Regiones Militares,2
+Ante,Milans,2
+Ante,López Montero,2
+Ante,Gral. Armada,2
+Ante,Gral,2
+Después,Melilla,2
+Coronel SAN MARTIN,Guardia Civil,2
+Gral. Milans,Sanz Arribas,2
+Madrid,Miguel,2
+Santamaría,Sanz Arribas,2
+Región Militar,Torres Rojas,2
+Región Militar,Sanz Arribas,2
+Palace,Valencia,2
+Palace,Región Militar,2
+Muñoz Perea,Torres Rojas,2
+Madrid,Sanz Arribas,2
+López Montero,Santamaría,2
+Santamaría,Torres Rojas,2
+Luego,Valencia,2
+Luego,López Montero,2
+JUJEM,Presidente del Gobierno,2
+JUJEM,Luego,2
+Guardias Civiles,Palace,2
+Guardia Civil,Palace,2
+Guardia Civil,Luego,2
+Santamaría,Seguidamente,2
+Sanz Arribas,Torres Rojas,2
+Constitución,Operación,2
+Congreso,Melilla,2
+Constitución,Manifiesta,2
+Consejeros,Zarzuela,2
+Consejeros,S.M. el Rey,2
+Consejeros,Manifiesta,2
+Consejeros,Gral,2
+Consejeros,Cuartel General de la DAC,2
+Consejeros,Coronel SAN MARTIN,2
+Comandante PARDO,Coronel SAN MARTIN,2
+ALCAZAR,JUJEM,2
+Comandante,Manifiesta,2
+Comandante,Consejeros,2
+CARRES,Coronel SAN MARTIN,2
+ARMADA,Operación,2
+ARMADA,Coronel SAN MARTIN,2
+ARMADA,Consejeros,2
+ALCAZAR,Valencia,2
+Capitanía,Pardo,2
+Capitanía,Sanz Esteban,2
+Capitán Batista,Coronel Ibañez,2
+Gabeiras,General Torres Rojas,2
+General Torres Rojas,Torres Rojas,2
+General Torres Rojas,Quintana,2
+General Torres Rojas,Operación,2
+General Torres Rojas,Los Consejeros,2
+Gabeiras,Quintana,2
+Gabeiras,Operación,2
+Gabeiras,Los Consejeros,2
+Estado Mayor,de Valencia,2
+Gobierno,Milans,2
+Estado Mayor,Pardo,2
+Estado Mayor,Milans,2
+Estado Mayor,Hermosilla,2
+El Presidente,Sr. de Miguel,2
+El Presidente,Segura,2
+El Presidente,Quintana,2
+El Presidente,Pardo,2
+General Torres Rojas,Zarzuela,2
+Gobierno,Operación,2
+Capitán Batista,Gral,2
+Gral,Regiones Militares,2
+Gral. Armada,OIDREP,2
+Gral. Armada,Milans,2
+Gral. Armada,Jefes y Oficiales,2
+Gral. Armada,Hermosilla,2
+Gral,de Valencia,2
+Gral,Sr. de Miguel,2
+Gral,Segura,2
+Gral,Quintana,2
+Gobierno,Quintana,2
+Gral,Pardo,2
+Gral,OIDREP,2
+Gral,Milans,2
+Gral,Jefes y Oficiales,2
+Gral,Hermosilla,2
+Gobierno,Zugasti,2
+Gobierno,Regiones Militares,2
+El Presidente,Milans,2
+Después,OIDREP,2
+Cuartel General,Torres Rojas,2
+Villaviciosa,¿Qué,2
+Coronel Ibañez,Operación,2
+Coronel Ibañez,OIDREP,2
+Coronel Ibañez,Milans,2
+Coronel Ibañez,Los Consejeros,2
+Coronel Ibañez,Hermosilla,2
+Congreso,Sr. Gómez García,2
+Pavía,Villaviciosa,2
+Bueno,Guardias Civiles,2
+Cuartel General,Sr. de Miguel,2
+Capitán Batista,de Valencia,2
+Capitán Batista,Sanz Arribas,2
+Capitán Batista,Regiones Militares,2
+Capitán Batista,Pardo,2
+Capitán Batista,OIDREP,2
+Capitán Batista,JUJEM,2
+Capitán Batista,Hermosilla,2
+Coronel Ibañez,Quintana,2
+Coronel Ibañez,Regiones Militares,2
+Coronel Ibañez,Sanz Esteban,2
+Coronel Ibañez,Sr. de Miguel,2
+Cuartel General,Milans,2
+Cuartel General,Hermosilla,2
+Cuartel General,Estado Mayor,2
+Coronel San Martín,de Valencia,2
+Coronel San Martín,Zarzuela,2
+Coronel San Martín,Sr. de Miguel,2
+Coronel San Martín,Sr. Hermosilla,2
+Coronel San Martín,Quintana,2
+Coronel San Martín,Milans,2
+Coronel San Martín,López Montero,2
+Coronel San Martín,Jefes y Oficiales,2
+Coronel San Martín,Gral. Armada,2
+Coronel San Martín,Gral,2
+Coronel San Martín,Estado Mayor,2
+Coronel Ibañez,Zugasti,2
+Gral. Milans,Valencia,2
+Gral. Milans,Santamaría,2
+Gral. Armada,Regiones Militares,2
+Armada,Capitán Dusmet,2
+Bando,Gral,2
+Bando,Escandell,2
+Bando,División Azul,2
+Bando,Coronel Manchado,2
+Bando,Comte,2
+Armada,Luego,2
+Armada,Gral. Milans,2
+Al Sr. Quintana,Palace,2
+Bando,Gral. Milans,2
+Al Sr. Quintana,Madrid,2
+Al Sr. Quintana,López Montero,2
+Al Sr. Quintana,Guardias Civiles,2
+Al Sr. Quintana,Guardia Civil,2
+Al Sr. Quintana,Gabeiras,2
+Al Sr. Quintana,Escandell,2
+Al Sr. Quintana,Coronel Manchado,2
+Bando,Gral. Armada,2
+Bando,Guardias Civiles,2
+Al Sr. Quintana,Coronel Alcalá Galiano,2
+CESID,Sanz Arribas,2
+Capitán Dusmet,Miguel,2
+Capitán Dusmet,López Montero,2
+Capitán Dusmet,Guardias Civiles,2
+Capitán Dusmet,Gobierno,2
+Capitán Acera,Valencia,2
+Capitán Acera,El Presidente,2
+Capitán Acera,Capitán Dusmet,2
+CESID,Presidente del Gobierno,2
+Bando,López Montero,2
+CESID,Muñoz Perea,2
+CESID,Gral. Armada,2
+CESID,Gabeiras,2
+CESID,Coronel Alcalá Galiano,2
+Bando,Sanz Arribas,2
+Bando,Palace,2
+Bando,Madrid,2
+Al Sr. Quintana,Coronel Ibañez,2
+Al Sr. Quintana,Constitución,2
+Gral. Milans,Muñoz Perea,2
+Policía Nacional,Teniente,2
+Reina,de Valencia,2
+Reina,Teniente,2
+Reina,Segura,2
+Región Militar,Teniente,2
+Región Militar,Reina,2
+Región,llegó,2
+Región,Teniente,2
+Muñoz Perea,llegó,2
+Segura,Valencia,2
+Muñoz Perea,de Valencia,2
+Muñoz Perea,Teniente,2
+Muñoz Perea,Región,2
+Meer,llegó,2
+Meer,de Valencia,2
+Meer,Teniente,2
+Meer,Segura,2
+Reina,llegó,2
+Segura,de Valencia,2
+Al Sr. Quintana,Bando,2
+Al Sr. Hermosilla,Comte,2
+Al Sr. Hermosilla,Sanz Arribas,2
+Al Sr. Hermosilla,Palace,2
+Al Sr. Hermosilla,Gral. Milans,2
+Al Sr. Hermosilla,Gral. Armada,2
+Al Sr. Hermosilla,Gral,2
+Al Sr. Hermosilla,Gabeiras,2
+Al Sr. Hermosilla,Coronel Alcalá Galiano,2
+Al Sr. Hermosilla,Capitán Acera,2
+Segura,llegó,2
+Al Sr. Hermosilla,Bando,2
+Al Sr. Hermosilla,Al Sr. Quintana,2
+de Valencia,parecía,2
+Valencia,empezó,2
+Teniente General,parecía,2
+Teniente General,empezó,2
+Teniente,parecía,2
+Comte,Coronel Alcalá Galiano,2
+Comte,Coronel Ibañez,2
+Comte,Escandell,2
+Escandell,López Montero,2
+Gabeiras,Gral. Armada,2
+Gabeiras,Gral,2
+Escandell,Torres Rojas,2
+Escandell,Sanz Arribas,2
+Escandell,Región Militar,2
+Escandell,Palace,2
+Escandell,Muñoz Perea,2
+Escandell,Guardias Civiles,2
+Gabeiras,Santamaría,2
+Escandell,Guardia Civil,2
+Escandell,Gobierno,2
+El Presidente,Sanz Arribas,2
+El Presidente,Luego,2
+El Presidente,Gral. Milans,2
+El Presidente,Gabeiras,2
+División Azul,Madrid,2
+Gabeiras,Muñoz Perea,2
+Gabeiras,Sanz Arribas,2
+Comte,Gabeiras,2
+Gral. Armada,Madrid,2
+Gral. Milans,Madrid,2
+Gral. Milans,López Montero,2
+Gral. Milans,JUJEM,2
+Gral. Milans,Guardia Civil,2
+Gral. Armada,Santamaría,2
+Gral. Armada,Muñoz Perea,2
+Gral. Armada,Miguel,2
+Gral. Armada,Gral. Milans,2
+Gobierno,Gral. Milans,2
+Gral,Región,2
+Gral,Presidente del Gobierno,2
+Gral,Miguel,2
+Gobierno,Santamaría,2
+Gobierno,Palace,2
+Gobierno,Miguel,2
+Gobierno,Luego,2
+División Azul,Luego,2
+División Azul,El Presidente,2
+Coronel Manchado,Región Militar,2
+Constitución,Gral,2
+Coronel Alcalá Galiano,Gobierno,2
+Coronel Alcalá Galiano,Escandell,2
+Coronel Alcalá Galiano,Coronel Manchado,2
+Coronel Alcalá Galiano,Coronel Ibañez,2
+Constitución,Sanz Arribas,2
+Constitución,Palace,2
+Constitución,Luego,2
+Constitución,Coronel Alcalá Galiano,2
+Coronel Manchado,Región,2
+Comte,Santamaría,2
+Comte,Palace,2
+Comte,Muñoz Perea,2
+Comte,Miguel,2
+Comte,López Montero,2
+Comte,Gral. Milans,2
+Comte,Gral. Armada,2
+Coronel Alcalá Galiano,Gral,2
+Coronel Alcalá Galiano,Gral. Armada,2
+Coronel Alcalá Galiano,Gral. Milans,2
+Coronel Alcalá Galiano,Guardias Civiles,2
+Coronel Manchado,Miguel,2
+Coronel Manchado,Luego,2
+Coronel Manchado,Escandell,2
+Coronel Manchado,El Presidente,2
+Coronel Manchado,División Azul,2
+Coronel Ibañez,Santamaría,2
+Coronel Ibañez,Luego,2
+Coronel Ibañez,Gral. Milans,2
+Coronel Ibañez,Escandell,2
+Coronel Ibañez,Coronel Manchado,2
+Coronel Alcalá Galiano,Torres Rojas,2
+Coronel Alcalá Galiano,Sanz Arribas,2
+Coronel Alcalá Galiano,Palace,2
+Coronel Alcalá Galiano,López Montero,2
+Coronel Alcalá Galiano,JUJEM,2
+Gral. Armada,Pardo,2
+Gral. Armada,Zarzuela,2
+Coronel Manchado,El Teniente Coronel Tejero,2
+Conocía,Guardia Civil,2
+Coronel Alcalá Galiano,General Miláns,2
+Coronel Alcalá Galiano,Cortina,2
+Consejeros,calle General Cabrera,2
+Consejeros,Teniente,2
+Consejeros,Ministerio Fiscal,2
+Consejeros,Miláns del Bosch,2
+Conocía,Ministerio Fiscal,2
+Conocía,Cortina,2
+Cortina,General Miláns,2
+Capitán Gómez Iglesias,Los Consejeros,2
+Capitán Gómez Iglesias,General Miláns,2
+Capitán Gómez Iglesias,Coronel Alcalá Galiano,2
+Capitán Gómez Iglesias,Conocía,2
+Autoridad Militar,calle General Cabrera,2
+Autoridad Militar,Teniente,2
+Autoridad Militar,Capitán Gómez Iglesias,2
+Coronel Alcalá Galiano,calle General Cabrera,2
+Cortina,Sr. García Carrés,2
+Armada,Conocía,2
+Ministerio Fiscal,calle General Cabrera,2
+Comte,Pardo Zancada,2
+Comte,General Milans del Bosch,2
+Batista,Quintana,2
+Batista,Muñecas,2
+Batista,General Milans del Bosch,2
+Batista,Consejo,2
+Sr. García Carrés,calle General Cabrera,2
+Miláns del Bosch,Teniente,2
+Armada,Pavía,2
+Los Consejeros,calle General Cabrera,2
+Los Consejeros,Madrid,2
+Generales Armada,calle General Cabrera,2
+Generales Armada,Valencia,2
+Generales Armada,Sr. García Carrés,2
+General Miláns,calle General Cabrera,2
+General Gutiérrez Mellado,Madrid,2
+Armada,General Gutiérrez Mellado,2
+Sumario,de Valencia,2
+General Gabeiras,PREJUJEM,2
+Gobierno,Teniente General Milans,2
+Madrid,Regiones Militares,2
+Madrid,OIDREP,2
+López Montero,Sumario,2
+López Montero,Reconoce,2
+Hermosilla,Sumario,2
+Gral. Armada,Teniente,2
+Gral,Teniente,2
+Gobierno,Sumario,2
+Mando,OIDREP,2
+General Milans,Sumario,2
+General Milans,Sanz Arribas,2
+General Milans,Reconoce,2
+General Juste,Teniente General Milans,2
+General Juste,PREJUJEM,2
+General Juste,OIDREP,2
+General Juste,Milans,2
+Madrid,Sumario,2
+Mando,Ordenó,2
+Sumario,Zarzuela,2
+Presidente del Tribunal,parecía,2
+Sumario,Valencia,2
+Sanz Arribas,Teniente General Milans,2
+Sanz Arribas,Teniente,2
+Regiones Militares,Teniente,2
+Reconoce,Teniente General Milans,2
+Reconoce,Teniente,2
+Reconoce,Sanz Arribas,2
+Presidente del Tribunal,Teniente General Milans,2
+Mando,Teniente,2
+Pardo,Teniente,2
+Pardo,Sumario,2
+PREJUJEM,Zarzuela,2
+OIDREP,Teniente,2
+OIDREP,PREJUJEM,2
+Milans,Teniente General Milans,2
+Milans,Sumario,2
+Comte,Quintana,2
+Consejo,Gral,2
+Consejo,Pardo Zancada,2
+Capitán Abad,Galaxia,2
+Capitán Abad,Tráfico,2
+Capitán Abad,Tejero,2
+Capitán Abad,Quintana,2
+Capitán Abad,Operación,2
+Capitán Abad,Muñecas,2
+Capitán Abad,Milans,2
+Capitán Abad,Guardias,2
+Capitán Abad,El Teniente Coronel Tejero,2
+Capitán Muñecas,El Teniente Coronel Tejero,2
+Capitán Abad,Diputados,2
+Boza Carranco,General Armada,2
+Boza,General Armada,2
+Boza,Constitución,2
+Armada,teléfono,2
+Armada,Teniente General Gutiérrez Mellado,2
+Armada,Tejero,2
+Capitán Muñecas,Comandante Pardo,2
+Capitán Muñecas,Guardias,2
+General Milans del Bosch,Pardo Zancada,2
+Comandante Pardo,Tejero,2
+Constitución,Teniente General Milans,2
+Constitución,Quintana,2
+Constitución,Milans,2
+Constitución,Delicias,2
+Congreso,teléfono,2
+Comandante Pardo,teléfono,2
+Comandante Pardo,Tráfico,2
+Comandante Pardo,Operación,2
+Capitán Muñecas,Gómez Iglesias,2
+Comandante Pardo,Muñecas,2
+Comandante Pardo,Guardias,2
+Comandante Pardo,Galaxia,2
+Comandante Pardo,El Teniente Coronel Tejero,2
+Comandante Pardo,Delicias,2
+Capitán Muñecas,Zarzuela,2
+Capitán Muñecas,Muñecas,2
+Armada,El Teniente Coronel Tejero,2
+Armada,Delicias,2
+Armada,Boza Carranco,2
+Abad,Galaxia,2
+Abad,Tráfico,2
+Abad,Teniente General Gutiérrez Mellado,2
+Abad,Tejero,2
+Abad,Servicio,2
+Abad,Quintana,2
+Abad,Operación,2
+Abad,Guardias Civiles,2
+Abad,Diputados,2
+Allí,teléfono,2
+Abad,Comandante Pardo,2
+Abad,Alcalá,2
+Quintana,Sr. Sanz Arribas,2
+Pardo Zancada,Sr. de Miguel,2
+Muñecas,Sr. Sanz Arribas,2
+Muñecas,Quintana,2
+General Milans del Bosch,Sr. de Miguel,2
+Abad,Zarzuela,2
+Alcalá,Allí,2
+Alcalá,Capitán Abad,2
+Alcalá,Coronel Manchado,2
+Allí,Teniente General Milans,2
+Allí,Teniente General Gutiérrez Mellado,2
+Allí,Madrid,2
+Allí,Diputados,2
+Allí,Coronel Manchado,2
+Alcalá,Zarzuela,2
+Alcalá,Tráfico,2
+Alcalá,Teniente General Milans,2
+Alcalá,Tejero,2
+Alcalá,Servicio,2
+Alcalá,Quintana,2
+Alcalá,Operación,2
+Alcalá,Gómez Iglesias,2
+Alcalá,General Aramburu,2
+Alcalá,Galaxia,2
+General Gabeiras,Zarzuela,2
+General Gabeiras,OIDREP,2
+Gral. Armada,de Valencia,2
+Operación,Pardo,2
+Quintana,Santamaría,2
+Pardo,Sr. Zugasti,2
+Pardo,Sr. Hermosilla,2
+Pardo,Servicio,2
+Pardo,Sanz Arribas,2
+Pardo,Quintana,2
+Operación,Servicio,2
+OIDREP,de Valencia,2
+Quintana,Sr. Hermosilla,2
+OIDREP,Valencia,2
+OIDREP,Sr. Hermosilla,2
+OIDREP,Sanz Arribas,2
+OIDREP,Santamaría,2
+OIDREP,Regiones Militares,2
+OIDREP,Pardo,2
+Muñoz Perea,Zugasti,2
+Quintana,Segura,2
+Quintana,Sr. de Miguel,2
+Muñoz Perea,Sr. de Miguel,2
+Reina,Zugasti,2
+Sanz Esteban,Valencia,2
+Sanz Arribas,de Valencia,2
+Sanz Arribas,Zugasti,2
+Santamaría,Zarzuela,2
+Santamaría,Sr. de Miguel,2
+Santamaría,Sr. Hermosilla,2
+Santamaría,Segura,2
+Reina,Sanz Arribas,2
+Quintana,Valencia,2
+Regiones Militares,de Valencia,2
+Regiones Militares,Zarzuela,2
+Regiones Militares,Valencia,2
+Regiones Militares,Sr. Zugasti,2
+Regiones Militares,Sanz Arribas,2
+Quintana,llegó,2
+Quintana,Zugasti,2
+Muñoz Perea,Zarzuela,2
+Muñoz Perea,Quintana,2
+General Gabeiras,Madrid,2
+Hermosilla,Operación,2
+JUJEM,OIDREP,2
+JUJEM,Milans,2
+Hermosilla,Torres Rojas,2
+Hermosilla,Sr. Hermosilla,2
+Hermosilla,Servicio,2
+Hermosilla,Sanz Arribas,2
+Hermosilla,Regiones Militares,2
+Hermosilla,OIDREP,2
+JUJEM,Sanz Esteban,2
+Hermosilla,López Montero,2
+Hermosilla,JUJEM,2
+Guardia Civil,llamó,2
+Guardia Civil,Zugasti,2
+Guardia Civil,Sr. de Miguel,2
+Guardia Civil,OIDREP,2
+Milans,Pavía,2
+JUJEM,Regiones Militares,2
+JUJEM,Sr. de Miguel,2
+Milans,llegó,2
+López Montero,Operación,2
+Milans,Zugasti,2
+Milans,Sr. Zugasti,2
+Milans,Sanz Arribas,2
+Milans,Operación,2
+Milans,OIDREP,2
+Meer,llamó,2
+López Montero,Regiones Militares,2
+López Montero,OIDREP,2
+Jefes y Oficiales,Torres Rojas,2
+Los Consejeros,llamó,2
+Los Consejeros,Zarzuela,2
+Los Consejeros,Torres Rojas,2
+Los Consejeros,Quintana,2
+Los Consejeros,Operación,2
+Los Consejeros,Meer,2
+Los Consejeros,López Montero,2
+Segura,Sr. de Miguel,2
+Servicio,Sr. Gómez García,2
+Servicio,Sr. Hermosilla,2
+El Fiscal,General Milans,2
+El Fiscal,Valencia,2
+El Fiscal,Teniente General Milans,2
+El Fiscal,Presidente del Tribunal,2
+El Fiscal,Pardo,2
+El Fiscal,Madrid,2
+El Fiscal,López Montero,2
+El Fiscal,Lérida,2
+Coronel Ibañez,Reconoce,2
+España,Gral. Armada,2
+Coronel Ibañez,El Fiscal,2
+Coronel Alcalá Galiano,Zarzuela,2
+Coronel Alcalá Galiano,Teniente,2
+Coronel Alcalá Galiano,Presidente del Tribunal,2
+Coronel Alcalá Galiano,Pardo,2
+Coronel Alcalá Galiano,Lérida,2
+Coronel Alcalá Galiano,General Juste,2
+El Fiscal,Zarzuela,2
+España,Hermosilla,2
+Sr. de Miguel,Torres Rojas,2
+General Caruana,Lérida,2
+General Caruana,parecía,2
+General Caruana,Teniente General Milans,2
+General Caruana,Teniente,2
+General Caruana,Sanz Arribas,2
+General Caruana,Reconoce,2
+General Caruana,Pardo,2
+General Caruana,López Montero,2
+General Caruana,JUJEM,2
+España,Sumario,2
+General Caruana,Gobierno,2
+General Armada,Sanz Arribas,2
+General Armada,Reconoce,2
+General Armada,PREJUJEM,2
+General Armada,OIDREP,2
+General Armada,Gral. Armada,2
+General Armada,Gral,2
+Coronel Alcalá Galiano,General Caruana,2
+Coronel Alcalá Galiano,General Armada,2
+Comandante Pardo,Sumario,2
+2.6.- Interrogatorio,Lérida,2
+Al Sr. Hermosilla,Presidente del Tribunal,2
+Al Sr. Hermosilla,Milans,2
+Al Sr. Hermosilla,El Fiscal,2
+2.6.- Interrogatorio,Zarzuela,2
+2.6.- Interrogatorio,Valencia,2
+2.6.- Interrogatorio,Presidente del Tribunal,2
+2.6.- Interrogatorio,Pardo,2
+2.6.- Interrogatorio,General Caruana,2
+Comandante Pardo,Milans,2
+2.6.- Interrogatorio,Coronel Alcalá Galiano,2
+2.6.- Interrogatorio,Bando,2
+2.6.- Interrogatorio,Ante,2
+Zarzuela,Zugasti,2
+Valencia,llamó,2
+Valencia,Zugasti,2
+Sr. de Miguel,Valencia,2
+Al Sr. Hermosilla,Sumario,2
+Al Sr. Hermosilla,Teniente General Milans,2
+Ante,Coronel Alcalá Galiano,2
+Ante,General Milans,2
+Comandante Pardo,Lérida,2
+Comandante Pardo,Hermosilla,2
+Capitán Batista,Sumario,2
+Capitán Batista,General Milans,2
+Bando,parecía,2
+Bando,Pardo,2
+Bando,Ordenó,2
+Bando,Mando,2
+Bando,Lérida,2
+Bando,General Milans,2
+Armada,PREJUJEM,2
+Ante,parecía,2
+Ante,Teniente,2
+Ante,Mando,2
+Ante,Lérida,2
+Coronel San Martín,Gobierno,2
+General Milans,Miguel,2
+Armada,Capitán Pascual Galvez,2
+GUARDIA,POLICIA,2
+GUARDIA,SEGURIDAD,2
+GUARDIA,SEVILLA,2
+General Jefe,Madrid,2
+MOMENTO,POLITICA,2
+MOMENTO,UNIDAD,2
+Congreso,País Vasco,2
+Madrid,POLITICA,2
+Congreso,Gobierno Militar,2
+Congreso,General MILANS DEL BOSCH,2
+Madrid,RESPUESTA,2
+Madrid,UNIDAD,2
+Congreso,Coroneles,2
+Capitanías Generales,Torres Rojas,2
+Capitanías Generales,Reina,2
+Capitanías Generales,Región,2
+Congreso,Vascongadas,2
+Congreso de los Diputados,Galaxia,2
+Capitanías Generales,Nación,2
+Congreso de los Diputados,General Armada,2
+Coroneles,Gobierno Militar,2
+Coroneles,General Milans del Bosch,2
+Coroneles,General Armada,2
+Coroneles,Estado,2
+Constitución,Vascongadas,2
+España,RESPUESTA,2
+Constitución,Palacio de la Zarzuela,2
+Constitución,Nación,2
+Constitución,Lérida,2
+España,UNIDAD,2
+Febrero,Madrid,2
+Constitución,Diciembre,2
+GUARDIA,PAMPLONA,2
+Congreso de los Diputados,Zarzuela,2
+Congreso de los Diputados,S.M. el Rey,2
+Capitanías Generales,Palacio de la Zarzuela,2
+Capitanías Generales,España,2
+Dirección General,Sección,2
+POLICIA,UNIDAD,2
+Armada,División Acorazada,2
+Armada,Coroneles,2
+Armada,Congreso de los Diputados,2
+SEGURIDAD,UNIDAD,2
+Armada,Capitanías Generales,2
+Alemania,Zarzuela,2
+Alemania,S.M. el Rey,2
+Alemania,Región,2
+Alemania,Guardias Civiles,2
+Alemania,Guardia Civil,2
+Alemania,Galaxia,2
+Alemania,Constitución,2
+Alemania,Congreso de los Diputados,2
+Alemania,Armada,2
+SEVILLA,UNIDAD,2
+Armada,Estado,2
+Armada,País Vasco,2
+Capitanías Generales,División,2
+Armada,Presidente del Gobierno,2
+Capitanías Generales,Constitución,2
+Capitanes Generales,Zarzuela,2
+Capitanes Generales,Torres Rojas,2
+Capitanes Generales,Región,2
+Capitanes Generales,Palacio de la Zarzuela,2
+Capitanes Generales,Nación,2
+Capitanes Generales,General Milans del Bosch,2
+Capitanes Generales,General Armada,2
+Capitanes Generales,Gabeiras,2
+Capitanes Generales,Estado Mayor,2
+Capitanes Generales,División,2
+Capitanes Generales,Capitanías Generales,2
+Armada,Zaragoza,2
+Armada,Sevilla,2
+PAMPLONA,UNIDAD,2
+Coroneles,Guardia Civil,2
+Coroneles,Torres Rojas,2
+Coroneles,Zarzuela,2
+EJERCITO,PAMPLONA,2
+Gabeiras,General Armada,2
+EJERCITO,POLICIA,2
+Estado Mayor,Torres Rojas,2
+Estado Mayor,Su Majestad,2
+Estado Mayor,General Armada,2
+Estado,Zarzuela,2
+Estado,Su Majestad,2
+Estado,S.M. el Rey,2
+Estado,Presidente del Gobierno,2
+Estado,Palacio de la Zarzuela,2
+Estado,Nación,2
+Estado,General Milans del Bosch,2
+Estado,General MILANS DEL BOSCH,2
+Estado,General Armada,2
+Estado,Estado Mayor,2
+Gabeiras,General Milans del Bosch,2
+Gabeiras,Guardias Civiles,2
+Después,División Acorazada,2
+Gabeiras,Nación,2
+General Armada,Presidente del Gobierno,2
+General Armada,Gobierno Militar,2
+Galaxia,Zaragoza,2
+Galaxia,Valencia,2
+Galaxia,Torres Rojas,2
+Galaxia,S.M. el Rey,2
+Galaxia,Región,2
+Galaxia,Oficiales,2
+Galaxia,Madrid,2
+EJERCITO,GUARDIA,2
+Gabeiras,Reina,2
+Gabeiras,Presidente del Gobierno,2
+Gabeiras,País Vasco,2
+Gabeiras,Palacio de la Zarzuela,2
+Gabeiras,Oficiales,2
+EJERCITO,POLITICA,2
+España,Zaragoza,2
+España,Vascongadas,2
+EJERCITO,SEGURIDAD,2
+División,Nación,2
+División,Guardias Civiles,2
+División,General Milans del Bosch,2
+División,Gabeiras,2
+División,División Acorazada,2
+Diciembre,Estado,2
+Diciembre,España,2
+Después,Vascongadas,2
+España,General Jefe,2
+Después,Su Majestad,2
+Después,S.M. el Rey,2
+Después,Presidente del Gobierno,2
+Después,Palacio de la Zarzuela,2
+Después,Nación,2
+Después,General Armada,2
+División,Palacio de la Zarzuela,2
+División,Presidente del Gobierno,2
+División,S.M. el Rey,2
+División Acorazada,Zarzuela,2
+EJERCITO,SEVILLA,2
+España,Febrero,2
+España,Oficiales,2
+España,General MILANS DEL BOSCH,2
+España,Galaxia,2
+España,Gabeiras,2
+División Acorazada,Valencia,2
+División,Torres Rojas,2
+División Acorazada,Su Majestad,2
+División Acorazada,Madrid,2
+División Acorazada,Guardia Civil,2
+División Acorazada,Estado Mayor,2
+División Acorazada,España,2
+División,Zaragoza,2
+ARMADA,Reina,2
+ARMADA,Presidente del Gobierno,2
+ARMADA,Palacio de la Zarzuela,2
+Autoridades,Gobierno,2
+Areilza,según,2
+Areilza,Fuerza Nueva,2
+Areilza,Constitución,2
+Además,Justicia,2
+ALCAZAR,Gobierno,2
+ALCAZAR,Fuerza Nueva,2
+ALCAZAR,División,2
+ALCAZAR,Areilza,2
+Madrid,Palacio del Congreso,2
+Fuerza Nueva,Fuerzas Armadas,2
+España,Milans del Bosch,2
+Congreso,Milans del Bosch,2
+Parlamento,Su Majestad,2
+Ministro,Su Majestad el Rey,2
+Gobierno,Quiero,2
+Autoridades,División,2
+Añade,Madrid,2
+Estado Mayor del Ejército,Redacción,2
+Constitución,Fuerza Nueva,2
+España,según,2
+Coronel Ibáñez,General Fernández Campos,2
+España,Organización,2
+España,Fuerza Nueva,2
+España,Franco,2
+España,Estado Mayor del Ejército,2
+El Gobierno,Monarquía,2
+El Gobierno,Franco,2
+División,según,2
+División,Suárez,2
+División,Organización,2
+División,Justicia,2
+Coronel Ibáñez,Jefes,2
+Constitución,según,2
+Constitución,Organización,2
+Gobierno,Ministro,2
+Congreso,Quiero,2
+Congreso,Ministro,2
+Calvo Sotelo,Ministro,2
+Capital,Estado,2
+Capital,España,2
+Asamblea,Congreso,2
+ALCAZAR,VALENCIA,2
+ALCAZAR,POLICIA,2
+ALCAZAR,Fuerzas Armadas,2
+Madrid,Secretario General,2
+Estado,Monarquía,2
+Europa,Guardia Civil,2
+SEVILLA,Universidad,2
+SEVILLA,SITUACION ACTUAL,2
+Palacio del Congreso de los Diputados,SEVILLA,2
+PROTESTA PREVISTAS,SEVILLA,2
+POLICIALES,SEVILLA,2
+OVIEDO,SEVILLA,2
+Declaración,López Montero,2
+Congreso,HENARES,2
+Congreso,Historia,2
+Estado,Historia,2
+Calvo Sotelo,Gobierno,2
+Calvo Sotelo,Congreso,2
+España,Marzo,2
+Fuerzas Armadas,GOBIERNO,2
+Está,Madrid,2
+Está,Guardias Civiles,2
+Estado,Guardias Civiles,2
+Congreso,VALENCIA,2
+España,VALENCIA,2
+Ejército,GOBIERNO,2
+EJERCITO,GOBIERNO,2
+EJERCITO,Ejército,2
+Declaración,Jefes,2
+Constitución,Está,2
+Estado Mayor del Ejército,Guardia Civil,2
+Estado Mayor del Ejército,SITUACION,2
+ARMADA,Nación,2
+C.J.M,Estado,2
+C.J.M,Consejo,2
+Patria,S.M. El Rey,2
+Monarquía,S.M. El Rey,2
+Monarquía,Patria,2
+LINEAS,Patria,2
+Jefes,Patria,2
+Jefes,Militares,2
+Jefes,LINEAS,2
+JUJEM,S.M. El Rey,2
+JUJEM,LINEAS,2
+JUJEM,Jefes,2
+JEFES,S.M. El Rey,2
+JEFES,JUJEM,2
+Gobierno,S.M. El Rey,2
+Gobierno,LINEAS,2
+C.J.M,Debe,2
+C.J.M,Tribunal Supremo,2
+Franco,Gobierno,2
+Consejo,Después,2
+ARMADA,Guardias Civiles,2
+ARMADA,General MILANS DEL BOSCH,2
+ARMADA,General Armada,2
+ARMADA,Galaxia,2
+ARMADA,Gabeiras,2
+ARMADA,Estado,2
+Congreso,Organización,2
+ARMADA,Congreso de los Diputados,2
+ARMADA,Capitanías Generales,2
+ARMADA,Capitanes Generales,2
+ARMADA,Alemania,2
+Estado,la Ley,2
+Debe,Tribunal Supremo,2
+Debe,Después,2
+Consejo,la Ley,2
+Coronel Ibáñez,El Presidente,2
+Gobierno,JEFES,2
+GOBIERNO,POLITICA,2
+GOBIERNO,JUJEM,2
+Madrid,Organización,2
+Justicia,Madrid,2
+Guardia Civil,según,2
+Guardia Civil,Organización,2
+Guardia Civil,Justicia,2
+Guardia Civil,INFORME,2
+Gobierno,¿Qué,2
+Gobierno,según,2
+Gobierno,Policía Nacional,2
+Gobierno,Noviembre,2
+Fuerza Nueva,Gobierno,2
+Franco,Según,2
+Franco,Policía Nacional,2
+Franco,Monarquía,2
+Franco,Guardia Civil,2
+Madrid,según,2
+Monarquía,Noviembre,2
+Organización,Policía Nacional,2
+Ejército,Monarquía,2
+Fuerzas Armadas,S.M. El Rey,2
+Fuerzas Armadas,Patria,2
+Fuerzas Armadas,LINEAS,2
+Fuerzas Armadas,JUJEM,2
+Empieza,Fuerzas Armadas,2
+Empieza,Franco,2
+Ejército,LINEAS,2
+Organización,Suárez,2
+Ejército,Jefes,2
+Diciembre,Patria,2
+Diciembre,Monarquía,2
+Diciembre,Gobierno,2
+ACTUACION,GOBIERNO,2
+Redacción,SITUACION,2
+EJERCITO,España,2
+Dirección General,Madrid,2
+Menéndez,Pardo Zancada,2
+Guardias,PREJUJEM,2
+General ARMADA,Vicepresidente Primero,2
+General ARMADA,Unidades,2
+General ARMADA,Sectores,2
+General ARMADA,Redacción,2
+General ARMADA,PREJUJEM,2
+General ARMADA,Ministro de Defensa,2
+General ARMADA,Información,2
+General ARMADA,Guardias,2
+España,Sectores,2
+Guardias,Guardias Civiles,2
+Conversaciones,Vicepresidente Primero,2
+Conversaciones,Unidades,2
+Conversaciones,Sectores,2
+Conversaciones,Redacción,2
+Conversaciones,PREJUJEM,2
+Guardias,Ministro de Defensa,2
+Guardias,Redacción,2
+Conversaciones,Información,2
+Guardias,Sectores,2
+Ministro de Defensa,Sectores,2
+Ministro de Defensa,Redacción,2
+Ministro de Defensa,PREJUJEM,2
+JUJEM,Vicepresidente Primero,2
+JUJEM,Unidades,2
+JUJEM,Sectores,2
+JUJEM,Redacción,2
+JUJEM,Ministro de Defensa,2
+Información,Vicepresidente Primero,2
+Información,Unidades,2
+Información,Sectores,2
+Información,Redacción,2
+Información,PREJUJEM,2
+Información,Ministro de Defensa,2
+Guardias,Unidades,2
+Conversaciones,Ministro de Defensa,2
+Conversaciones,Guardias,2
+General Armada,Vascongadas,2
+Actitud,Unidades,2
+Actitud,Redacción,2
+Actitud,PREJUJEM,2
+Actitud,Ministro de Defensa,2
+Actitud,Información,2
+Actitud,Guardias,2
+Actitud,CESID,2
+Actitud,Autoridad Militar,2
+Mando Militar,Tratar,2
+Madrid,Tratar,2
+Madrid,Mando Militar,2
+Congreso,Mando Militar,2
+Autoridad Militar,Tratar,2
+Autoridad Militar,Mando Militar,2
+Guardias Civiles,Nación,2
+Presidente del Gobierno,la Ley,2
+Actitud,Sectores,2
+Actitud,Vicepresidente Primero,2
+CESID,Unidades,2
+Guardias Civiles,Ministerio del Interior,2
+CESID,PREJUJEM,2
+Guardias,Palacio del Congreso,2
+Guardias,Policía Militar,2
+Guardias Civiles,JUJEM,2
+Autoridad Militar,Vicepresidente Primero,2
+Autoridad Militar,Unidades,2
+Autoridad Militar,Sectores,2
+Autoridad Militar,Redacción,2
+Autoridad Militar,PREJUJEM,2
+Autoridad Militar,JUJEM,2
+Autoridad Militar,Información,2
+Autoridad Militar,Guardias,2
+Autoridad Militar,General ARMADA,2
+Guardias Civiles,Miláns del Bosch,2
+Autoridad Militar,Conversaciones,2
+Ministro de Defensa,Unidades,2
+Ministro de Defensa,Vicepresidente Primero,2
+PREJUJEM,Redacción,2
+General PRIETO,Lleva,2
+General Aramburu,información,2
+General Aramburu,Sectores,2
+General Aramburu,RESUMEN,2
+General Aramburu,Palacio de la Zarzuela,2
+General Aramburu,Gral,2
+General Aramburu,General PRIETO,2
+Director General de la Guardia Civil,información,2
+Director General de la Guardia Civil,Sectores,2
+Director General de la Guardia Civil,RESUMEN,2
+Director General de la Guardia Civil,Pardo Zancada,2
+Director General de la Guardia Civil,Palacio de la Zarzuela,2
+Director General de la Guardia Civil,Lleva,2
+Director General de la Guardia Civil,Gral,2
+Director General de la Guardia Civil,General PRIETO,2
+Guardia Civil,Palacio del Congreso,2
+General PRIETO,Gral,2
+General PRIETO,Menéndez,2
+PREJUJEM,Sectores,2
+General PRIETO,Palacio de la Zarzuela,2
+Lleva,información,2
+Lleva,Sectores,2
+Lleva,Pardo Zancada,2
+Lleva,Palacio de la Zarzuela,2
+Lleva,Menéndez,2
+Guardia Civil,Sectores,2
+Gral,Sectores,2
+Gral,RESUMEN,2
+Gral,Palacio de la Zarzuela,2
+Gral,Menéndez,2
+Gral,Lleva,2
+General PRIETO,información,2
+General PRIETO,Sectores,2
+General PRIETO,RESUMEN,2
+General PRIETO,Pardo Zancada,2
+CESID,Palacio de la Zarzuela,2
+ACTUACIONES,información,2
+ACTUACIONES,Sectores,2
+ACTUACIONES,RESUMEN,2
+ACTUACION,Gral,2
+ACTUACION,General PRIETO,2
+ACTUACION,General Aramburu,2
+ACTUACION,Director General de la Guardia Civil,2
+ACTUACION,Congreso,2
+ACTUACION,CESID,2
+ACTUACION,ACTUACIONES,2
+Unidades,Vicepresidente Primero,2
+Sectores,Vicepresidente Primero,2
+Sectores,Unidades,2
+Redacción,Vicepresidente Primero,2
+Redacción,Unidades,2
+Redacción,Sectores,2
+PREJUJEM,Vicepresidente Primero,2
+PREJUJEM,Unidades,2
+ACTUACION,Guardia Civil,2
+ACTUACION,Lleva,2
+ACTUACION,Menéndez,2
+ACTUACIONES,General PRIETO,2
+ACTUACIONES,Pardo Zancada,2
+ACTUACIONES,Palacio de la Zarzuela,2
+ACTUACIONES,Menéndez,2
+ACTUACIONES,Lleva,2
+ACTUACIONES,Guardia Civil,2
+ACTUACIONES,Gral,2
+ACTUACIONES,General Aramburu,2
+ACTUACION,Palacio de la Zarzuela,2
+ACTUACIONES,Director General de la Guardia Civil,2
+ACTUACIONES,Congreso,2
+ACTUACION,información,2
+ACTUACION,Sectores,2
+ACTUACION,RESUMEN,2
+ACTUACION,Pardo Zancada,2
+Palacio de la Zarzuela,la Ley,2
+Nación,la Ley,2
+Ministro de Defensa,Presidente del Gobierno,2
+Presidente del Gobierno,Torres Rojas,2
+Presidente del Gobierno,Reina,2
+Policía Nacional,Valencia,2
+Policía Nacional,Torres Rojas,2
+Policía Nacional,Su Majestad,2
+Policía Nacional,Reina,2
+Policía Nacional,Región,2
+Policía Nacional,Presidente del Gobierno,2
+País Vasco,Valencia,2
+País Vasco,Torres Rojas,2
+País Vasco,Región,2
+País Vasco,Presidente del Gobierno,2
+Palacio de la Zarzuela,Zarzuela,2
+Palacio de la Zarzuela,Valencia,2
+Palacio de la Zarzuela,S.M. el Rey,2
+Palacio de la Zarzuela,Región,2
+Presidente del Gobierno,Su Majestad,2
+Presidente del Gobierno,Zarzuela,2
+Boza Carranco,Constitución,2
+Región,Torres Rojas,2
+Comandante,Jefes,2
+Comandante,Estado,2
+Policía Nacional,de Valencia,2
+Brigada,Jefes,2
+Brigada,España,2
+Según,Sevilla,2
+Valencia,Zaragoza,2
+Valencia,Vascongadas,2
+Según,Suárez,2
+Sevilla,Suárez,2
+Su Majestad,Vascongadas,2
+BARCELONA,EJERCITO,2
+BARCELONA,España,2
+BARCELONA,GUARDIA,2
+Reina,Torres Rojas,2
+Palacio de la Zarzuela,Presidente del Gobierno,2
+Oficiales,Zarzuela,2
+Oficiales,Zaragoza,2
+Oficiales,Torres Rojas,2
+CAPITAN,GUARDIA,2
+Guardia Civil,País Vasco,2
+Gobierno Militar,Zarzuela,2
+Gobierno Militar,Torres Rojas,2
+Gobierno Militar,Guardia Civil,2
+General Milans del Bosch,Reina,2
+General Milans del Bosch,Región,2
+General Milans del Bosch,Oficiales,2
+General Milans del Bosch,Gobierno Militar,2
+General MILANS DEL BOSCH,Zarzuela,2
+General MILANS DEL BOSCH,Valencia,2
+General MILANS DEL BOSCH,Su Majestad,2
+General MILANS DEL BOSCH,Sevilla,2
+General MILANS DEL BOSCH,Guardias Civiles,2
+Dirección General,España,2
+CAPITAN,España,2
+BARCELONA,SEVILLA,2
+Guardia Civil,Vascongadas,2
+Lérida,Zaragoza,2
+Nación,Zarzuela,2
+Nación,Valencia,2
+Nación,S.M. el Rey,2
+Nación,Región,2
+Nación,Presidente del Gobierno,2
+Madrid,Palacio de la Zarzuela,2
+Lérida,Torres Rojas,2
+Guardias Civiles,País Vasco,2
+Lérida,Sevilla,2
+Lérida,Oficiales,2
+Lérida,Madrid,2
+Guardias Civiles,Zaragoza,2
+Guardias Civiles,Su Majestad,2
+Guardias Civiles,S.M. el Rey,2
+Andalucía,Congreso,2
+Boza Carranco,Coronel Manchado,2
+Ministro de Defensa,Palacio de la Zarzuela,2
+Hotel Palace,JUJEM,2
+Guardias Civiles,NUÑEZ,2
+Guardias Civiles,López Montero,2
+Gobierno,calle General Cabrera,2
+Gobierno,Sevilla,2
+Hotel Palace,Policía Militar,2
+General MILANS DEL BOSCH,Teniente,2
+García Villalonga,rebelión,2
+Ejército,rebelión,2
+Ejército,Teniente,2
+Coronel Manchado,rebelión,2
+Coronel Manchado,Teniente,2
+Información,Palacio del Congreso,2
+Información,Parlamento,2
+JUJEM,Ministerio del Interior,2
+Constitución,NUÑEZ,2
+Guardias Civiles,calle General Cabrera,2
+Madrid,NUÑEZ,2
+Boza Carranco,Madrid,2
+Guardias Civiles,Suárez,2
+Instituciones,la Ley,2
+Instituciones,Palacio de la Zarzuela,2
+Instituciones,Nación,2
+Gobierno,S.M. el Rey,2
+Gobierno,Presidente del Gobierno,2
+Gobierno,Palacio de la Zarzuela,2
+Gobierno,Nación,2
+Gobierno,Instituciones,2
+Estado Mayor,la Ley,2
+Estado Mayor,Instituciones,2
+Estado,Jefe Supremo,2
+Consejo,Jefe Supremo,2
+Consejo,Estado Mayor,2
+Teniente,calle General Cabrera,2
+Madrid,rebelión,2
+JUJEM,Nación,2
+Constitución,García Villalonga,2
+JUJEM,Palacio del Congreso,2
+JUJEM,Policía Nacional,2
+Capitán Acera,Gobierno,2
+Ministerio del Interior,Sevilla,2
+Capitán Acera,Capitán Pascual Galvez,2
+Nación,Policía Nacional,2
+CESID,NUÑEZ,2
+Nación,Sevilla,2
+Nación,Suárez,2
+Parlamento,Policía Nacional,2
+CESID,General MILANS DEL BOSCH,2
+CESID,García Villalonga,2
+Parlamento,Según,2
+Parlamento,Sevilla,2
+CESID,Capitán Pascual Galvez,2
+Policía Nacional,Sevilla,2
+Boza Carranco,NUÑEZ,2
+Capitán Acera,Madrid,2
+Capitán Acera,calle General Cabrera,2
+Ministerio del Interior,Palacio del Congreso,2
+Capitán Pascual Galvez,Gobierno,2
+JUJEM,Sevilla,2
+Congreso,Monarquía,2
+Capitán Pascual Galvez,Sevilla,2
+Capitán Pascual Galvez,Madrid,2
+Capitán Pascual Galvez,López Montero,2
+Capitán Pascual Galvez,Guardias Civiles,2
+Capitán Pascual Galvez,Coronel Manchado,2
+Ministerio del Interior,Nación,2
+Capitán Pascual Galvez,Constitución,2
+Capitán Pascual Galvez,Congreso,2
+Capitán Gómez Iglesias,rebelión,2
+Miláns del Bosch,Parlamento,2
+Capitán Gómez Iglesias,Ejército,2
+Miláns del Bosch,Policía Nacional,2
+OCUPACION,SEVILLA,2
+Movimiento Comunista,Universidad,2
+Movimiento Comunista,SITUACION ACTUAL,2
+Consejo,Teniente General,2
+Autoridad,Teniente General,2
+Autoridad,ESTADO MAYOR,2
+Autoridad,Consejo Supremo de Justicia Militar,2
+Ante,Consejo Supremo de Justicia Militar,2
+Ante,Consejo,2
+Fuerzas Armadas,SEÑOR,2
+Fuerzas Armadas,Real Decreto,2
+MOLINA,Madrid,2
+Cartagena,MOLINA,2
+Armada,Cartagena,2
+Autoridad,Madrid,2
+Armada,Código de Justicia Militar,2
+Armada,Autoridad,2
+aquél,la Ley,2
+Ministerio,aquél,2
+Consejo,Cuartel General,2
+Consejo,Teniente General MILANS,2
+Madrid,aquél,2
+Consejo Supremo de Justicia Militar,ESTADO MAYOR,2
+BOZA CARRANCO,LUIS ABAD GUTIERREZ,2
+BOZA CARRANCO,Consejo Supremo de Justicia Militar,2
+Su Majestad,Teniente General MILANS,2
+Su Majestad,Su Majestad el Rey,2
+Fuerzas Armadas,Su Majestad el Rey,2
+Estado Mayor del Ejército,INFORME,2
+ESTADO MAYOR,Teniente General,2
+Diciembre,Su Majestad,2
+Diciembre,S.M. el Rey,2
+Diciembre,Madrid,2
+Diciembre,Fuerzas Armadas,2
+Diciembre,EJERCITO,2
+Consejo Supremo de Justicia Militar,Teniente General MILANS,2
+Consejo Supremo de Justicia Militar,Teniente General,2
+Consejo Supremo de Justicia Militar,S.M. el Rey,2
+Madrid,la Ley,2
+Ministro,Parlamento,2
+Movimiento Comunista,SEVILLA,2
+Ministerio del Interior,Servicio,2
+Madrid,Zona,2
+Madrid,Servicio,2
+General Fernández Campos,Su Majestad,2
+Guardias Civiles,VALENCIA,2
+General Fernández Campos,TORNO AL DESARROLLO,2
+Guardia Civil,RELACION,2
+Guardia Civil,Ministro,2
+GUARDIA,VALENCIA,2
+Dirección General de la Guardia Civil,VALENCIA,2
+Dirección General de la Guardia Civil,Región,2
+Dirección General de la Guardia Civil,Málaga,2
+Dirección General de la Guardia Civil,GUARDIA,2
+DEMOCRACIA,VALENCIA,2
+DEMOCRACIA,Málaga,2
+DEMOCRACIA,Guardias Civiles,2
+Ministerio del Interior,Región,2
+Ministerio del Interior,Zona,2
+General Armada,Organización,2
+Ministro,Región,2
+Constitución,Ministro,2
+Constitución,Juez Instructor,2
+Causa,Guardia Civil,2
+Armada,Ministro,2
+General Fernández Campos,López Montero,2
+General Fernández Campos,Ministerio Fiscal,2
+VALENCIA,Zona,2
+Sevilla,Zona,2
+Sevilla,VALENCIA,2
+Servicio,Zona,2
+Málaga,Zona,2
+Málaga,VALENCIA,2
+Málaga,Sevilla,2
+Málaga,Región,2
+Ministro,Servicio,2
+BOZA CARRANCO,ROMAN,2
+Cartagena,Consejo Supremo de Justicia Militar,2
+Consejo Supremo de Justicia Militar,LUIS ABAD GUTIERREZ,2
+BARCELONA,Palacio del Congreso de los Diputados,2
+BARCELONA,POLICIALES,2
+BARCELONA,OVIEDO,2
+BARCELONA,OCUPACION,2
+BARCELONA,JEFATURA SUPERIOR,2
+BARCELONA,Historia,2
+BARCELONA,Guardia Civil,2
+BARCELONA,Fuerza Pública,2
+BARCELONA,Facultad de Derecho,2
+BARCELONA,Constitución,2
+BARCELONA,Congreso de los Diputados,2
+Ayuntamiento,Valencia,2
+Ayuntamiento,VALLADOLID,2
+Ayuntamiento,Universidad,2
+Ayuntamiento,SITUACION ACTUAL,2
+Ayuntamiento,SITUACION,2
+BARCELONA,PROTESTA PREVISTAS,2
+BARCELONA,SITUACION ACTUAL,2
+Consejo Supremo de Justicia Militar,Ministro de Defensa,2
+BARCELONA,Universidad,2
+Constitución,Melilla,2
+Constitución,Instituciones,2
+Congreso de los Diputados,Valencia,2
+Congreso de los Diputados,VALLADOLID,2
+Congreso de los Diputados,VALENCIA,2
+Congreso de los Diputados,Sevilla,2
+Congreso de los Diputados,SITUACION,2
+Congreso de los Diputados,Plaza de Neptuno,2
+Congreso de los Diputados,Málaga,2
+Congreso de los Diputados,Historia,2
+El Presidente,Ministerio Fiscal,2
+Cartagena,Historia,2
+Cartagena,Guardia Civil,2
+Cartagena,Constitución,2
+BARCELONA,VALENCIA,2
+Ayuntamiento,SEGURIDAD,2
+Ayuntamiento,Palacio del Congreso de los Diputados,2
+Ayuntamiento,PROTESTA PREVISTAS,2
+Ayuntamiento,POLICIALES,2
+ACCIONES,BARCELONA,2
+ACCIONES,Ayuntamiento,2
+POLITICA,POLITICA EXTERIOR,2
+Madrid,POLITICA EXTERIOR,2
+España,Washington,2
+Calvo Sotelo,España,2
+AMERICA,Ministro de Asuntos Exteriores,2
+AMERICA,Madrid,2
+Madrid,ROMAN,2
+MOLINA,ROMAN,2
+LUIS TORRES,ROMAN,2
+LUIS TORRES,MOLINA,2
+LUIS ABAD GUTIERREZ,MOLINA,2
+LUIS ABAD GUTIERREZ,LUIS TORRES,2
+Consejo Supremo de Justicia Militar,ROMAN,2
+ACCIONES,Historia,2
+ACCIONES,Málaga,2
+ACCIONES,Plaza de Neptuno,2
+Ayuntamiento,JEFATURA SUPERIOR,2
+Ayuntamiento,POLICIA,2
+Ayuntamiento,PAMPLONA,2
+Ayuntamiento,OVIEDO,2
+Ayuntamiento,OCUPACION,2
+Ayuntamiento,Málaga,2
+Ayuntamiento,Madrid,2
+Ayuntamiento,Fuerza Pública,2
+ACCIONES,SITUACION,2
+Ayuntamiento,Facultad de Derecho,2
+Ayuntamiento,Congreso de los Diputados,2
+Alcalde,Valencia,2
+Alcalde,Constitución,2
+ACCIONES,VALLADOLID,2
+ACCIONES,VALENCIA,2
+DEMOCRACIA,GUARDIA,2
+Capital,VALENCIA,2
+Capital,Guardias Civiles,2
+Comandante CORTINA,Madrid,2
+Comandancia,Fecha N,2
+España,INFORME,2
+MICROFILMACION,Sala de Justicia,2
+Enero,MICROFILMACION,2
+España,País Vasco,2
+Consejo Supremo,SEÑOR,2
+Madrid,Región Militar,2
+Comandante de Infantería,Madrid,2
+Madrid,los Estados Unidos,2
+Madrid,Nota Informativa,2
+Londres,Madrid,2
+Londres,MICROFILMACION,2
+Grecia,llegó,2
+Grecia,Operación,2
+Grecia,MICROFILMACION,2
+Fecha N,Señor,2
+Comandante CORTINA,Noviembre,2
+Madrid,Oficial,2
+España,Extremadura,2
+Código de Justicia Militar,Oficial,2
+Código de Justicia Militar,GUARDIA,2
+Código de Justicia Militar,Fecha N,2
+Congreso de los Diputados,tenía,2
+Congreso de los Diputados,GUARDIA,2
+Comandancia,Madrid,2
+Comandancia,GUARDIA,2
+Casa Real,General Armada,2
+División,País Vasco,2
+División,SITUACION,2
+Consejo Supremo,Madrid,2
+Causa,SEÑOR,2
+España,Exmo,2
+Causa,Consejo Supremo de Justicia Militar,2
+Enero,Noviembre,2
+Grecia,Londres,2
+Estado,Extremadura,2
+Estado,Informe,2
+General Armada,MICROFILMACION,2
+CESID,MOMENTO,2
+CESID,INFORMACIONES,2
+Gobierno Militar,País Vasco,2
+Movimiento Comunista,SITUACION,2
+Exmo,Señor,2
+Informe,SITUACION,2
+Informe,Movimiento Comunista,2
+INFORME,SITUACION,2
+Gobierno,Señor,2
+Gobierno,País Vasco,2
+Gobierno,Movimiento Comunista,2
+Gobierno,INFORME,2
+Fuerzas Armadas,SITUACION,2
+Extremadura,Fuerzas Armadas,2
+Fuerzas Armadas,INFORME,2
+Alemania,España,2
+Alemania,Londres,2
+Alemania,Operación,2
+España,Grecia,2
+General Armada,Londres,2
+Europa,Según,2
+Europa,MICROFILMACION,2
+Europa,Londres,2
+Europa,Grecia,2
+España,Nota Informativa,2
+Estado,País Vasco,2
+Alemania,llegó,2
+Estado,SITUACION,2
+Estado,Señor,2
+Congreso,Nota Informativa,2
+Congreso,Londres,2
+Congreso,Grecia,2
+Barcelona,Madrid,2
+División,INFORME,2
+Madrid,Servicio de Información,2
+Capital,Dirección General de la Guardia Civil,2
+Abril,Estado Mayor del Ejército,2
+Capitán de la Guardia Civil,Código de Justicia Militar,2
+CONSEJO SUPREMO,ENTRADA,2
+Jefes,TORNO AL DESARROLLO,2
+CONSEJO SUPREMO,EXCMO,2
+CONSEJO SUPREMO,EJERCITO,2
+López Montero,TORNO AL DESARROLLO,2
+General de División,LUIS TORRES,2
+Ministerio Fiscal,TORNO AL DESARROLLO,2
+Código de Justicia Militar,LUIS TORRES,2
+Organización,Su Majestad,2
+Sr. Zugasti,Su Majestad,2
+Abril,Real Decreto,2
+Abril,LUIS TORRES,2
+Sr. Zugasti,TORNO AL DESARROLLO,2
+General de División,Providencia,2
+Capitán de la Guardia Civil,Madrid,2
+Abril,GABINETE,2
+Madrid,tenía,2
+Abril,Señor,2
+Capital,DEMOCRACIA,2
+Cadena SER,Zona,2
+Cadena SER,Servicio,2
+Cadena SER,Región,2
+Cadena SER,Ministerio del Interior,2
+Cadena SER,Madrid,2
+Cadena SER,Guardias Civiles,2
+Ayer,Málaga,2
+Ayer,Dirección General de la Guardia Civil,2
+Ayer,DEMOCRACIA,2
+Abril,ESTADO MAYOR,2
+Jefes,Su Majestad,2
+ARMADA,ESTADO MAYOR,2
+GABINETE,Señor,2
+Código de Justicia Militar,GABINETE,2
+EJERCITO,EXCMO,2
+Además,INFORME,2
+Además,SITUACION,2
+Andalucía,Constitución,2
+Fecha N,SEÑOR,2
+Código de Justicia Militar,Sres,2
+Código de Justicia Militar,Marzo,2
+Consejo Supremo de Justicia Militar,Código de Justicia Militar,2
+Causa,Marzo,2
+Madrid,Manifiesta,2
+Guardia Civil,Marzo,2
+Consejo Supremo de Justicia Militar,Marzo,2
+División,Estado,2
+División,Fuerzas Armadas,2
+Consejo Supremo de Justicia Militar JUZGADO ESPECIAL S/,Marzo,2
+Guardia Civil,Secretario,2
+Guardia Civil,Ilmo,2
+Departamento,Madrid,2
+Gobierno Militar,Madrid,2
+General de División,Señor,2
+General de División,Sres,2
+Madrid,Sres,2
+Consejo Reunido,General de División,2
+Consejo Supremo el Consejero Togado Juez Especial,General de División,2
+Andalucía,Estado,2
+Andalucía,Gobierno,2
+Andalucía,Madrid,2
+Constitución,Extremadura,2
+Constitución,INFORME,2
+Abril,Sala de Justicia,2
+Marzo,SEÑOR,2
+Abril,Providencia,2
+Abril,ENTRADA,2
+Abril,EJERCITO,2
+Abril,Consejo Supremo el Consejero Togado Juez Especial,2
+Abril,Consejo Reunido,2
+SEÑOR,Sres,2
+Constitución,Málaga,2
+El Presidente,Jefes,2
+Constitución,VALLADOLID,2
+Ejército,OCUPACION,2
+Ejército,JEFATURA SUPERIOR,2
+Ejército,Informe,2
+Ejército,HENARES,2
+Ejército,Fuerza Pública,2
+Ejército,Facultad de Derecho,2
+Dirección General de la Guardia Civil,Universidad,2
+Dirección General de la Guardia Civil,SITUACION ACTUAL,2
+Dirección General de la Guardia Civil,SITUACION,2
+Dirección General de la Guardia Civil,SEVILLA,2
+Dirección General de la Guardia Civil,SEGURIDAD,2
+Dirección General de la Guardia Civil,Palacio del Congreso de los Diputados,2
+Dirección General de la Guardia Civil,PROTESTA PREVISTAS,2
+Dirección General de la Guardia Civil,POLICIALES,2
+Dirección General de la Guardia Civil,POLICIA,2
+Dirección General de la Guardia Civil,PAMPLONA,2
+Ejército,Movimiento Comunista,2
+Ejército,OVIEDO,2
+España,PROTESTA PREVISTAS,2
+Ejército,PAMPLONA,2
+España,OVIEDO,2
+España,OCUPACION,2
+España,Málaga,2
+España,JEFATURA SUPERIOR,2
+España,HENARES,2
+España,Fuerza Pública,2
+España,Facultad de Derecho,2
+Ejército,Universidad,2
+Ejército,SITUACION ACTUAL,2
+Ejército,SEVILLA,2
+Ejército,SEGURIDAD,2
+Ejército,Palacio del Congreso de los Diputados,2
+Ejército,PROTESTA PREVISTAS,2
+Ejército,POLICIALES,2
+Ejército,POLICIA,2
+Dirección General de la Guardia Civil,OVIEDO,2
+Dirección General de la Guardia Civil,OCUPACION,2
+Dirección General de la Guardia Civil,Movimiento Comunista,2
+Dirección General de la Guardia Civil,JEFATURA SUPERIOR,2
+DEMOCRACIA,Movimiento Comunista,2
+DEMOCRACIA,JEFATURA SUPERIOR,2
+DEMOCRACIA,HENARES,2
+DEMOCRACIA,Fuerzas Armadas,2
+DEMOCRACIA,Fuerza Pública,2
+DEMOCRACIA,Facultad de Derecho,2
+DEMOCRACIA,Estado,2
+DEMOCRACIA,España,2
+DEMOCRACIA,Ejército,2
+Constitución,SEVILLA,2
+Constitución,HENARES,2
+Constitución,DEMOCRACIA,2
+Congreso de los Diputados,SEVILLA,2
+Congreso de los Diputados,Movimiento Comunista,2
+Congreso de los Diputados,HENARES,2
+DEMOCRACIA,OCUPACION,2
+DEMOCRACIA,OVIEDO,2
+DEMOCRACIA,PAMPLONA,2
+Dirección General de la Guardia Civil,Ejército,2
+Dirección General de la Guardia Civil,HENARES,2
+Dirección General de la Guardia Civil,Gobierno,2
+Dirección General de la Guardia Civil,Fuerzas Armadas,2
+Dirección General de la Guardia Civil,Fuerza Pública,2
+Dirección General de la Guardia Civil,Facultad de Derecho,2
+Dirección General de la Guardia Civil,Estado,2
+DEMOCRACIA,Universidad,2
+DEMOCRACIA,POLICIA,2
+DEMOCRACIA,SITUACION ACTUAL,2
+DEMOCRACIA,SEVILLA,2
+DEMOCRACIA,SEGURIDAD,2
+DEMOCRACIA,Palacio del Congreso de los Diputados,2
+DEMOCRACIA,PROTESTA PREVISTAS,2
+DEMOCRACIA,POLICIALES,2
+España,POLICIALES,2
+España,Palacio del Congreso de los Diputados,2
+Congreso de los Diputados,Dirección General de la Guardia Civil,2
+HENARES,POLICIA,2
+HENARES,OVIEDO,2
+HENARES,OCUPACION,2
+HENARES,Movimiento Comunista,2
+HENARES,JEFATURA SUPERIOR,2
+Guardia Civil,SEVILLA,2
+Guardia Civil,Movimiento Comunista,2
+Guardia Civil,HENARES,2
+Gobierno,POLICIA,2
+Gobierno,Málaga,2
+Declaración,Sr. Zugasti,2
+Fuerzas Armadas,Universidad,2
+Fuerzas Armadas,SITUACION ACTUAL,2
+Fuerzas Armadas,SEVILLA,2
+Fuerzas Armadas,SEGURIDAD,2
+Fuerzas Armadas,Palacio del Congreso de los Diputados,2
+HENARES,PAMPLONA,2
+HENARES,POLICIALES,2
+España,SITUACION ACTUAL,2
+HENARES,PROTESTA PREVISTAS,2
+Movimiento Comunista,SEGURIDAD,2
+Movimiento Comunista,Palacio del Congreso de los Diputados,2
+Movimiento Comunista,PROTESTA PREVISTAS,2
+Movimiento Comunista,POLICIALES,2
+Movimiento Comunista,POLICIA,2
+Movimiento Comunista,PAMPLONA,2
+Movimiento Comunista,OVIEDO,2
+Movimiento Comunista,OCUPACION,2
+JEFATURA SUPERIOR,SEVILLA,2
+JEFATURA SUPERIOR,Movimiento Comunista,2
+HENARES,Universidad,2
+HENARES,SITUACION ACTUAL,2
+HENARES,SEVILLA,2
+HENARES,SEGURIDAD,2
+HENARES,Palacio del Congreso de los Diputados,2
+Fuerzas Armadas,PROTESTA PREVISTAS,2
+Fuerzas Armadas,POLICIALES,2
+Fuerzas Armadas,POLICIA,2
+Fuerzas Armadas,PAMPLONA,2
+Estado,Plaza de Neptuno,2
+Estado,Parlamento,2
+Estado,Palacio del Congreso de los Diputados,2
+Estado,PROTESTA PREVISTAS,2
+Estado,POLICIALES,2
+Estado,POLICIA,2
+Estado,PAMPLONA,2
+Estado,OVIEDO,2
+Estado,OCUPACION,2
+Estado,JEFATURA SUPERIOR,2
+Estado,HENARES,2
+Estado,Fuerza Pública,2
+Estado,Facultad de Derecho,2
+España,VALLADOLID,2
+España,Universidad,2
+Estado,SEGURIDAD,2
+Estado,SEVILLA,2
+Estado,SITUACION ACTUAL,2
+Fuerza Pública,Movimiento Comunista,2
+Fuerzas Armadas,OVIEDO,2
+Fuerzas Armadas,OCUPACION,2
+Fuerzas Armadas,JEFATURA SUPERIOR,2
+Fuerzas Armadas,HENARES,2
+Declaración,Su Majestad,2
+Fuerza Pública,SEVILLA,2
+Fuerza Pública,HENARES,2
+Estado,Universidad,2
+Fuerza Pública,Fuerzas Armadas,2
+Facultad de Derecho,SEVILLA,2
+Facultad de Derecho,Movimiento Comunista,2
+Facultad de Derecho,HENARES,2
+Facultad de Derecho,Fuerzas Armadas,2
+Estado,VALLADOLID,2
+Congreso de los Diputados,Ejército,2
+Congreso de los Diputados,DEMOCRACIA,2
+El Comandante Cortina,Su Majestad,2
+Málaga,Palacio del Congreso de los Diputados,2
+Málaga,POLICIALES,2
+Málaga,POLICIA,2
+Málaga,PAMPLONA,2
+Málaga,OVIEDO,2
+Málaga,OCUPACION,2
+Monarquía,Sevilla,2
+Monarquía,SITUACION,2
+Monarquía,POLICIA,2
+Melilla,VALENCIA,2
+Melilla,Región,2
+El Comandante Cortina,General Armada,2
+Madrid,VALLADOLID,2
+Madrid,Plaza de Neptuno,2
+El Comandante Cortina,López Montero,2
+Junta Militar,Madrid,2
+Málaga,PROTESTA PREVISTAS,2
+Málaga,Plaza de Neptuno,2
+POLICIA,Plaza de Neptuno,2
+Málaga,SEGURIDAD,2
+PAMPLONA,VALENCIA,2
+PAMPLONA,SITUACION,2
+PAMPLONA,Plaza de Neptuno,2
+OVIEDO,VALLADOLID,2
+OVIEDO,VALENCIA,2
+OVIEDO,SITUACION,2
+OVIEDO,Plaza de Neptuno,2
+OCUPACION,VALLADOLID,2
+OCUPACION,VALENCIA,2
+OCUPACION,SITUACION,2
+OCUPACION,Plaza de Neptuno,2
+Málaga,VALLADOLID,2
+Málaga,Universidad,2
+Málaga,SITUACION ACTUAL,2
+Málaga,SITUACION,2
+JEFATURA SUPERIOR,VALLADOLID,2
+JEFATURA SUPERIOR,VALENCIA,2
+JEFATURA SUPERIOR,SITUACION,2
+JEFATURA SUPERIOR,Plaza de Neptuno,2
+Guardia Civil,Monarquía,2
+Guardia Civil,Junta Militar,2
+Fuerza Pública,VALLADOLID,2
+Fuerza Pública,VALENCIA,2
+Fuerza Pública,SITUACION,2
+Fuerza Pública,Plaza de Neptuno,2
+Fuerza Pública,Málaga,2
+Fuerza Pública,Historia,2
+Facultad de Derecho,VALLADOLID,2
+Facultad de Derecho,VALENCIA,2
+Facultad de Derecho,SITUACION,2
+Facultad de Derecho,Plaza de Neptuno,2
+Facultad de Derecho,Málaga,2
+Facultad de Derecho,Historia,2
+Constitución,Zona,2
+Guardia Civil,VALLADOLID,2
+Historia,JEFATURA SUPERIOR,2
+Historia,Madrid,2
+Historia,SEGURIDAD,2
+JEFATURA SUPERIOR,Málaga,2
+Instituciones,Zona,2
+Instituciones,Región,2
+Historia,VALENCIA,2
+Historia,Universidad,2
+Historia,SITUACION ACTUAL,2
+Historia,Palacio del Congreso de los Diputados,2
+Historia,Monarquía,2
+Historia,PROTESTA PREVISTAS,2
+Historia,POLICIALES,2
+Historia,POLICIA,2
+Historia,PAMPLONA,2
+Historia,OVIEDO,2
+Historia,OCUPACION,2
+PAMPLONA,VALLADOLID,2
+POLICIA,VALENCIA,2
+Asamblea,Universidad,2
+Asamblea,Estado,2
+Asamblea,Dirección General de la Guardia Civil,2
+Asamblea,DEMOCRACIA,2
+Asamblea,Congreso de los Diputados,2
+ACCIONES,SEVILLA,2
+ACCIONES,Movimiento Comunista,2
+ACCIONES,HENARES,2
+ACCIONES,Fuerzas Armadas,2
+ACCIONES,Estado,2
+ACCIONES,España,2
+ACCIONES,Ejército,2
+ACCIONES,Dirección General de la Guardia Civil,2
+ACCIONES,DEMOCRACIA,2
+ACCIONES,Asamblea,2
+AMERICA,WASHINGTON,2
+Parlamento,Senado,2
+Asamblea,Ejército,2
+Asamblea,Facultad de Derecho,2
+POLICIA,VALLADOLID,2
+Asamblea,Fuerza Pública,2
+Asamblea,SITUACION ACTUAL,2
+Asamblea,SEVILLA,2
+Asamblea,SEGURIDAD,2
+Asamblea,Palacio del Congreso de los Diputados,2
+Asamblea,PROTESTA PREVISTAS,2
+Asamblea,POLICIALES,2
+Asamblea,POLICIA,2
+Asamblea,PAMPLONA,2
+Asamblea,OVIEDO,2
+Asamblea,OCUPACION,2
+Asamblea,Movimiento Comunista,2
+Asamblea,Madrid,2
+Asamblea,JEFATURA SUPERIOR,2
+Asamblea,HENARES,2
+Asamblea,Fuerzas Armadas,2
+Fuerzas Armadas,Parlamento,2
+España,UNITED,2
+Madrid,UNITED,2
+Sincerely,Washington,2
+Plaza de Neptuno,SITUACION ACTUAL,2
+Plaza de Neptuno,SITUACION,2
+Plaza de Neptuno,SEGURIDAD,2
+Palacio del Congreso de los Diputados,VALLADOLID,2
+Palacio del Congreso de los Diputados,VALENCIA,2
+Palacio del Congreso de los Diputados,SITUACION,2
+Palacio del Congreso de los Diputados,Plaza de Neptuno,2
+PROTESTA PREVISTAS,VALLADOLID,2
+PROTESTA PREVISTAS,VALENCIA,2
+PROTESTA PREVISTAS,SITUACION,2
+PROTESTA PREVISTAS,Plaza de Neptuno,2
+POLICIALES,VALLADOLID,2
+POLICIALES,VALENCIA,2
+POLICIALES,SITUACION,2
+POLICIALES,Plaza de Neptuno,2
+Plaza de Neptuno,Universidad,2
+Plaza de Neptuno,VALLADOLID,2
+Plaza de Neptuno,Valencia,2
+SITUACION ACTUAL,VALLADOLID,2
+España,Juan Carlos,2
+Valencia,Zona,2
+VALENCIA,Valencia,2
+Universidad,VALLADOLID,2
+Universidad,VALENCIA,2
+Sevilla,Valencia,2
+SITUACION ACTUAL,VALENCIA,2
+El Comandante Cortina,El Presidente,2
+SITUACION,VALLADOLID,2
+SITUACION,Universidad,2
+SITUACION,SITUACION ACTUAL,2
+SEGURIDAD,VALLADOLID,2
+SEGURIDAD,VALENCIA,2
+SEGURIDAD,SITUACION,2
+Menéndez,Palacio de la Zarzuela,2
+Menéndez,RESUMEN,2
+Armada,Brigada,2
+Capitanía,Cortina,2
+CESID,Su Majestad el Rey,2
+CESID,López Silva,2
+Capitanía,Madrid,2
+Autoridad Militar,Torres Rojas,2
+Autoridad Militar,Ministerio Fiscal,2
+Autoridad Militar,Continúa,2
+Autoridad Militar,Consejo Supremo de Justicia Militar,2
+Armada,la Ley,2
+Armada,Su Majestad el Rey,2
+Congreso,INTENTO,2
+Armada,Hotel Palace,2
+Congreso,Junio,2
+Aramburu,Ministerio Fiscal,2
+Aramburu,Gómez Iglesias,2
+Allí,Después,2
+CESID,la Ley,2
+Consejo Supremo de Justicia Militar,Continúa,2
+Allí,Constitución,2
+Consejo Supremo de Justicia Militar,Hotel Palace,2
+Cortina,López Silva,2
+Cortina,López Montero,2
+Cortina,Hotel Palace,2
+CORTINA,Madrid,2
+Continúa,Gómez Iglesias,2
+Constitución,Su Majestad el Rey,2
+Constitución,Recibió,2
+Constitución,Manchado,2
+Constitución,López Silva,2
+Constitución,Hotel Palace,2
+Consejo Supremo de Justicia Militar,Sr. Hermosilla,2
+Consejo Supremo de Justicia Militar,Pardo Zancada,2
+Consejo Supremo de Justicia Militar,Ministerio Fiscal,2
+Consejo Supremo de Justicia Militar,Miguel,2
+Consejo Supremo de Justicia Militar,López Silva,2
+Allí,Cortina,2
+Allí,Autoridad Militar,2
+Ante,Capitanía,2
+López Montero,Teniente General Milans del Bosch,2
+Jefes y Oficiales,Valencia,2
+Jefes y Oficiales,Su Majestad,2
+Jefes y Oficiales,Servicio,2
+Jefes y Oficiales,Miguel,2
+Jefes y Oficiales,López Montero,2
+Guardia Civil,NECESIDAD,2
+Constitución,El Gobierno,2
+Guardia Civil,Jefes y Oficiales,2
+General Milans,Teniente General Milans del Bosch,2
+General Milans,Su Majestad,2
+General Milans,Pintor Juan Gris,2
+Extremadura,Madrid,2
+Constitución,INTENTO,2
+Constitución,Lleva,2
+General Armada,Jefes y Oficiales,2
+López Montero,NECESIDAD,2
+Miguel,NECESIDAD,2
+Además,Gómez Iglesias,2
+NECESIDAD,Valencia,2
+Además,Armada,2
+Abad,Torres Rojas,2
+Abad,Recibió,2
+Abad,Manchado,2
+Abad,Constitución,2
+Abad,Autoridad Militar,2
+Abad,Además,2
+Teniente General Milans del Bosch,Villalonga,2
+Teniente General Milans del Bosch,Valencia,2
+Su Majestad,rebelión,2
+Su Majestad,Villalonga,2
+Su Majestad,Teniente General Milans del Bosch,2
+Pintor Juan Gris,Villalonga,2
+Pintor Juan Gris,Valencia,2
+Pintor Juan Gris,Teniente General Milans del Bosch,2
+Cortina,Pardo Zancada,2
+Cortina,Sr. Hermosilla,2
+Después,Ministerio Fiscal,2
+Capitán Batista,Ministerio Fiscal,2
+Capitán Batista,El General,2
+Capitán Batista,De Miguel,2
+Capitán Batista,Coronel San Martín,2
+Capitanía,Sr. De Miguel,2
+Capitanía,Ordenanzas,2
+Capitanía,Ministerio Fiscal,2
+Capitanía,Mando,2
+Capitanía,Jefe Supremo,2
+Capitanía,García Carrés,2
+Capitanía,Capitán Batista,2
+Armada,Mando,2
+Armada,Fuerzas Armadas,2
+CORTINA,Constitución,2
+Armada,Comandante Pardo Zancada,2
+CORTINA,España,2
+Capitán Batista,Miguel,2
+Capitán Batista,Su Majestad,2
+Después,Sr. Hermosilla,2
+Capitán Batista,Torres Rojas,2
+Comandante Pardo Zancada,Su Majestad,2
+Comandante Pardo Zancada,Miguel,2
+Comandante Pardo Zancada,Mando,2
+Comandante Pardo Zancada,General Juste,2
+Comandante Pardo Zancada,El General,2
+Comandante Pardo Zancada,De Miguel,2
+Comandante Pardo,Su Majestad,2
+Comandante Pardo,Miguel,2
+Ante,Cortina,2
+Comandante Pardo,El General,2
+Capitán de Navío Menéndez,Su Majestad,2
+Capitán de Navío Menéndez,Miguel,2
+Capitán de Navío Menéndez,España,2
+Capitán de Navío Menéndez,Coronel San Martín,2
+Capitán de Navío Menéndez,Congreso,2
+Armada,Capitán de Navío Menéndez,2
+Torres Rojas,rebelión,2
+Torres Rojas,la Ley,2
+Recibió,Sr. Hermosilla,2
+López Montero,Pardo Zancada,2
+Hotel Palace,Recibió,2
+Hotel Palace,Pardo Zancada,2
+Hotel Palace,López Silva,2
+Hotel Palace,López Montero,2
+Gómez Iglesias,Recibió,2
+Gómez Iglesias,Miguel,2
+Guardia Civil,Sr. Hermosilla,2
+Guardia Civil,Manchado,2
+Guardia Civil,López Silva,2
+Finaliza,Ministerio Fiscal,2
+España,Manchado,2
+España,López Silva,2
+España,Hotel Palace,2
+Después,Su Majestad el Rey,2
+López Montero,Recibió,2
+López Montero,Sr. Hermosilla,2
+López Montero,Su Majestad el Rey,2
+Miguel,Pardo Zancada,2
+Pardo Zancada,Sr. Hermosilla,2
+Pardo Zancada,Recibió,2
+Ministerio Fiscal,rebelión,2
+Ministerio Fiscal,Torres Rojas,2
+Ministerio Fiscal,Su Majestad el Rey,2
+Miguel,la Ley,2
+Miguel,Ministerio Fiscal,2
+López Montero,la Ley,2
+Manchado,Torres Rojas,2
+Manchado,Sr. Hermosilla,2
+Manchado,Recibió,2
+López Silva,Su Majestad el Rey,2
+López Silva,Recibió,2
+López Silva,Pardo Zancada,2
+García Villalonga,Teniente General Milans del Bosch,2
+García Villalonga,General Armada,2
+García Carrés,rebelión,2
+Comandante Pardo,S.M. el Rey,2
+Comandante Pardo,Ordenanzas,2
+Estado,Senado,2
+Comandante Pardo,Dirección General,2
+Estado,Suárez,2
+Comandante Pardo,Consejero,2
+Comandante Cortina,Villalonga,2
+Comandante Cortina,Teniente,2
+Comandante Cortina,S.M. el Rey,2
+Comandante Cortina,Cortina,2
+Comandante,S.M. el Rey,2
+Comandante,Consejero,2
+Capitán de la Guardia Civil,Cortina,2
+Capitán Gómez Iglesias,S.M. el Rey,2
+Capitán Gómez Iglesias,Ministerio,2
+GUARDIA,Gobierno,2
+Comandante Pardo,Residencia,2
+Congreso,Dirección General,2
+Expone,Madrid,2
+Congreso,Ministerio,2
+Dirección General,Valencia,2
+Dirección General,Teniente,2
+Dirección General,Guardia Civil,2
+Cortina,Ministerio,2
+Cortina,Fuerzas Armadas,2
+Constitución,Residencia,2
+Constitución,Expone,2
+Constitución,Dirección General,2
+Consejo,Villalonga,2
+Consejo,Juan Gris,2
+Consejero,S.M. el Rey,2
+Consejero,Ordenanzas,2
+Consejero,Fuerzas Armadas,2
+Estado,GUARDIA,2
+Congreso,Residencia,2
+Capitán Gómez Iglesias,Consejo,2
+Capitán Dusmet,Valencia,2
+Capitán Dusmet,Cortina,2
+Capitán Dusmet,Constitución,2
+Capitán Cid Fortea,Plaza de Neptuno,2
+Capitán Cid Fortea,Guardias,2
+Policía Nacional,Valdemoro,2
+Ministerio Fiscal,Sr. De Miguel,2
+Juan Gris,Ministerio Fiscal,2
+Ignacio Román,Sr. De Miguel,2
+Gómez Iglesias,Sr. De Miguel,2
+Gómez Iglesias,Según,2
+Gómez Iglesias,Policía Nacional,2
+Gómez Iglesias,Ignacio Román,2
+Gobierno,Suárez,2
+General Aramburu,Ignacio Román,2
+INTENTO,Sección,2
+Empieza,Juan Gris,2
+Empieza,Guardia Civil,2
+Gobierno,Sección,2
+Congreso,Plaza de Neptuno,2
+Consejeros,Código de Justicia Militar,2
+Capitán Batista,Consejero,2
+Capitán Dusmet,Capitán de la Guardia Civil,2
+Capitán Batista,Teniente,2
+Capitán Batista,Ordenanzas,2
+Capitán Batista,Juan Gris,2
+Capitán Batista,Fuerzas Armadas,2
+Capitán Batista,Constitución,2
+GUARDIA,Sección,2
+Gobierno,INTENTO,2
+Capitán Batista,Comandante,2
+Capitán Batista,Capitán Dusmet,2
+Código de Justicia Militar,El País,2
+Código de Justicia Militar,Después,2
+GUARDIA,Suárez,2
+Consejo,Código de Justicia Militar,2
+Expone,Juan Gris,2
+Expone,Valencia,2
+García Carrés,Su Majestad,2
+Cortina,Junio,2
+Después,Miguel,2
+Después,Jefes y Oficiales,2
+Después,El Presidente,2
+Continúa,rebelión,2
+Continúa,Villalonga,2
+Continúa,Teniente General Milans del Bosch,2
+El Gobierno,España,2
+Continúa,Miguel,2
+Continúa,López Montero,2
+Continúa,Después,2
+Constitución,Teniente General Milans del Bosch,2
+Constitución,Pintor Juan Gris,2
+Constitución,NECESIDAD,2
+Constitución,El Teniente Coronel Tejero,2
+Consejeros,Miguel,2
+Después,rebelión,2
+El Presidente,García Carrés,2
+Fuerzas Armadas,Teniente,2
+El Presidente,NECESIDAD,2
+García Carrés,Servicio,2
+García Carrés,Miguel,2
+García Carrés,López Montero,2
+Finaliza,rebelión,2
+Finaliza,Valencia,2
+Finaliza,Su Majestad,2
+Finaliza,Miguel,2
+Finaliza,López Montero,2
+Constitución,Sección,2
+Constitución,Senado,2
+El Teniente Coronel Tejero,Su Majestad,2
+El Teniente Coronel Tejero,Servicio,2
+El Teniente Coronel Tejero,Miguel,2
+El Teniente Coronel Tejero,López Montero,2
+El Teniente Coronel Tejero,General Milans,2
+Consejeros,López Montero,2
+Consejeros,Jefes y Oficiales,2
+Congreso,NECESIDAD,2
+El Gobierno,Madrid,2
+Además,El Teniente Coronel Tejero,2
+Además,El Presidente,2
+Además,Después,2
+Además,Continúa,2
+Además,CESID,2
+Además,Ayudante,2
+Teniente,Villalonga,2
+Ministerio Público,Valencia,2
+Ministerio,Valencia,2
+Ministerio,Teniente,2
+Ministerio,S.M. el Rey,2
+Madrid,Villalonga,2
+Juan Gris,Villalonga,2
+Juan Gris,Ministerio Público,2
+Guardia Civil,Ministerio,2
+Además,Finaliza,2
+Además,Miguel,2
+Además,rebelión,2
+CESID,Teniente General Milans del Bosch,2
+Comandante Cortina,Su Majestad,2
+Comandante Cortina,Miguel,2
+El Gobierno,Suárez,2
+Comandante Cortina,García Carrés,2
+Comandante Cortina,El Teniente Coronel Tejero,2
+Comandante Cortina,El Presidente,2
+España,INTENTO,2
+Ayudante,El Presidente,2
+CESID,Pintor Juan Gris,2
+CESID,El Teniente Coronel Tejero,2
+España,Junio,2
+España,Lleva,2
+Ayudante,Servicio,2
+Ayudante,López Montero,2
+Consejero,España,2
+Constitución,De Miguel,2
+Menéndez,Sectores,2
+Capitán GOMEZ,Ministerio Fiscal,2
+Capitán GOMEZ,Continúa,2
+Capitán GOMEZ,Comandante CORTINA,2
+CESID,Teniente General MILANS DEL BOSCH,2
+CESID,Pilar Urbano,2
+CESID,Nota Informativa,2
+CESID,Jefe Supremo,2
+CESID,Comandante CORTINA,2
+ARMADA,Teniente,2
+ARMADA,Nota Informativa,2
+ARMADA,Ministerio Fiscal,2
+ARMADA,Jefe Supremo,2
+ARMADA,Grupos Tácticos,2
+ARMADA,Fuerzas Armadas,2
+jamás,llegó,2
+Sr. Hermosilla,llegó,2
+Capitán GOMEZ,General TORRES,2
+Capitán GOMEZ,Su Majestad,2
+Operación,Sr. Hermosilla,2
+Comandante CORTINA,General TORRES,2
+General ARMADA,Jefe Supremo,2
+General ARMADA,Grupos Tácticos,2
+Fuerzas Armadas,Teniente General MILANS DEL BOSCH,2
+Fuerzas Armadas,Nota Informativa,2
+Fuerzas Armadas,Grupos Tácticos,2
+Fuerzas Armadas,General ARMADA,2
+España,Grupos Tácticos,2
+El General,Zarzuela,2
+El General,S.M. El Rey,2
+El General,Madrid,2
+Continúa,Teniente,2
+Continúa,Patria,2
+Continúa,Madrid,2
+Constitución,Nota Informativa,2
+Consejo,Grupos Tácticos,2
+Pilar Urbano,Valencia,2
+Juan Gris,Sr. Hermosilla,2
+Constitución,El General,2
+Guardias Civiles,Milans del Bosch,2
+Seguidamente,Valencia,2
+Pavía,Su Majestad,2
+Menciona,Zarzuela,2
+Menciona,Valencia,2
+Menciona,Su Majestad,2
+Madrid,Reconoce,2
+Madrid,Pavía,2
+Juan Gris,llegó,2
+Juan Gris,Su Majestad,2
+Juan Gris,Seguidamente,2
+Juan Gris,Menciona,2
+JUJEM,Seguidamente,2
+JUJEM,Reconoce,2
+III Región Militar,Zarzuela,2
+III Región Militar,Su Majestad,2
+Seguidamente,Zarzuela,2
+Congreso,Pilar Urbano,2
+Juan Gris,Operación,2
+Congreso,jamás,2
+General Miláns,llegó,2
+General Miláns,Teniente General Miláns,2
+General Miláns,Sr. Hermosilla,2
+General Armada,jamás,2
+General Armada,Pilar Urbano,2
+España,jamás,2
+El General,llegó,2
+El General,jamás,2
+El General,Teniente General Miláns,2
+El General,Sr. Hermosilla,2
+El General,Pilar Urbano,2
+El General,Juan Gris,2
+Coronel Ibáñez,llegó,2
+Coronel Ibáñez,Pardo Zancada,2
+Coronel Ibáñez,El General,2
+General ARMADA,Ministerio Fiscal,2
+General ARMADA,Nota Informativa,2
+Grupos Tácticos,Jefe Supremo,2
+General Gutiérrez Mellado,Teniente General Milans,2
+General Gutiérrez Mellado,NUÑEZ,2
+El Capitán,Madrid,2
+General Armada,NUÑEZ,2
+General Armada,Menciona,2
+General Armada,III Región Militar,2
+General Armada,General Gutiérrez Mellado,2
+Enero,Teniente General Miláns,2
+Enero,S.M. el Rey,2
+Enero,Juan Gris,2
+Enero,III Región Militar,2
+El Capitán,teléfono,2
+Cortina,Teniente General Miláns,2
+Cortina,General Gutiérrez Mellado,2
+El Comandante,Madrid,2
+Coronel Manchado,Teniente General Miláns,2
+General Gutiérrez Mellado,Tejero,2
+General Gutiérrez Mellado,Valencia,2
+Grupos Tácticos,Ministerio Fiscal,2
+Guardia Civil,NUÑEZ,2
+Tejero,Teniente General Milans,2
+Su Majestad,Tejero,2
+S.M. el Rey,Teniente General Miláns,2
+S.M. el Rey,Tejero,2
+Pardo,Teniente General Miláns,2
+Pardo,Teniente General Milans,2
+Pardo,Su Majestad,2
+NUÑEZ,Teniente General Milans,2
+NUÑEZ,Tejero,2
+NUÑEZ,S.M. el Rey,2
+NUÑEZ,ROMAN,2
+LUIS ABAD GUTIERREZ,NUÑEZ,2
+III Región Militar,Teniente General Milans,2
+III Región Militar,S.M. el Rey,2
+El Capitán,Guardias Civiles,2
+Coronel Manchado,Teniente General Milans,2
+Coronel Manchado,Su Majestad,2
+Coronel Manchado,S.M. el Rey,2
+Coronel Manchado,General Gutiérrez Mellado,2
+Patria,Pilar Urbano,2
+Nota Informativa,Teniente General MILANS DEL BOSCH,2
+Ministerio Fiscal,Teniente General MILANS DEL BOSCH,2
+Ministerio Fiscal,Teniente,2
+Ministerio Fiscal,Nota Informativa,2
+Madrid,de Valencia,2
+Madrid,S.M. El Rey,2
+Madrid,Pilar Urbano,2
+Madrid,Ministerio Fiscal,2
+Jefe Supremo,Teniente General MILANS DEL BOSCH,2
+Jefe Supremo,Nota Informativa,2
+Grupos Tácticos,Zarzuela,2
+Grupos Tácticos,Valencia,2
+Grupos Tácticos,Teniente General MILANS DEL BOSCH,2
+Grupos Tácticos,Nota Informativa,2
+Patria,Teniente,2
+Patria,Zarzuela,2
+Pilar Urbano,Su Majestad,2
+Continúa,Pardo,2
+Coronel Ibáñez,S.M. el Rey,2
+Coronel Ibáñez,Pardo,2
+Coronel Ibáñez,Guardia Civil,2
+Coronel Ibáñez,Enero,2
+Coronel Ibáñez,Cortina,2
+Continúa,Tejero,2
+Guardia,Madrid,2
+Pilar Urbano,Zarzuela,2
+Guardia,Oficiales,2
+CESID,Teniente General Miláns,2
+CESID,S.M. el Rey,2
+CESID,Coronel Ibáñez,2
+ARENAS,S.M. el Rey,2
+Guardia Civil,Milans del Bosch,2
+III Región Militar,Reconoce,2
+III Región Militar,Menciona,2
+III Región Militar,Juan Gris,2
+Análisis,Armada,2
+ARMADA,Comandante PARDO,2
+ARMADA,CORTINA,2
+ARMADA,CARRES,2
+Torres Rojas,columna del,2
+Sr. De Miguel,Valencia,2
+Pide,Su Majestad,2
+Ministerio Fiscal,Pide,2
+Ministerio Fiscal,Ordenanzas,2
+Mando,Valencia,2
+Mando,Ordenanzas,2
+Mando,Ministerio Fiscal,2
+Jefe Supremo,Valencia,2
+Jefe Supremo,Su Majestad,2
+Jefe Supremo,Pide,2
+Jefe Supremo,Ordenanzas,2
+ARMADA,llegó,2
+Análisis,CESID,2
+CARRES,Valencia,2
+Análisis,Congreso,2
+CARRES,Guardia Civil,2
+CARRES,General TORRES,2
+CARRES,General ARMADA,2
+CARRES,Estado Mayor,2
+CARRES,España,2
+CARRES,El Presidente,2
+CARRES,Constitución,2
+CARRES,Comandante PARDO ZANCADA,2
+CARRES,CESID,2
+Madrid,Milans del Bosch,2
+Armada,Menciona,2
+Armada,III Región Militar,2
+Madrid,Residencia,2
+Armada,Casa Real,2
+Análisis,Guardia Civil,2
+Jefe Supremo,Mando,2
+Madrid,¿Qué,2
+Milans del Bosch,Oficiales,2
+General Juste,Ministerio Fiscal,2
+El General,Jefe Supremo,2
+El General,General Fernández Campos,2
+El General,Fuerzas Armadas,2
+De Miguel,Valencia,2
+De Miguel,General Juste,2
+De Miguel,General Fernández Campos,2
+Coronel San Martín,Su Majestad,2
+Coronel San Martín,Miguel,2
+Alvarez,Constitución,2
+Coronel San Martín,Fuerzas Armadas,2
+Constitución,columna del,2
+Constitución,Sr. De Miguel,2
+Constitución,Mando,2
+Alvarez,Gobierno,2
+Constitución,General Fernández Campos,2
+El General,Mando,2
+El General,Ministerio Fiscal,2
+El General,Pide,2
+Fuerzas Armadas,Pide,2
+Oficiales,teléfono,2
+General Fernández Campos,Valencia,2
+General Fernández Campos,Guardia Civil,2
+General Fernández Campos,General Juste,2
+teléfono,¿Qué,2
+Fuerzas Armadas,Sr. De Miguel,2
+Fuerzas Armadas,Mando,2
+El General,Su Majestad,2
+Fuerzas Armadas,General Juste,2
+Fuerzas Armadas,General Armada,2
+Fuerzas Armadas,García Carrés,2
+España,columna del,2
+Alvarez,Ante,2
+España,General Fernández Campos,2
+CARRES,JUJEM,2
+CARRES,Zarzuela,2
+Guardia Civil,Seguidamente,2
+El Presidente,Zarzuela,2
+El Presidente,Juan Gris,2
+Guardias Civiles,Residencia,2
+El Presidente,General TORRES,2
+El Presidente,Estado Mayor,2
+División Acorazada,General ARMADA,2
+Diputados,llegó,2
+Diputados,Madrid,2
+Diputados,Juan Gris,2
+Constitución,Seguidamente,2
+Constitución,Reconoce,2
+Constitución,Menciona,2
+Constitución,III Región Militar,2
+Constitución,General TORRES,2
+Consejo,General ARMADA,2
+Congreso,Pavía,2
+El Presidente,Seguidamente,2
+España,General TORRES,2
+CESID,CORTINA,2
+España,Reconoce,2
+Guardia Civil,Pavía,2
+Guardia Civil,Menciona,2
+Gobierno,Seguidamente,2
+Gobierno,Juan Gris,2
+Gobierno,III Región Militar,2
+General TORRES,Zarzuela,2
+General TORRES,Valencia,2
+General TORRES,Madrid,2
+General TORRES,Guardia Civil,2
+General TORRES,Gobierno,2
+General ARMADA,Su Majestad,2
+General ARMADA,General TORRES,2
+Estado Mayor,llegó,2
+Estado Mayor,Juan Gris,2
+España,Seguidamente,2
+Comenzó,Madrid,2
+Comenzó,Juan Gris,2
+Comenzó,Gobierno,2
+Comenzó,Diputados,2
+Casa Real,Gobierno,2
+Casa Real,Constitución,2
+Casa Real,Congreso,2
+CORTINA,Su Majestad,2
+CORTINA,Guardia Civil,2
+CORTINA,General TORRES,2
+CORTINA,Consejo,2
+Guardias Civiles,teléfono,2
+CESID,Seguidamente,2
+CESID,Reconoce,2
+CESID,Pavía,2
+CESID,División Acorazada,2
+CESID,Diputados,2
+CESID,Comandante PARDO,2
+CESID,Casa Real,2
+Casa Real,Guardia Civil,2
+Casa Real,III Región Militar,2
+Casa Real,Reconoce,2
+Comandante PARDO,General TORRES,2
+Comenzó,Constitución,2
+Comenzó,Consejo,2
+Comandante PARDO,Zarzuela,2
+Comandante PARDO,Valencia,2
+Comandante PARDO,JUJEM,2
+Comandante PARDO,Guardia Civil,2
+Comandante PARDO,General ARMADA,2
+Casa Real,Valencia,2
+Comandante PARDO,Estado Mayor,2
+Comandante PARDO,España,2
+Comandante PARDO,El Presidente,2
+Comandante PARDO,Constitución,2
+Comandante PARDO,Comandante PARDO ZANCADA,2
+Casa Real,Zarzuela,2
+El Capitán Gómez Iglesias,General Aramburu,2
+El Capitán,Gómez Iglesias,2
+El Capitán,General Aramburu,2
+Comandante,Orden,2
+Comandante,General ARMADA,2
+Comandante,Estado Mayor,2
+Ejército,Policía Nacional,2
+Comandante,Comandante PARDO ZANCADA,2
+Capitanías Generales,Servicio,2
+Capitanías Generales,JUJEM,2
+Capitanías Generales,Gobierno,2
+Capitanía,Zarzuela,2
+Capitanía,Teniente General MILANS DEL BOSCH,2
+Capitanía,Servicio,2
+Ejército,Sevilla,2
+Capitanía,General ARMADA,2
+Capitanía,Gabeiras,2
+Capitanía,Estado Mayor,2
+Capitanía,Conversaciones,2
+Comandante,Gobierno,2
+Comandante,Región,2
+Capitanes Generales,Teniente General,2
+Comandante,Teniente General,2
+Consejo Supremo de Justicia Militar,JUJEM,2
+Consejo Supremo de Justicia Militar,General ARMADA,2
+Consejo Supremo de Justicia Militar,División,2
+Consejo Supremo de Justicia Militar,Conversaciones,2
+Congreso,aquél,2
+Congreso,Teniente General MILANS DEL BOSCH,2
+Congreso,S.M. El Rey,2
+Ejército,Parlamento,2
+Comandante PARDO ZANCADA,Región,2
+Comandante PARDO ZANCADA,Gobierno,2
+Comandante PARDO ZANCADA,División,2
+Comandante PARDO ZANCADA,Diputados,2
+Comandante PARDO ZANCADA,Después,2
+Comandante,aquél,2
+Ejército,Policía Militar,2
+Capitanía,Capitanías Generales,2
+Capitanes Generales,JUJEM,2
+El Capitán,El Capitán Gómez Iglesias,2
+Bando,Capitanía,2
+Autoridades,Teniente General,2
+Autoridades,JUJEM,2
+Autoridades,Estado Mayor,2
+Autoridades,Comandante,2
+Autoridades,Capitanes Generales,2
+Autoridades,Bando,2
+Autoridad,Zarzuela,2
+Autoridad,Región Militar,2
+Autoridad,Guardia Civil,2
+Autoridad,Gobierno,2
+Autoridad,España,2
+Autoridad,Diputados,2
+Autoridad,Congreso,2
+ARMADA,Servicio,2
+ARMADA,S.M. El Rey,2
+Bando,Capitanes Generales,2
+Bando,Comandante,2
+Capitanes Generales,Consejo Supremo de Justicia Militar,2
+Bando,Consejo Supremo de Justicia Militar,2
+Capitanes Generales,Comandante,2
+Cadena SER,Orden,2
+Cadena SER,España,2
+Cadena SER,Consejo Supremo de Justicia Militar,2
+Cadena SER,Congreso,2
+Bando,la Ley,2
+GUARDIA,General Armada,2
+Bando,Teniente General MILANS DEL BOSCH,2
+Bando,Región Militar,2
+Bando,Región,2
+Bando,General ARMADA,2
+Bando,Gabeiras,2
+Bando,División,2
+Bando,Después,2
+Bando,Conversaciones,2
+Consejo Supremo de Justicia Militar,Orden,2
+Consejo Supremo de Justicia Militar,S.M. El Rey,2
+Consejo Supremo de Justicia Militar,Teniente General MILANS DEL BOSCH,2
+ARENAS,Comandante,2
+Valencia,la Ley,2
+Valencia,aquél,2
+Teniente General MILANS DEL BOSCH,Zarzuela,2
+Teniente General MILANS DEL BOSCH,Valencia,2
+Teniente General,Zarzuela,2
+S.M. El Rey,Valencia,2
+S.M. El Rey,Teniente General MILANS DEL BOSCH,2
+Región Militar,la Ley,2
+Región Militar,Teniente General,2
+Región,la Ley,2
+Región,Teniente General,2
+Orden,Zarzuela,2
+Orden,Servicio,2
+JUJEM,la Ley,2
+Coronel Manchado,de Valencia,2
+ARENAS,CESID,2
+ARENAS,Constitución,2
+Consejo Supremo de Justicia Militar,Valencia,2
+ARENAS,Coronel Manchado,2
+Armada,C.J.M,2
+Armada,Ayudante,2
+Aramburu,rebelión,2
+Aramburu,Valencia,2
+Aramburu,JUJEM,2
+Aramburu,Generales Milans,2
+Aramburu,General Milans del Bosch,2
+Aramburu,General Milans,2
+Aramburu,El General Juste,2
+Aramburu,Capitán Gómez Iglesias,2
+ARENAS,ROMAN,2
+ARENAS,Pardo,2
+ARENAS,JUJEM,2
+ARENAS,General Armada,2
+ARENAS,España,2
+JUJEM,Servicio,2
+Guardia Civil,aquél,2
+Diputados,General Milans del Bosch,2
+Diputados,Guardias,2
+Diputados,Región,2
+Diputados,General ARMADA,2
+Diputados,Estado Mayor,2
+Después,Teniente General MILANS DEL BOSCH,2
+Después,Gobierno,2
+Conversaciones,Teniente General MILANS DEL BOSCH,2
+Conversaciones,División,2
+Conversaciones,Después,2
+Constitución,aquél,2
+Constitución,S.M. El Rey,2
+Constitución,Orden,2
+Diputados,Ministerio del Interior,2
+Diputados,Nación,2
+Constitución,Conversaciones,2
+Consejo Supremo de Justicia Militar,la Ley,2
+Diputados,Región Militar,2
+Diputados,Servicio,2
+Diputados,Valencia,2
+Gabeiras,Servicio,2
+Gobierno,Teniente General,2
+Diputados,Guardias Civiles,2
+General ARMADA,S.M. El Rey,2
+General ARMADA,Región,2
+General ARMADA,Gobierno,2
+Gabeiras,la Ley,2
+Gabeiras,Región Militar,2
+División,Región Militar,2
+Estado Mayor,Servicio,2
+España,Teniente General MILANS DEL BOSCH,2
+España,Orden,2
+División,Teniente General MILANS DEL BOSCH,2
+División,Teniente General,2
+División,Servicio,2
+GUARDIA,Ministerio del Interior,2
+ARMADA,Conversaciones,2
+ARMADA,Consejo Supremo de Justicia Militar,2
+Guardia Civil,Tratar,2
+Guardia Civil,Ministro de Defensa,2
+Gral,PREJUJEM,2
+Gral,Mando,2
+General Milans del Bosch,Suárez,2
+General PRIETO,Madrid,2
+General PRIETO,JUJEM,2
+General Aramburu,PREJUJEM,2
+General Aramburu,Mando,2
+General Aramburu,Guardias,2
+General ARMADA,Palacio de la Zarzuela,2
+General ARMADA,Mando,2
+General ARMADA,Gral,2
+General ARMADA,General PRIETO,2
+General Milans del Bosch,de Valencia,2
+España,General PRIETO,2
+Guardia Civil,PREJUJEM,2
+Guardia Civil,Vicepresidente Primero,2
+Cabo,Comandante Cortina,2
+Guardias,Lleva,2
+Cabo,Capitán Gómez Iglesias,2
+Cabo,Capitán García Almenta,2
+General Milans del Bosch,Policía Militar,2
+CESID,Guardia,2
+CESID,El Comandante Cortina,2
+CESID,El Capitán Gómez Iglesias,2
+CESID,Cabo,2
+Mando,PREJUJEM,2
+Madrid,información,2
+Madrid,Vicepresidente Primero,2
+Madrid,RESUMEN,2
+Madrid,Pardo Zancada,2
+JUJEM,información,2
+JUJEM,Palacio de la Zarzuela,2
+General Milans del Bosch,Sevilla,2
+Director General de la Guardia Civil,España,2
+Dirección General de la Guardia Civil,información,2
+Dirección General de la Guardia Civil,JUJEM,2
+Dirección General de la Guardia Civil,Gral,2
+Autoridad Militar,Centro,2
+Actitud,Palacio de la Zarzuela,2
+Actitud,Guardia Civil,2
+ACTUACION,Madrid,2
+Sectores,información,2
+RESUMEN,información,2
+RESUMEN,Sectores,2
+Pardo Zancada,información,2
+Pardo Zancada,Sectores,2
+Pardo Zancada,RESUMEN,2
+Palacio de la Zarzuela,información,2
+Palacio de la Zarzuela,Sectores,2
+Palacio de la Zarzuela,RESUMEN,2
+Palacio de la Zarzuela,Pardo Zancada,2
+Menéndez,información,2
+Autoridad Militar,General Aramburu,2
+Guardia Civil,Información,2
+Autoridad Militar,Pardo Zancada,2
+Capitanía General,Menéndez,2
+Conversaciones,Palacio de la Zarzuela,2
+Conversaciones,Mando,2
+Conversaciones,Guardia Civil,2
+Centro,Ministro de Defensa,2
+Centro,Mando,2
+Centro,Guardia Civil,2
+Capitanía General,Madrid,2
+CESID,Dirección General de la Guardia Civil,2
+Capitanía General,General Aramburu,2
+Capitanía General,General ARMADA,2
+Capitanía General,Director General de la Guardia Civil,2
+Capitanía General,Congreso,2
+CESID,Tratar,2
+CESID,Mando,2
+Cabo,Comandante,2
+Cabo,Congreso,2
+ARMADA,Comandante,2
+Análisis,Gobierno,2
+Análisis,Constitución,2
+Debe,Guardia Civil,2
+Capitán de la Guardia Civil,Constitución,2
+C.J.M,Guardia Civil,2
+Mando,Región,2
+Mando,Proceso,2
+Justicia,Mando,2
+España,Proceso,2
+Centro,Ministro,2
+Jefes,Región Militar,2
+Centro,Servicio,2
+Capitán Gómez Iglesias,Sumario,2
+Capitán Gómez Iglesias,Según,2
+Capitán Gómez Iglesias,Centro,2
+Niega,Tráfico,2
+Análisis,España,2
+Análisis,Pavía,2
+Cabo,Gómez Iglesias,2
+Constitución,Patria,2
+ARMADA,Capitanía,2
+ARMADA,Bando,2
+Gobierno,Teniente General MILANS,2
+Consejo Supremo de Justicia Militar,Región,2
+GUARDIA,Según,2
+GOBIERNO,PODER,2
+General Milans del Bosch,Hermosilla,2
+Ante,General Milans del Bosch,2
+Patria,Pavía,2
+Noviembre,Patria,2
+Monarquía,OIDREP,2
+Estado,Patria,2
+Estado,Noviembre,2
+Enero,Parlamento,2
+Constitución,Pavía,2
+Niega,Orden,2
+Madrid,llamó,2
+Madrid,Tráfico,2
+Lleva,Tráfico,2
+General Armada,Sevilla,2
+Comandante Cortina,El Comandante Cortina,2
+Comandante Cortina,El Capitán Gómez Iglesias,2
+General Armada,Suárez,2
+Comandante,Superioridad,2
+Comandante,Juez Instructor,2
+Comandante,Gómez Iglesias,2
+Capitán Gómez Iglesias,Superioridad,2
+General Milans del Bosch,Guardias Civiles,2
+Capitán Gómez Iglesias,El Capitán Gómez Iglesias,2
+General Milans del Bosch,Nación,2
+Capitán García Almenta,Superioridad,2
+Capitán García Almenta,El Capitán Gómez Iglesias,2
+Capitán García Almenta,Comandante,2
+Cabo,Superioridad,2
+General Armada,Según,2
+Comandante Cortina,Superioridad,2
+Congreso,Guardia,2
+Después,Hotel Palace,2
+Hotel Palace,Madrid,2
+Hotel Palace,Luego,2
+Después,llamó,2
+Después,Tráfico,2
+Después,Orden,2
+Después,Niega,2
+General Armada,Hotel Palace,2
+Congreso,Juez Instructor,2
+Comte,Luego,2
+General Armada,Nación,2
+BRIPAC,llamó,2
+BRIPAC,Después,2
+Gómez Iglesias,Superioridad,2
+El Comandante Cortina,Guardia Civil,2
+Coronel Manchado,Sevilla,2
+Coronel Manchado,Según,2
+Armada,Capitán Muñecas,2
+Jefes,Servicio,2
+Coronel Tejero,Valencia,2
+Guardia Civil,Sala de Justicia,2
+Guardia Civil,Ministerio Público,2
+General de División,llegó,2
+General de División,Ministerio Público,2
+General Gutiérrez Mellado,llegó,2
+General Gutiérrez Mellado,Teniente General Gutiérrez Mellado,2
+El Teniente,ningún,2
+El Teniente,llegó,2
+El Teniente,Jefes,2
+Constitución,Teniente General Gutiérrez Mellado,2
+Constitución,Ministerio Público,2
+Constitución,General Gutiérrez Mellado,2
+Constitución,El Teniente,2
+Congreso,General de División,2
+Jefes,Presidente del Tribunal,2
+Jefes,Teniente General Gutiérrez Mellado,2
+Teniente General Gutiérrez Mellado,llegó,2
+Jefes,Valdemoro,2
+Teniente,Valdemoro,2
+Servicio,ningún,2
+Servicio,de Valencia,2
+Servicio,Teniente General Gutiérrez Mellado,2
+Presidente del Tribunal,llegó,2
+Presidente del Tribunal,de Valencia,2
+Presidente del Tribunal,Tenientes de la Guardia Civil,2
+Presidente del Tribunal,Teniente,2
+Presidente del Tribunal,Servicio,2
+Oficiales,Tenientes de la Guardia Civil,2
+Oficiales,Servicio,2
+Oficiales,Presidente del Tribunal,2
+Ministerio Público,llegó,2
+Ministerio Público,Teniente,2
+Jefes,de Valencia,2
+Capitán Muñecas,llegó,2
+Capitán Muñecas,Valdemoro,2
+Capitán Muñecas,Teniente General Gutiérrez Mellado,2
+Capitán Muñecas,Teniente,2
+Después,Teniente,2
+Después,Ordenanzas,2
+El General,Patria,2
+Capitán Abad,El País,2
+Boza Carranco,Servicio,2
+Boza Carranco,Guardia Civil,2
+Boza Carranco,General Gutiérrez Mellado,2
+Boza Carranco,Capitán Abad,2
+Boza,Teniente,2
+Boza,Servicio,2
+Boza,Guardias Civiles,2
+Boza,General Gutiérrez Mellado,2
+Boza,Capitán Abad,2
+Boza,Boza Carranco,2
+ROMAN,Valencia,2
+El País,Guardias Civiles,2
+El País,Servicio,2
+El País,Teniente,2
+Añade,Congreso,2
+Capitán Muñecas,Servicio,2
+Capitán Muñecas,General Gutiérrez Mellado,2
+Capitán Abad,de Valencia,2
+Capitán Abad,Oficiales,2
+Añade,Teniente,2
+Añade,Ministerio Público,2
+Ordenanzas,Teniente,2
+El Teniente,General Gutiérrez Mellado,2
+Ejército,Valencia,2
+General Gutiérrez Mellado,Guardias Civiles,2
+Finaliza,Teniente,2
+Finaliza,Servicio,2
+El Teniente,Teniente,2
+El Teniente,Guardias Civiles,2
+Teniente General Gutiérrez Mellado,Valdemoro,2
+CESID,Capitán de la Guardia Civil,2
+Presidente del Tribunal,Santamaría,2
+Coronel Manchado,El Capitán Gómez Iglesias,2
+Coronel Manchado,Declaración,2
+Congreso,Ignacio Román,2
+Congreso,Empieza,2
+Congreso,El Capitán,2
+Madrid,Unidades,2
+Comandante Pardo,Valdemoro,2
+Comandante Pardo,Ministerio Fiscal,2
+Comandante Pardo,Juan Gris,2
+Comandante Pardo,Ignacio Román,2
+Antonio,Ayudante,2
+Antonio,Guardia Civil,2
+Ayudante,Ejército,2
+Ayudante,El General,2
+Comandante Pardo,Empieza,2
+Comandante Pardo,El Capitán Gómez Iglesias,2
+Coronel Manchado,El Capitán,2
+Madrid,Sección,2
+CESID,Ignacio Román,2
+Madrid,PODER,2
+Declaración,Valdemoro,2
+Declaración,Sr. De Miguel,2
+Declaración,Policía Nacional,2
+Declaración,Gómez Iglesias,2
+Declaración,General Aramburu,2
+Código de Justicia Militar,España,2
+Coronel San Martín,Según,2
+Coronel San Martín,Ministerio Fiscal,2
+Coronel San Martín,Juan Gris,2
+Coronel San Martín,Ignacio Román,2
+Lleva,Unidades,2
+Coronel San Martín,Declaración,2
+Coronel San Martín,Código de Justicia Militar,2
+Coronel Manchado,Valdemoro,2
+Coronel Manchado,Ignacio Román,2
+Comandante Pardo,El Capitán,2
+Comandante Pardo,Declaración,2
+Ayudante,General Milans del Bosch,2
+Comandante Cortina,Valdemoro,2
+Capitán García Almenta,Ignacio Román,2
+Capitán García Almenta,General Aramburu,2
+Capitán García Almenta,Coronel Manchado,2
+Capitán García Almenta,Capitán de la Guardia Civil,2
+Capitán Abad,Sr. De Miguel,2
+Capitán Abad,Policía Nacional,2
+Capitán Abad,Ignacio Román,2
+Capitanía General,El General,2
+Capitán Abad,El Capitán Gómez Iglesias,2
+Capitán Abad,El Capitán,2
+Capitán Abad,Capitán de la Guardia Civil,2
+Capitán Abad,Capitán García Almenta,2
+CESID,Policía Nacional,2
+Capitanía General,Patria,2
+Capitanía General,Valencia,2
+Capitán García Almenta,Sr. De Miguel,2
+Capitanía General,Coronel Tejero,2
+Capitán Gómez Iglesias,Empieza,2
+Capitán de la Guardia Civil,Juan Gris,2
+Comandante Cortina,Sr. De Miguel,2
+Comandante Cortina,Ministerio Fiscal,2
+Comandante Cortina,Ignacio Román,2
+Comandante Cortina,General Aramburu,2
+Comandante Cortina,Empieza,2
+Capitán de la Guardia Civil,Sr. De Miguel,2
+Capitán de la Guardia Civil,Gómez Iglesias,2
+Capitán Gómez Iglesias,Ignacio Román,2
+Capitán de la Guardia Civil,General Aramburu,2
+Capitán de la Guardia Civil,Empieza,2
+Capitán de la Guardia Civil,Coronel San Martín,2
+Capitán de la Guardia Civil,Coronel Manchado,2
+Capitán Gómez Iglesias,Valdemoro,2
+Capitán Gómez Iglesias,Sr. De Miguel,2
+Presidente del Tribunal,Sr. García Carrés,2
+Policía Militar,Valencia,2
+Armada,Comandante,2
+Capitán Muñecas,Policía Militar,2
+Capitán Muñecas,España,2
+Capitán Gómez Iglesias,Sr. García Carrés,2
+Capitán Gómez Iglesias,Ordenanzas,2
+Capitán Gómez Iglesias,Niega,2
+Capitán Gómez Iglesias,Muñoz Grandes,2
+Capitán Gómez Iglesias,Generales Milans,2
+Capitán Gómez Iglesias,General Jefe,2
+Capitán Gómez Iglesias,Capitán Muñecas,2
+Capitán Abad,Valencia,2
+Capitán Abad,Policía Militar,2
+Capitán Abad,Ordenanzas,2
+Capitán Abad,Niega,2
+Capitán Abad,Generales Milans,2
+Capitán Abad,General Milans del Bosch,2
+Capitán Abad,General Milans,2
+Capitán Muñecas,General Milans,2
+Capitán Muñecas,Presidente del Tribunal,2
+Constitución,Santamaría,2
+Comandante,El General Juste,2
+Constitución,Generales Milans,2
+Alcalde,General Armada,2
+Constitución,General Jefe,2
+Constitución,El General Juste,2
+Alcalde,General Milans del Bosch,2
+Congreso,ROMAN,2
+Congreso,Pide,2
+Alcalde,JUJEM,2
+Alcalde,Sevilla,2
+Congreso,El Comandante,2
+Comandante,Sr. García Carrés,2
+Comandante,Policía Militar,2
+Comandante,Ordenanzas,2
+Comandante,General Milans del Bosch,2
+Comandante,General Milans,2
+Congreso,Ministerio del Interior,2
+Capitán Abad,El General Juste,2
+Congreso,Palacio del Congreso,2
+Capitán Abad,Comandante,2
+C.J.M,CESID,2
+Ayudante,rebelión,2
+Ayudante,Presidente del Tribunal,2
+Ayudante,General Milans,2
+Ayudante,El General Juste,2
+Ayudante,Coronel Manchado,2
+Ayudante,Comandante,2
+Ayudante,CESID,2
+Coronel Manchado,Hotel Palace,2
+Armada,Pide,2
+Armada,Ordenanzas,2
+Coronel Manchado,Miláns del Bosch,2
+Coronel Manchado,Parlamento,2
+Armada,General Jefe,2
+Armada,El General Juste,2
+C.J.M,Capitán Gómez Iglesias,2
+C.J.M,Congreso,2
+C.J.M,Coronel Manchado,2
+CESID,General Jefe,2
+CESID,Sr. García Carrés,2
+CESID,Santamaría,2
+CESID,ROMAN,2
+CESID,Pide,2
+CESID,Ordenanzas,2
+CESID,Generales Milans,2
+Coronel Manchado,GUARDIA,2
+C.J.M,España,2
+CESID,Estado,2
+CESID,Capitán Muñecas,2
+C.J.M,Valencia,2
+C.J.M,Presidente del Tribunal,2
+C.J.M,Pardo,2
+C.J.M,General Armada,2
+Constitución,Muñoz Grandes,2
+Alcalde,Congreso,2
+Policía Militar,Sr. García Carrés,2
+Estado Mayor,General Milans del Bosch,2
+Estado Mayor,Quiero,2
+General Milans del Bosch,teléfono,2
+Generales Milans,Valencia,2
+Generales Milans,Pardo,2
+Generales Milans,JUJEM,2
+General Milans del Bosch,Sr. García Carrés,2
+General Milans del Bosch,Santamaría,2
+General Milans del Bosch,Pardo,2
+General Milans del Bosch,Muñoz Grandes,2
+General Milans,rebelión,2
+General Milans,Sr. García Carrés,2
+General Milans,Policía Militar,2
+General Milans,Pardo,2
+General Milans,Niega,2
+General Milans,Muñoz Grandes,2
+Guardia Civil,Pide,2
+Guardia Civil,ROMAN,2
+Coronel Manchado,General Milans,2
+JUJEM,Muñoz Grandes,2
+Pide,rebelión,2
+España,Quiero,2
+Pardo,Sr. García Carrés,2
+Pardo,ROMAN,2
+Pardo,Policía Militar,2
+Ordenanzas,rebelión,2
+Ordenanzas,Pide,2
+Niega,Valencia,2
+Niega,Ordenanzas,2
+Muñoz Grandes,Sr. García Carrés,2
+Muñoz Grandes,Presidente del Tribunal,2
+Muñoz Grandes,Policía Militar,2
+Muñoz Grandes,Pardo,2
+Madrid,Pide,2
+Madrid,Ordenanzas,2
+Guardia Civil,Quiero,2
+General Milans,Generales Milans,2
+General Jefe,Valencia,2
+General Jefe,Niega,2
+El General Juste,Generales Milans,2
+El General Juste,General Milans del Bosch,2
+El General Juste,General Milans,2
+El Comandante,Estado,2
+Ejército,Pardo,2
+Ejército,Niega,2
+Acuartelamiento,General Armada,2
+Coronel Manchado,Sr. García Carrés,2
+Coronel Manchado,Santamaría,2
+Coronel Manchado,ROMAN,2
+Coronel Manchado,Presidente del Tribunal,2
+Acuartelamiento,Guardia Civil,2
+Coronel Manchado,Niega,2
+Coronel Manchado,Muñoz Grandes,2
+Coronel Manchado,Generales Milans,2
+El General Juste,JUJEM,2
+El General Juste,Presidente del Tribunal,2
+El General Juste,Valencia,2
+Quiero,Valencia,2
+General Armada,Santamaría,2
+General Armada,ROMAN,2
+Guardia Civil,tenía,2
+General Armada,Pide,2
+Patria,Valencia,2
+General Armada,Ordenanzas,2
+Estado,Pide,2
+Acuartelamiento,Congreso,2
+España,Santamaría,2
+Valencia,teléfono,2
+teléfono,tenía,2
+España,Ordenanzas,2
+España,Niega,2
+España,Muñoz Grandes,2
+Después,Mando,2
