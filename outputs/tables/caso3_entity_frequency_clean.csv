@@ -1,0 +1,4596 @@
+entity,label,n_menciones,n_documentos
+Madrid,LOC,123,76
+Congreso,ORG,282,57
+Guardia Civil,ORG,134,52
+España,PER,75,36
+General Armada,PER,172,34
+CESID,ORG,115,32
+Armada,ORG,73,30
+Constitución,LOC,47,29
+Congreso,LOC,49,28
+España,LOC,43,26
+Gobierno,LOC,43,26
+Valencia,LOC,44,25
+López Montero,PER,28,16
+JUJEM,ORG,20,16
+Fuerzas Armadas,ORG,30,15
+Consejo Supremo de Justicia Militar,ORG,21,15
+Sala de Justicia,LOC,16,15
+MADRID,LOC,27,14
+la Zarzuela,LOC,19,14
+Guardias Civiles,ORG,14,14
+Comandante Pardo,LOC,46,13
+General Juste,PER,31,13
+ESPAÑA,ORG,19,13
+Cortina,LOC,32,12
+Gómez Iglesias,PER,29,12
+General Aramburu,PER,27,12
+Coronel Manchado,PER,22,12
+Su Majestad,LOC,18,12
+Consejo,ORG,16,12
+Constitución,ORG,16,12
+Estado,LOC,16,12
+GUARDIA,ORG,42,11
+Pardo,LOC,35,11
+MADRID,ORG,24,11
+S.M. el Rey,PER,24,11
+Después,PER,16,11
+Capitán Abad,LOC,15,11
+Región,LOC,15,11
+Comandante Cortina,LOC,26,10
+SEÑOR,ORG,20,10
+El Presidente,PER,14,10
+Estado Mayor,LOC,14,10
+Código de Justicia Militar,LOC,11,10
+ARMADA,ORG,40,9
+Teniente,LOC,28,9
+General Milans,PER,19,9
+División,ORG,15,9
+Ministerio Fiscal,LOC,14,9
+General Milans del Bosch,LOC,12,9
+Torres Rojas,PER,12,9
+Consejeros,LOC,11,9
+Juan Gris,PER,11,9
+Parlamento,LOC,11,9
+Capitán Gómez Iglesias,PER,10,9
+Pardo Zancada,PER,9,9
+Gral,PER,25,8
+Congreso de los Diputados,ORG,22,8
+Coronel San Martín,PER,21,8
+Servicio,LOC,20,8
+llegó,PER,16,8
+Coronel Ibañez,PER,14,8
+Comandante,PER,12,8
+Capitán Gómez Iglesias,LOC,11,8
+MICROFILMACION,ORG,11,8
+Presidente del Tribunal,ORG,11,8
+Providencia,LOC,9,8
+Causa,LOC,8,8
+Consejo Reunido,ORG,8,8
+Gobierno,PER,8,8
+General ARMADA,ORG,28,7
+Enero,LOC,14,7
+Operación,LOC,14,7
+Centro,LOC,13,7
+Autoridad Militar,ORG,12,7
+Coronel San Martín,LOC,12,7
+Coronel Ibáñez,PER,11,7
+Cuartel General,ORG,11,7
+Comte,PER,9,7
+Ejército,PER,9,7
+Marzo,LOC,9,7
+Quintana,LOC,9,7
+Sevilla,LOC,9,7
+calle General Cabrera,LOC,9,7
+Instituciones,LOC,8,7
+Jefes,PER,8,7
+Milans,PER,8,7
+Región Militar,ORG,8,7
+Señor,PER,8,7
+Su Majestad,PER,8,7
+Ante,PER,7,7
+Fecha N,ORG,7,7
+Real Decreto,PER,7,7
+Según,PER,7,7
+de Valencia,LOC,7,7
+Declaración,PER,20,6
+Gral. Armada,PER,18,6
+Sr. Hermosilla,PER,12,6
+Guardias,ORG,9,6
+Oficiales,LOC,9,6
+Además,PER,8,6
+Bando,PER,8,6
+Capitán Batista,PER,8,6
+Al Sr. Hermosilla,PER,7,6
+Capitanía,PER,7,6
+Mando,ORG,7,6
+Miguel,PER,7,6
+Patria,ORG,7,6
+CONSEJO SUPREMO,ORG,6,6
+Consejo Supremo el Consejero Togado Juez Especial,ORG,6,6
+Código de Justicia Militar,ORG,6,6
+El General,LOC,6,6
+Su Majestad el Rey,PER,6,6
+TORNO AL DESARROLLO,ORG,6,6
+la Ley,LOC,6,6
+POLICIA,ORG,36,5
+Diputados,ORG,12,5
+Teniente General Milans,ORG,10,5
+¿Qué,PER,10,5
+Capitán de la Guardia Civil,LOC,9,5
+EJERCITO,LOC,9,5
+Información,ORG,9,5
+Ministro de Defensa,LOC,9,5
+Pavía,LOC,9,5
+Abril,LOC,8,5
+Europa,LOC,8,5
+Palacio de la Zarzuela,LOC,8,5
+Presidente del Gobierno,PER,8,5
+Capitanías,LOC,7,5
+Niega,PER,7,5
+Teniente,ORG,7,5
+Ayudante,PER,6,5
+GOBIERNO,ORG,6,5
+General Gutiérrez Mellado,PER,6,5
+General Juste,LOC,6,5
+Lérida,PER,6,5
+Ministerio del Interior,LOC,6,5
+Muñoz Perea,PER,6,5
+OIDREP,ORG,6,5
+Orden,ORG,6,5
+Ordenanzas,PER,6,5
+Policía Nacional,LOC,6,5
+Reina,PER,6,5
+SITUACION,ORG,6,5
+Santamaría,PER,6,5
+Sumario,LOC,6,5
+Villalonga,LOC,6,5
+rebelión,PER,6,5
+Allí,LOC,5,5
+ENTRADA,ORG,5,5
+Exmo,PER,5,5
+General de División,PER,5,5
+Gobierno Militar,LOC,5,5
+Manifiesta,PER,5,5
+Ministro,LOC,5,5
+Noviembre,LOC,5,5
+POLITICA,ORG,5,5
+C.J.M,ORG,12,4
+General TORRES,PER,11,4
+Capitán Acera,LOC,9,4
+General Prieto,PER,9,4
+Autoridad,LOC,8,4
+Capitán Muñecas,LOC,8,4
+General Miláns,PER,8,4
+Londres,LOC,8,4
+PREJUJEM,ORG,8,4
+S.M. El Rey,PER,8,4
+ALCAZAR,ORG,7,4
+EXCMO,ORG,7,4
+Hotel Palace,LOC,7,4
+Junio,LOC,7,4
+Ministro de Asuntos Exteriores,LOC,7,4
+Teniente General Milans del Bosch,ORG,7,4
+Teniente General Miláns,ORG,7,4
+ACTUACION,ORG,6,4
+Autoridades,PER,6,4
+Boza Carranco,PER,6,4
+Cabo,LOC,6,4
+Capital,LOC,6,4
+Capitán Dusmet,LOC,6,4
+Cartagena,LOC,6,4
+Coronel Alcalá Galiano,PER,6,4
+Coronel Tejero,PER,6,4
+Galaxia,LOC,6,4
+General Gabeiras,PER,6,4
+General Torres Rojas,PER,6,4
+Ministerio,LOC,6,4
+Washington,LOC,6,4
+Asegura,LOC,5,4
+Brigada,LOC,5,4
+Capitán García Almenta,LOC,5,4
+Comenzó,LOC,5,4
+El Teniente,LOC,5,4
+El Teniente Coronel Tejero,LOC,5,4
+Escandell,LOC,5,4
+Estado Mayor del Ejército,LOC,5,4
+Febrero,LOC,5,4
+General Jefe,PER,5,4
+Historia,ORG,5,4
+INFORME,ORG,5,4
+Interrogatorio,PER,5,4
+LUIS TORRES,PER,5,4
+Monarquía,PER,5,4
+NUÑEZ,ORG,5,4
+Niega,LOC,5,4
+Nota Informativa,LOC,5,4
+Oficial,LOC,5,4
+SEGURIDAD,ORG,5,4
+Sr. García Carrés,PER,5,4
+Sr. Zugasti,PER,5,4
+Superioridad,ORG,5,4
+Tejero,LOC,5,4
+Zaragoza,LOC,5,4
+Abad,LOC,4,4
+Batista,PER,4,4
+CAPITAN,ORG,4,4
+Calvo Sotelo,PER,4,4
+Capitanía General,LOC,4,4
+Capitán Batista,LOC,4,4
+Continúa,LOC,4,4
+Conversaciones,PER,4,4
+Cortina,PER,4,4
+Debe,PER,4,4
+Después,LOC,4,4
+Director General de la Guardia Civil,ORG,4,4
+División Azul,LOC,4,4
+EJERCITO,ORG,4,4
+El País,LOC,4,4
+España,ORG,4,4
+García Carrés,PER,4,4
+General Caruana,PER,4,4
+General Fernández Campos,PER,4,4
+Hermosilla,PER,4,4
+Jefe Supremo,PER,4,4
+Lleva,PER,4,4
+Menéndez,LOC,4,4
+Miláns del Bosch,PER,4,4
+Monarquía,LOC,4,4
+País Vasco,LOC,4,4
+Pilar Urbano,PER,4,4
+Plaza de Neptuno,LOC,4,4
+ROMAN,ORG,4,4
+Redacción,LOC,4,4
+Regiones Militares,PER,4,4
+Sanz Arribas,PER,4,4
+Sanz Esteban,PER,4,4
+Servicio,PER,4,4
+Tráfico,PER,4,4
+Valdemoro,PER,4,4
+Zona,LOC,4,4
+ningún,PER,4,4
+teléfono,PER,4,4
+JEFATURA SUPERIOR,LOC,32,3
+Bueno,PER,13,3
+Antonio,PER,10,3
+Sectores,LOC,10,3
+Comandancia,LOC,9,3
+Teniente General MILANS DEL BOSCH,ORG,9,3
+Zarzuela,LOC,9,3
+Coronel Manchado,LOC,8,3
+PAMPLONA,ORG,7,3
+Secretario General,LOC,7,3
+Universidad,ORG,7,3
+ACCIONES,ORG,6,3
+El Comandante Cortina,PER,6,3
+Facultad de Derecho,LOC,6,3
+Fuerza Pública,ORG,6,3
+Gabeiras,PER,6,3
+Ilmo,LOC,6,3
+Informe,PER,6,3
+Milans del Bosch,LOC,6,3
+OCUPACION,ORG,6,3
+PROTESTA PREVISTAS,ORG,6,3
+Tratar,PER,6,3
+Barcelona,LOC,5,3
+Capitanes Generales,ORG,5,3
+Capitán de Navío Menéndez,LOC,5,3
+Coronel Escandell,PER,5,3
+DEMOCRACIA,ORG,5,3
+Exmo,LOC,5,3
+Franco,PER,5,3
+Gral. Milans,PER,5,3
+INTENTO,ORG,5,3
+Muñecas,LOC,5,3
+OVIEDO,ORG,5,3
+POLICIALES,ORG,5,3
+Palacio del Congreso,LOC,5,3
+Palacio del Congreso de los Diputados,LOC,5,3
+Recibió,PER,5,3
+SEVILLA,ORG,5,3
+UNIDAD,ORG,5,3
+los Estados Unidos,LOC,5,3
+AMERICA,ORG,4,3
+ARENAS,ORG,4,3
+Alcalá,LOC,4,3
+Anexo,PER,4,3
+Ayuntamiento,LOC,4,3
+BARCELONA,ORG,4,3
+CORTINA,ORG,4,3
+Comandante PARDO,LOC,4,3
+Comandante PARDO,PER,4,3
+Dirección General de la Guardia Civil,PER,4,3
+El Capitán,LOC,4,3
+El Capitán Gómez Iglesias,LOC,4,3
+García Villalonga,PER,4,3
+General Santamaría,PER,4,3
+Generales Milans,PER,4,3
+Grecia,LOC,4,3
+III Región Militar,ORG,4,3
+Ignacio Román,PER,4,3
+JEFES,ORG,4,3
+Juan Carlos,PER,4,3
+Juez Instructor,PER,4,3
+López Silva,PER,4,3
+MOLINA,ORG,4,3
+Ministerio Público,LOC,4,3
+Movimiento Comunista,ORG,4,3
+Operación Galaxia,LOC,4,3
+Policía Militar,PER,4,3
+Policía Nacional,PER,4,3
+RELACION,ORG,4,3
+RESPUESTA,ORG,4,3
+Santamaría,LOC,4,3
+Sección,LOC,4,3
+Seguidamente,LOC,4,3
+Segura,LOC,4,3
+Servicio de Información,ORG,4,3
+Sr. De Miguel,PER,4,3
+Tribunal Supremo,LOC,4,3
+Unidades,LOC,4,3
+VALENCIA,LOC,4,3
+Voz de Madrid,ORG,4,3
+Zugasti,PER,4,3
+columna del,LOC,4,3
+2.6.- Interrogatorio,PER,3,3
+40'323.2,LOC,3,3
+ACTUACIONES,ORG,3,3
+Actitud,PER,3,3
+Acuartelamiento,ORG,3,3
+Al Sr. Quintana,PER,3,3
+Al Sr. Villalonga,PER,3,3
+Alcalde,LOC,3,3
+Alemania,LOC,3,3
+Allí,PER,3,3
+Andalucía,LOC,3,3
+Análisis,PER,3,3
+Aramburu,LOC,3,3
+Areilza,PER,3,3
+Asamblea,ORG,3,3
+Ayer,ORG,3,3
+BOZA CARRANCO,PER,3,3
+BRIPAC,ORG,3,3
+Ballesteros,LOC,3,3
+Boza,PER,3,3
+CARRES,ORG,3,3
+Cadena SER,ORG,3,3
+Capitán Camacho,LOC,3,3
+Capitán Cid Fortea,LOC,3,3
+Capitán GOMEZ,ORG,3,3
+Casa Real,LOC,3,3
+Comandante Pardo Zancada,LOC,3,3
+Comandante de Infantería,ORG,3,3
+Conocía,PER,3,3
+Consejero,LOC,3,3
+Consejo Supremo,ORG,3,3
+Consejo Supremo de Justicia Militar JUZGADO ESPECIAL S/,ORG,3,3
+Continúa,PER,3,3
+Coroneles,LOC,3,3
+Cuartel General de la DAC,ORG,3,3
+De Miguel,PER,3,3
+Departamento,LOC,3,3
+Diciembre,LOC,3,3
+Diciembre,PER,3,3
+Dirección General de la Guardia Civil,ORG,3,3
+ESTADO MAYOR,LOC,3,3
+EUROPA,ORG,3,3
+EXTERIOR,ORG,3,3
+Ejército,LOC,3,3
+El Fiscal,LOC,3,3
+El General Juste,LOC,3,3
+El Gobierno,LOC,3,3
+Empieza,LOC,3,3
+Está,PER,3,3
+Expone,PER,3,3
+Extremadura,LOC,3,3
+Fevereiro,LOC,3,3
+Finaliza,PER,3,3
+Fuerza Nueva,ORG,3,3
+GABINETE,ORG,3,3
+General PRIETO,ORG,3,3
+Generales Armada,PER,3,3
+Grupos Tácticos,ORG,3,3
+HENARES,ORG,3,3
+INFORMACIONES,ORG,3,3
+Jefes y Oficiales,ORG,3,3
+Junta Militar,ORG,3,3
+Justicia,ORG,3,3
+LINEAS,ORG,3,3
+LUIS ABAD GUTIERREZ,PER,3,3
+Los Consejeros,ORG,3,3
+Luego,LOC,3,3
+MOMENTO,ORG,3,3
+Mando,LOC,3,3
+Mando Militar,ORG,3,3
+Melilla,LOC,3,3
+Menciona,LOC,3,3
+Militares,PER,3,3
+Muñoz Grandes,PER,3,3
+Nación,LOC,3,3
+Ordenó,PER,3,3
+PODER,ORG,3,3
+POLITICA EXTERIOR,ORG,3,3
+Pardo de Santayana,PER,3,3
+Parlamento,ORG,3,3
+Proceso,ORG,3,3
+RESUMEN,ORG,3,3
+Reconoce,PER,3,3
+Residencia,ORG,3,3
+SITUACION ACTUAL,ORG,3,3
+Secretario,PER,3,3
+Senado,ORG,3,3
+Sincerely,PER,3,3
+Sr. Gómez García,PER,3,3
+Sr. de Miguel,PER,3,3
+Sres,LOC,3,3
+Teniente General Gutiérrez Mellado,LOC,3,3
+Teniente General MILANS,ORG,3,3
+Tenientes de la Guardia Civil,ORG,3,3
+Torres Rojas,LOC,3,3
+UNITED,ORG,3,3
+VALLADOLID,LOC,3,3
+Villaviciosa,LOC,3,3
+WASHINGTON,LOC,3,3
+aquél,PER,3,3
+empezó,PER,3,3
+información,ORG,3,3
+jamás,PER,3,3
+parecía,PER,3,3
+según,PER,3,3
+tenía,LOC,3,3
+CUERPO,ORG,14,2
+S.M. EL REY,PER,12,2
+Gral. Gabeiras,PER,9,2
+Gral. Prieto,PER,9,2
+H. Palace,PER,9,2
+LLAMADA,ORG,9,2
+Manchado,PER,9,2
+NUMERO,ORG,9,2
+OPERACIONES,ORG,9,2
+Coronel SAN MARTIN,PER,8,2
+Radio,ORG,8,2
+Sección E.M,LOC,8,2
+Cabo Monge,LOC,6,2
+Coronel IBAÑEZ,PER,6,2
+El Ferrol del Caudillo,LOC,6,2
+General Alcalá Galiano,PER,6,2
+General MILANS,PER,6,2
+U.G.T,ORG,6,2
+Ayudantes,PER,5,2
+CC.00,LOC,5,2
+Capitán de Navío MENENDEZ,LOC,5,2
+Espanha,ORG,5,2
+Fuerzas de Seguridad del Estado,ORG,5,2
+Gral. Aramburu,PER,5,2
+Málaga,LOC,5,2
+Más Oliver,PER,5,2
+PARTICIPACION,ORG,5,2
+PROPUESTA,ORG,5,2
+Procesado,LOC,5,2
+Propaganda,LOC,5,2
+Secretario General,ORG,5,2
+Teniente General,PER,5,2
+Capitán Bobis,LOC,4,2
+Capitán D. JOSE,LOC,4,2
+Capitán de Infantería,LOC,4,2
+Congreso de los Estados Unidos,ORG,4,2
+Coronel Sanmartín,LOC,4,2
+Desplazamiento,PER,4,2
+E.M.K,PER,4,2
+El Rey,PER,4,2
+General MILANS DEL BOSCH,ORG,4,2
+Gral. Miláns,PER,4,2
+Grupos,ORG,4,2
+Guardia Civil Don,ORG,4,2
+Guardia Civil Tejero Molina,ORG,4,2
+Noticia,LOC,4,2
+Ortiz Call,PER,4,2
+Palacio,LOC,4,2
+Recomendación,PER,4,2
+Reconoció,LOC,4,2
+Teniente Izquierdo,PER,4,2
+la Capital,LOC,4,2
+Academia de Tráfico,ORG,3,2
+Acera,LOC,3,2
+Aire,LOC,3,2
+Al Sr. de Miguel,PER,3,2
+Alerta Roja,ORG,3,2
+Alonso Hernaiz,PER,3,2
+Antonio Muñoz Perea,PER,3,2
+Auto de Procesamiento,LOC,3,2
+Blas Piñar,PER,3,2
+Bobis González,PER,3,2
+COMUNICACION,ORG,3,2
+CORDOBA,ORG,3,2
+Capitán de Intendencia Cid Fortea,LOC,3,2
+Comandante Bonel,LOC,3,2
+Comandante PARDO ZANCADA,ORG,3,2
+Coronel SAN MARTIN,LOC,3,2
+DUSMET,ORG,3,2
+El Alcázar,LOC,3,2
+Establecimiento,PER,3,2
+FASCISMO,ORG,3,2
+Facultad de Medicina,LOC,3,2
+Fuerzas,ORG,3,2
+GOMEZ,ORG,3,2
+GONZALEZ,ORG,3,2
+Gabeiras,LOC,3,2
+INCIDENTES,ORG,3,2
+Ibañez Inglés,PER,3,2
+Infor,LOC,3,2
+Inglaterra,LOC,3,2
+Inteligencia,ORG,3,2
+Italia,LOC,3,2
+La Voz de Madrid,LOC,3,2
+Labernia,LOC,3,2
+Las Palmas,LOC,3,2
+Letrado,PER,3,2
+Liga Comunista Revolucionaria,ORG,3,2
+Martín Fernández,PER,3,2
+Negó,PER,3,2
+OPINION,ORG,3,2
+P.C.E,ORG,3,2
+P.T.E,ORG,3,2
+Policía Militar,ORG,3,2
+Quiero,PER,3,2
+Rando,LOC,3,2
+Reglamento,ORG,3,2
+SAN SEBASTIAN,ORG,3,2
+SECRETARÍA,ORG,3,2
+SECRETO,ORG,3,2
+Sargento Sales Maroto,ORG,3,2
+Sgto,LOC,3,2
+Sr. Calvo Sotelo,PER,3,2
+Sr. Escandell,PER,3,2
+Sr. Liñán,PER,3,2
+Suarez,PER,3,2
+TRANQUILIDAD,ORG,3,2
+Teniente Boza,PER,3,2
+Tráfico,LOC,3,2
+Tuvo,LOC,3,2
+Unidad Escuela,ORG,3,2
+Valladolid,LOC,3,2
+Vamos,LOC,3,2
+2.1.- Continuación,PER,2,2
+2.1.- Interrogatorio,PER,2,2
+AL PARECER,ORG,2,2
+ALTA CONSIDERACION,LOC,2,2
+ALVAREZ,ORG,2,2
+APARATO,ORG,2,2
+ARTICULO,ORG,2,2
+Abogado,LOC,2,2
+Academia,ORG,2,2
+Acciones,PER,2,2
+Acción,PER,2,2
+Acorazada,PER,2,2
+Administración,LOC,2,2
+Adolfo Salvador,PER,2,2
+Adolfo Suarez,PER,2,2
+Agosto,PER,2,2
+Al Sr. Escandell,PER,2,2
+Al Sr. López Montero,PER,2,2
+Al Sr. López Silva,PER,2,2
+Al Sr. Novalvos,PER,2,2
+Al Sr. Segura,PER,2,2
+Al Sr. Zugasti,PER,2,2
+Alcalá,PER,2,2
+Alcalá Galiano,PER,2,2
+Aprecio,PER,2,2
+Aramburu,PER,2,2
+Arregui,LOC,2,2
+Arriba España,PER,2,2
+Aseguró,PER,2,2
+Aseprosa,LOC,2,2
+Asistencia,LOC,2,2
+Asistió,ORG,2,2
+Assembleia Municipal,PER,2,2
+Asume,PER,2,2
+Auto del Consejo Reunido,LOC,2,2
+Añade,LOC,2,2
+BILBAO Normalidad,ORG,2,2
+BRIGADA INTERIOR,LOC,2,2
+Badajoz,LOC,2,2
+Banco Central de Barcelona,ORG,2,2
+Benemérita,PER,2,2
+Biarritz,LOC,2,2
+Bosch,LOC,2,2
+Buenos,LOC,2,2
+C/. General Cabrera,PER,2,2
+COLMENAR,ORG,2,2
+COMENTARIOS,ORG,2,2
+COMUNES,ORG,2,2
+CONSEJO SUPREMO DE JUSTICIA MILITAR RELATORIA,ORG,2,2
+CONVERSACION,ORG,2,2
+CUALQUIER,ORG,2,2
+Calahorra,LOC,2,2
+Camilo Menéndez,PER,2,2
+Campaña,LOC,2,2
+Capitanía,LOC,2,2
+Capitanías Generales,LOC,2,2
+Capitán ALVAREZ ARENAS,LOC,2,2
+Capitán Abad Gutierrez,LOC,2,2
+Capitán Alvarez Arenas,LOC,2,2
+Capitán Bobis González,LOC,2,2
+Capitán Don GIL SANCHEZ VALIENTE PORTILLO,LOC,2,2
+Capitán General de la 3a Región Militar,LOC,2,2
+Capitán Iglesias,LOC,2,2
+Capitán Lázaro,LOC,2,2
+Capitán Pascual,LOC,2,2
+Capitán Pascual Galvez,LOC,2,2
+Capitán Pérez de la Lastra,LOC,2,2
+Capitán SANCHEZ VALIENTE,LOC,2,2
+Capitán Sánchez Valiente,LOC,2,2
+Capitán de Navío D. CAMILO MENENDEZ,LOC,2,2
+Capitán de Navío Menendez,LOC,2,2
+Capitán de la Guardia Civil Bobis González,LOC,2,2
+Carrera de San Jerónimo,LOC,2,2
+Carrillo,PER,2,2
+Castillo de La Palma,LOC,2,2
+Centeno,PER,2,2
+Central,LOC,2,2
+Centro Coordinador,LOC,2,2
+Centros Militares,PER,2,2
+Certificación,PER,2,2
+Cervera,LOC,2,2
+Cid Fortea,PER,2,2
+Comandante,LOC,2,2
+Comandante CORTINA,PER,2,2
+Comandante Cortina Prieto,PER,2,2
+Comandante Pardo,PER,2,2
+Comenta,PER,2,2
+Comienza,PER,2,2
+Comisiones,ORG,2,2
+Congreso de las UAR,ORG,2,2
+Conoció,LOC,2,2
+Considera,LOC,2,2
+Convocatoria,LOC,2,2
+Coronel Ibáñez,LOC,2,2
+Coronel Menéndez,PER,2,2
+Coronel Pardo de Santayana,PER,2,2
+Coronel de Ingenieros,LOC,2,2
+Crear,LOC,2,2
+Cuartel General del Ejército,ORG,2,2
+Cámara de Representantes,ORG,2,2
+D. FRANCISCO,ORG,2,2
+D. JUAN PEREZ DE LA,PER,2,2
+DIRECTOR,ORG,2,2
+DISCIPLINA,ORG,2,2
+Declaraciones,PER,2,2
+Defensa del Comandante Cortina,PER,2,2
+Defensores,LOC,2,2
+Delicias,PER,2,2
+Diego López,PER,2,2
+Dirección,PER,2,2
+Dirección General,ORG,2,2
+Dirección General del Cuerpo,ORG,2,2
+Director General de la Seguridad del Estado,ORG,2,2
+Director General del Cuerpo,ORG,2,2
+Disolución,LOC,2,2
+División Acorazada,ORG,2,2
+Dopico,LOC,2,2
+Dusmet,LOC,2,2
+Dónde,PER,2,2
+EMACON,ORG,2,2
+EXTREMADURA,LOC,2,2
+El Cap,LOC,2,2
+El Capitán Dusmet,LOC,2,2
+El Comandante,PER,2,2
+El Comandante Bonel,ORG,2,2
+El Coronel San Martín,LOC,2,2
+El Goloso,LOC,2,2
+El Ministro de Asuntos Exteriores,LOC,2,2
+El Presidente de la Sala,PER,2,2
+El Sr. Ortiz,PER,2,2
+El Teniente General,LOC,2,2
+Entró,LOC,2,2
+Escoltas,PER,2,2
+Estado,ORG,2,2
+Estado Español,LOC,2,2
+Europa Occidental,LOC,2,2
+Excm,PER,2,2
+Exomo,PER,2,2
+Explica,LOC,2,2
+Expuso,PER,2,2
+F.O.P,ORG,2,2
+FELIPE GONZALEZ,PER,2,2
+FUERZA,ORG,2,2
+FUERZAS ARMADAS,ORG,2,2
+Fecha N/Ref,ORG,2,2
+Francia,LOC,2,2
+Fuerza,ORG,2,2
+GUARDIA CIVIL,ORG,2,2
+General ARAMBURU,ORG,2,2
+General Alvarado,PER,2,2
+General Arrazola,PER,2,2
+General GABEIRAS,PER,2,2
+General Jefe de E.M,PER,2,2
+General SAENZ,ORG,2,2
+General TORRES,LOC,2,2
+General Toquero,PER,2,2
+General Torres,LOC,2,2
+Generales Gabeiras,PER,2,2
+Generales Juste,PER,2,2
+Generales Rodríguez Ventosa,PER,2,2
+Gobierno Militar,ORG,2,2
+Gobierno de Gestión,ORG,2,2
+Gral,LOC,2,2
+Gral. Caruana,PER,2,2
+Gral. Juste,LOC,2,2
+Gral. Toquero,PER,2,2
+Gral. Torres Rojas,PER,2,2
+Guardia,LOC,2,2
+Guardias Civiles de las Cortes,ORG,2,2
+Gómez García,PER,2,2
+Gómez González,PER,2,2
+HUELVA,ORG,2,2
+Había,PER,2,2
+Hermosilla,LOC,2,2
+Ignora,PER,2,2
+Indicó,PER,2,2
+Inicia,PER,2,2
+Insiste,PER,2,2
+Insistió,PER,2,2
+Intentos de parlamento del General ARAMBURU,ORG,2,2
+Interrogatorio del Fiscal,LOC,2,2
+Intervención del Teniente Griñó,LOC,2,2
+Interviene,PER,2,2
+Izquierdo,LOC,2,2
+JUAN CARLOS R,PER,2,2
+JUEZ ESPECIAL,ORG,2,2
+JUNTA,ORG,2,2
+JUSTICIA MILITAR,ORG,2,2
+JUSTICIA MILITAR RELATORIA,ORG,2,2
+Jefe División,PER,2,2
+Jefe del Estado,PER,2,2
+Jefes,LOC,2,2
+Jefes de los allí encerrados,ORG,2,2
+José,PER,2,2
+Juzgado,PER,2,2
+L.K.I,PER,2,2
+LAINA,ORG,2,2
+LASTRA,ORG,2,2
+La Constitución,PER,2,2
+La Coruña,LOC,2,2
+La Zarzuela,LOC,2,2
+Leopoldo Calvo Sotelo,PER,2,2
+Llegó,PER,2,2
+Lluch,ORG,2,2
+Los Señores Consejeros,LOC,2,2
+Luis Alvarez Rodríguez,PER,2,2
+MILITAR,ORG,2,2
+MOVIMIENTO COMUNISTA,ORG,2,2
+Majestad,LOC,2,2
+Manifestó,LOC,2,2
+Manuel Alonso Aguilar,PER,2,2
+Manuel Novalvos,PER,2,2
+Marina,ORG,2,2
+Mayo,ORG,2,2
+Meer,PER,2,2
+Miguel Ángel Aguilar,PER,2,2
+Militar,ORG,2,2
+Miláns,ORG,2,2
+Miláns,PER,2,2
+Ministros,PER,2,2
+Mostró,PER,2,2
+Málaga,PER,2,2
+NECESIDAD,LOC,2,2
+NOVIEMBRE,ORG,2,2
+Nación,ORG,2,2
+Negociaciones,LOC,2,2
+Neptuno,LOC,2,2
+Nombramiento,PER,2,2
+Nossa,LOC,2,2
+ORDEN,ORG,2,2
+Opera,LOC,2,2
+PASCUAL GALVEZ,PER,2,2
+PRESIDENTE,PER,2,2
+PRIETO,ORG,2,2
+PRIMERA,ORG,2,2
+Palace,LOC,2,2
+Parque,LOC,2,2
+Partido,ORG,2,2
+Partido Comunista de España,ORG,2,2
+Pide,PER,2,2
+Pidió,PER,2,2
+Piensa,PER,2,2
+Piensan,PER,2,2
+Pintor Juan Gris,LOC,2,2
+Policía,PER,2,2
+Pone,PER,2,2
+Povo Espanhol,PER,2,2
+Presenció,LOC,2,2
+Presidente Suarez,PER,2,2
+Presidente de la Sala,PER,2,2
+Prieto,PER,2,2
+Pérez de la Lastra,LOC,2,2
+RELACION CESID,ORG,2,2
+Radio Nacional,ORG,2,2
+Reales,LOC,2,2
+Rechaza,PER,2,2
+Recomendaciones,PER,2,2
+Recomendación,LOC,2,2
+Recomendar,PER,2,2
+Regiones,LOC,2,2
+Regiones Policiales,LOC,2,2
+Regresó,PER,2,2
+Remite,PER,2,2
+Resalta,ORG,2,2
+Resolución,ORG,2,2
+Ricardo Pardo Zancada,PER,2,2
+Roma,LOC,2,2
+Ronald Reagan,PER,2,2
+SANTA MARIA,PER,2,2
+SECED,LOC,2,2
+SPAIN,ORG,2,2
+Sala del Consejo,LOC,2,2
+Sanlucar de Barrameda,LOC,2,2
+Santiago de Compostela,LOC,2,2
+Sargento Rando,PER,2,2
+Segovia,LOC,2,2
+Servicio Geográfico,ORG,2,2
+Sería,PER,2,2
+Sierra,LOC,2,2
+Sr. Esquivel,PER,2,2
+Sr. García Villalonga,PER,2,2
+Sr. López Montero,PER,2,2
+Sr. López Silva,LOC,2,2
+Sr. Sanz Arribas,LOC,2,2
+Subsecretario,PER,2,2
+Suárez,LOC,2,2
+Suárez,PER,2,2
+TUDELA,ORG,2,2
+Tales,PER,2,2
+Televisión,LOC,2,2
+Teniente,PER,2,2
+Teniente Alvarez,PER,2,2
+Teniente Coronel De Meer,PER,2,2
+Teniente General,LOC,2,2
+Teniente General,ORG,2,2
+Teniente General Pascual,LOC,2,2
+Tenientes Coroneles,PER,2,2
+Tenía,LOC,2,2
+Ttes,PER,2,2
+Turno,PER,2,2
+UN JEFE,ORG,2,2
+Vascongadas,LOC,2,2
+Vicepresidente Primero,LOC,2,2
+ZANCADA,ORG,2,2
+continuación,PER,2,2
+debió,LOC,2,2
+general Aramburu,PER,2,2
+había,PER,2,2
+hotel Cuzco,LOC,2,2
+la Defensa,ORG,2,2
+llamó,PER,2,2
+mediodía,PER,2,2
+ningún tipo,PER,2,2
+pretendía,PER,2,2
+qué desconocía,PER,2,2
+¿Había,PER,2,2
+Región Policial,ORG,10,1
+Imprenta-Escuela H. Guardia Civil Mod,PER,9,1
+Antonio Tejero Molina,PER,8,1
+EXTENSION,ORG,8,1
+Báltico,LOC,6,1
+Cabo Monge Segura,LOC,6,1
+Gral. Subdtor,PER,6,1
+DESTINO,ORG,5,1
+Gral. GABEIRAS,PER,5,1
+ACCION,ORG,4,1
+Actuaciones,PER,4,1
+Cabo Rafael Monge,LOC,4,1
+Capitán ABAD,LOC,4,1
+Capitán Garcia Almenta,LOC,4,1
+Causan baja,LOC,4,1
+El Capitán Garcia Almenta,LOC,4,1
+Eurkadi,LOC,4,1
+García Almenta,PER,4,1
+Grupo Servicios,ORG,4,1
+L.E. Crim,PER,4,1
+Partido Laborista,ORG,4,1
+Poder Judicial,LOC,4,1
+Preguntado,LOC,4,1
+Presidente Reagan,PER,4,1
+Rafael Monge Segura,PER,4,1
+Sargento Miguel Sales,PER,4,1
+TENIENTE,ORG,4,1
+Teniente General Milans del Boch,ORG,4,1
+VIABILIDAD,ORG,4,1
+ASSIEGO,ORG,3,1
+Alcazar,LOC,3,1
+BILBAO,ORG,3,1
+CONTESTAN,ORG,3,1
+Capitán General de la Zona Marítima del Mediterráneo,LOC,3,1
+Capitán Múnecas,LOC,3,1
+Capitán PASCUAL,LOC,3,1
+Capitán de la Guardia Civil Don,LOC,3,1
+Capt,ORG,3,1
+Carmen Elvira,PER,3,1
+Complemento Pascual Gálvez,PER,3,1
+Coronel GARCHITORENA,LOC,3,1
+Cte Cortina,LOC,3,1
+Cte Pardo,LOC,3,1
+Declara,LOC,3,1
+Difusión,PER,3,1
+Dirección,LOC,3,1
+EJECUCION,ORG,3,1
+Facultad de Filosofía,LOC,3,1
+Febrero,PER,3,1
+Fraga,PER,3,1
+G.C. Villaviciosa,PER,3,1
+General Fajardo,PER,3,1
+General MILANS,ORG,3,1
+Gral. TORRES,PER,3,1
+HABLA,ORG,3,1
+Juanillo,PER,3,1
+Juicio,LOC,3,1
+LIBERTAD,ORG,3,1
+Manchado García,PER,3,1
+Mira,LOC,3,1
+Monge,LOC,3,1
+Monge,PER,3,1
+México,LOC,3,1
+NO CONTESTA,ORG,3,1
+Partido Socialista Popular,ORG,3,1
+País,PER,3,1
+Pedro,PER,3,1
+Presionar,PER,3,1
+Rgto,LOC,3,1
+Spain was defeated,PER,3,1
+Subsecretarios,LOC,3,1
+TG Miláns del Bosch,ORG,3,1
+Teniente General Excmo,ORG,3,1
+Tercera,PER,3,1
+Tercio Guardia Civil,PER,3,1
+UNE A-5,ORG,3,1
+including those names added in this edition of the Notices of Questions and Motions,ORG,3,1
+la Palma,LOC,3,1
+4.- Panorámica,PER,2,1
+6.- Plan,PER,2,1
+7.- Artículo de O Diabo,PER,2,1
+ANEXOS,ORG,2,1
+APOYO ECONOMICO A,ORG,2,1
+ASEPROSA-CESID,ORG,2,1
+Acepta,PER,2,1
+Adiestramientos Especiales,LOC,2,1
+Adios,PER,2,1
+Adiós,LOC,2,1
+Alabó,LOC,2,1
+Alerta VERDE,ORG,2,1
+Alexander Haig,PER,2,1
+Algún,PER,2,1
+Alonso Herraiz,PER,2,1
+Alvarez Fernández,PER,2,1
+Ambiente,LOC,2,1
+Amplia,PER,2,1
+Argentina,LOC,2,1
+Aseguró,LOC,2,1
+Asumió,PER,2,1
+Ausdruck,PER,2,1
+Ayudante del Teniente General Lluch,LOC,2,1
+BARCELONA,LOC,2,1
+BONAL,ORG,2,1
+Bruselas,LOC,2,1
+C.A.E,ORG,2,1
+C.D.M,ORG,2,1
+CID FORTEA,ORG,2,1
+COMTE,ORG,2,1
+CONGRESO,ORG,2,1
+CONGRESO DE LOS DIPUTADOS,ORG,2,1
+CONOCIMIENTO,ORG,2,1
+CONSTITUCION,ORG,2,1
+CORONELES,LOC,2,1
+Cabo José Moya Gómez,LOC,2,1
+Cabo Moya Gómez,LOC,2,1
+Cabrera,LOC,2,1
+Cap Gómez Iglesias,PER,2,1
+Capaces,LOC,2,1
+Capitanía General,ORG,2,1
+Capitán Cid,LOC,2,1
+Capitán D. JUAN,LOC,2,1
+Capitán D. VICENTE GOMEZ,LOC,2,1
+Capitán Ignacio,LOC,2,1
+Capitán Román,LOC,2,1
+Capitán Rubio,LOC,2,1
+Capitán de Artillería Batista González,LOC,2,1
+Capitán de Infantería DEM,LOC,2,1
+Capitán de la Guardia Civil Acera Martín,LOC,2,1
+Capitán de la Guardia Civil D. Vicente Gómez Iglesias,LOC,2,1
+Capitán de la Guardia Civil Pérez de la Lastra,LOC,2,1
+Carabanchel-Latina,LOC,2,1
+Carlos Iniesta,PER,2,1
+Carretera N-1,LOC,2,1
+Centro de Operaciones,ORG,2,1
+Ceuta,LOC,2,1
+Chamorro Martín,PER,2,1
+Comandante Cortina,PER,2,1
+Comandante Pardos Aldea,LOC,2,1
+Comisión de Defensa del Congreso,ORG,2,1
+Comité Ejecutivo,LOC,2,1
+Congreso referida,ORG,2,1
+Conida,LOC,2,1
+Conocimiento,PER,2,1
+Consejo de Estado,ORG,2,1
+Consejo de Secretarios de Estado,ORG,2,1
+Constitución Española,LOC,2,1
+Coranilles,LOC,2,1
+Coronel Gómez,PER,2,1
+Coronel Muñoz,PER,2,1
+Cortada,LOC,2,1
+Cuba,LOC,2,1
+Cuercero,LOC,2,1
+Cuerpos de Seguridad del Estado,ORG,2,1
+D. Antonio Lagoa Sánchez,PER,2,1
+DISTRIBUCION,ORG,2,1
+Declaraciones de los Generales,PER,2,1
+Declaración del Cap,PER,2,1
+Defendió,PER,2,1
+Defensa Nacional,ORG,2,1
+Defensa del Cap,LOC,2,1
+Delicias,LOC,2,1
+Dimas Sanz,PER,2,1
+Dirección de Seguridad del Estado,PER,2,1
+Dirección del Centro,LOC,2,1
+División Acorazada,LOC,2,1
+Díaz de Mendivil,PER,2,1
+E. Mayor.- MADRID,PER,2,1
+EMBAJADA,ORG,2,1
+ESTADO ALERTA,ORG,2,1
+EXTERIORES.- M A D R I,ORG,2,1
+Eduardo Fuentes,PER,2,1
+El Comandante Pardo,LOC,2,1
+El General Vallespín,LOC,2,1
+El Ministerio Fiscal,LOC,2,1
+El Sr. De Miguel,PER,2,1
+Envío,PER,2,1
+Escuela,LOC,2,1
+FERNANDO ARIAS-SALGADO,ORG,2,1
+Fernando Omejo,PER,2,1
+Fernando Terrón Durán,PER,2,1
+Figueras,LOC,2,1
+Fons Ferrer,PER,2,1
+Francisco García Almenta Dobón,PER,2,1
+Fuentes Gómez de Salazar,PER,2,1
+Fuerzas Armadas y,ORG,2,1
+Fuerzas Ejército,PER,2,1
+General Alcalá-Galiano,PER,2,1
+General CALZADA,ORG,2,1
+General Centeno,PER,2,1
+General Consejero Togado,PER,2,1
+General Farré,PER,2,1
+General Justé,PER,2,1
+General de Brigada,LOC,2,1
+Gobierno de Salvación Nacional,LOC,2,1
+Gobierno de la República de,LOC,2,1
+González del Yerro,PER,2,1
+Grabación,PER,2,1
+Gral. Esquivias,ORG,2,1
+Gral. FERNANDEZ CAMPOS,PER,2,1
+Gral. JUSTE,LOC,2,1
+Gral. MILANS,PER,2,1
+Gral. Santamaría,PER,2,1
+Granada,LOC,2,1
+Gráfio,PER,2,1
+Guardia,ORG,2,1
+Guardia Civil Alvarez Fernández,ORG,2,1
+Guardia Civil D. José Moya Gómez,ORG,2,1
+Guardia Civil Izquierdo Sánchez,ORG,2,1
+Guardia Civil Ramos Rueda,ORG,2,1
+Guardia Civil Vecinos Núñez,ORG,2,1
+HOYUELOS,ORG,2,1
+IDENTIDADES,ORG,2,1
+Ideología D.C,LOC,2,1
+Incide,PER,2,1
+Informaciones,PER,2,1
+Inició,LOC,2,1
+Inspección General,LOC,2,1
+Intervención,LOC,2,1
+J.C.O,ORG,2,1
+JEFE DEL EME,ORG,2,1
+JUJFM,ORG,2,1
+Jefe de Servicio,PER,2,1
+Jerez,LOC,2,1
+José Cortina Preito,PER,2,1
+Juan Milano del Bosch,PER,2,1
+Julio,PER,2,1
+Julio Ortiz,PER,2,1
+Justicia,LOC,2,1
+King Juan Carlos,PER,2,1
+LE CONTESTAN,ORG,2,1
+LERIDA,ORG,2,1
+LIGA COMUNISTA REVOLUCIONARIA,ORG,2,1
+LOS HECHOS,ORG,2,1
+Leonardo,PER,2,1
+Lerida,LOC,2,1
+Letras,LOC,2,1
+Lázaro Cortaiz,PER,2,1
+M.C.A,ORG,2,1
+MADRE,ORG,2,1
+MANÍPOLAR,ORG,2,1
+Mando,PER,2,1
+Martínez,LOC,2,1
+Milan del Bosch,PER,2,1
+Milano del Bosch,LOC,2,1
+Ministerio de Asuntos Exteriores,LOC,2,1
+Monarca,LOC,2,1
+Monarquía Nacional,LOC,2,1
+Montevideo,LOC,2,1
+Moscú,LOC,2,1
+Múgica Herzog,PER,2,1
+NO SE,ORG,2,1
+OPERACIÓN,ORG,2,1
+ORDEN GOBERNADOR CIVIL,ORG,2,1
+Occidente,LOC,2,1
+Olimpia,LOC,2,1
+Operaciones militar,ORG,2,1
+Operación Mister,PER,2,1
+Organo,LOC,2,1
+Orientada,PER,2,1
+P.C.G,ORG,2,1
+PASCUAL,ORG,2,1
+PP RETMCZA,ORG,2,1
+PRENSA,ORG,2,1
+PROTECCION,ORG,2,1
+Pacto Internacional de Derechos Civiles,ORG,2,1
+Para los Comandos,PER,2,1
+Parque de Automóviles,LOC,2,1
+Partido Nacional Independiente,ORG,2,1
+Partidos Políticos,PER,2,1
+Pasar,LOC,2,1
+Pedro Pérez Llorca Ministro de Asuntos Exteriores Madrid,PER,2,1
+Planes de Seguridad,ORG,2,1
+Policía Municipal,LOC,2,1
+Primera Región,ORG,2,1
+Pueblo Español,LOC,2,1
+RECURRIR,ORG,2,1
+RESUMEN,PER,2,1
+REVISTA,ORG,2,1
+Regiones Aéreas,PER,2,1
+Rodríguez Sahagún,PER,2,1
+Ron Hayword,PER,2,1
+SE ESTABLECE,ORG,2,1
+SEROR,ORG,2,1
+SU NOVIA,PER,2,1
+San Sebastián,LOC,2,1
+Sanz López,PER,2,1
+Sargento D. Miguel Sales Maroto,PER,2,1
+Sargento Sales Maroto,PER,2,1
+Sección E,LOC,2,1
+Sección E.N,LOC,2,1
+Sector de Canarias,LOC,2,1
+Sector de Salamanca,LOC,2,1
+Sector de Valencia,LOC,2,1
+Seguridad del Estado,ORG,2,1
+Señor Secretario,PER,2,1
+Spain,LOC,2,1
+Spain's,LOC,2,1
+Sr. Montero,PER,2,1
+Sr. Ortiz Ortiz,PER,2,1
+Sr. Paradela,PER,2,1
+Sr. Sanz,LOC,2,1
+Subdiv,LOC,2,1
+Sáez de Santamaría,ORG,2,1
+T. Vale,PER,2,1
+T. ¿Qué,PER,2,1
+T.V.E,ORG,2,1
+TIENPO,ORG,2,1
+Teniente Alonso,PER,2,1
+Teniente General Milans del Boch,LOC,2,1
+Teniente General Miláns del Bosch,ORG,2,1
+Teniente Griñón,PER,2,1
+Tercera Región Militar,ORG,2,1
+Termina,LOC,2,1
+Tolosa,LOC,2,1
+Tribunal Supremo de Justicia Militar,LOC,2,1
+U.C.D,ORG,2,1
+UCD-PSOE,ORG,2,1
+UNCLASSIFIED,ORG,2,1
+UNIDAD MILITAR,ORG,2,1
+Universidad de La Laguna,ORG,2,1
+Ussía,LOC,2,1
+Vuestra Excelencia,PER,2,1
+Zona Guardia Civil,LOC,2,1
+Zonas Marítimas,PER,2,1
+columna Pardo,LOC,2,1
+los Reyes,LOC,2,1
+ningún interés,ORG,2,1
+testigos de descargo,ORG,2,1
+upholds the right of the Spanish,PER,2,1
+° Núm,ORG,2,1
+¿Has,ORG,2,1
+Órgano,PER,2,1
+Órgano de la Confederación Nacional de Combatientes,LOC,2,1
+/29-4-82,PER,1,1
+/Ref,LOC,1,1
+04'00 H,PER,1,1
+06295/5 N,ORG,1,1
+1.- Afirmo,PER,1,1
+1.- Reuniones,PER,1,1
+1.2.- La JUJEM,PER,1,1
+1000 S. MADRID,LOC,1,1
+12-11-81,ORG,1,1
+1a R. Militar,ORG,1,1
+2.- CONSIDERACIONES,LOC,1,1
+2.- Cualquier golpe de Estado,PER,1,1
+2.- G.C. Animo,LOC,1,1
+2.- INTERROGATORIO,LOC,1,1
+2.- Paméllas,LOC,1,1
+2.- Preguntó el Fiscal,PER,1,1
+2.1.- Al Sr. Escandell,PER,1,1
+2.1.- Dictamen,PER,1,1
+2.1.- Interrogatorio del Tcol Tejero,LOC,1,1
+2.1.- Intervención del General CABEZA,PER,1,1
+2.1.- Intervención del Sr. De Miguel,PER,1,1
+2.1.- Intervención del Sr. García Villalonga,PER,1,1
+2.1.- Intervención del Sr. López Montero,PER,1,1
+2.1.- Prueba Testifical de los Generales ESQUIVIAS,PER,1,1
+2.1.- Testificación del TG,PER,1,1
+2.6.- TCOL,PER,1,1
+2.7.- Interrogatorio,LOC,1,1
+2.7.- Interrogatorio del Fiscal,LOC,1,1
+23 de Marzo,LOC,1,1
+23-F Ayudante del General Gutiérrez Meilado,LOC,1,1
+25 de Abril,LOC,1,1
+2° JEME,LOC,1,1
+3.- Respaldo,PER,1,1
+3.2.- Del Coronel Manchado,LOC,1,1
+3.2.- Documentación,ORG,1,1
+30 de Mayo,LOC,1,1
+31 de Mayo,LOC,1,1
+3° Región Militar,ORG,1,1
+4.- Conclusiones,LOC,1,1
+4.- Expone,PER,1,1
+4.- G.C. ¿Lo,LOC,1,1
+5.- Juro,PER,1,1
+6.- Reducida,PER,1,1
+7.- La,PER,1,1
+8.- Aparte,PER,1,1
+8.- El general Armada,PER,1,1
+9.- Milans del Bosch,LOC,1,1
+A NIVEL PARTICULAR,ORG,1,1
+A- Bueno,PER,1,1
+A- Espera,LOC,1,1
+A- Mira,LOC,1,1
+A- Mire,LOC,1,1
+A- Oiga,LOC,1,1
+A- Pues,LOC,1,1
+A- Quiero,LOC,1,1
+A- ¿Cómo,LOC,1,1
+A- ¿Quién,LOC,1,1
+A- ¿Qué,LOC,1,1
+A. T. Bagier,PER,1,1
+A.B.C,ORG,1,1
+A.B.C. DE SEVILLA,ORG,1,1
+A.M. Washington time,ORG,1,1
+A.S.K,ORG,1,1
+ABAD LABARCA,PER,1,1
+ABANDON THE WESTERN,ORG,1,1
+ACABA,ORG,1,1
+ACATAR,ORG,1,1
+ACCESS,ORG,1,1
+ACCION SERÍA,ORG,1,1
+ACEPTACION PROFESIONAL E INICIATIVA PERMANENTE,ORG,1,1
+ACG-Lorca,LOC,1,1
+ACONTECIMIENTOS,ORG,1,1
+ACTING,ORG,1,1
+ACTITUD,ORG,1,1
+ACTUAL,ORG,1,1
+ADELANTARSE A LOS CORONELES,ORG,1,1
+ADHESION,ORG,1,1
+ADIESTRAMIENTOS ESPECIALES,LOC,1,1
+AFTER,ORG,1,1
+AFUDAS A LOS IMPLICADOS,ORG,1,1
+AGAIN,ORG,1,1
+AGRESION MILITAR,ORG,1,1
+AGUILAR A Prisión Naval,ORG,1,1
+AJEMA,ORG,1,1
+AL 05-04-82,ORG,1,1
+AL CENTRO,ORG,1,1
+AL CUERPO,ORG,1,1
+AL Capitán de Navio Coronel de Arta,ORG,1,1
+AL DIA 04.03.82,ORG,1,1
+AL EXCMO,ORG,1,1
+AL LADO,ORG,1,1
+AL PUEBLO,ORG,1,1
+ALCUERZA,ORG,1,1
+ALEMAN,ORG,1,1
+ALEMANIA,ORG,1,1
+ALEMANIA Madrid,ORG,1,1
+ALERTA,ORG,1,1
+ALFONSO ARMADA,ORG,1,1
+ALGECIRAS,LOC,1,1
+ALGUNOS,ORG,1,1
+ALGUNOS MEDIOS,ORG,1,1
+ALGUNOS PROCESADOS,ORG,1,1
+ALONSO,PER,1,1
+ALONSO HERNAIZ,PER,1,1
+ALONSO MANGLA,PER,1,1
+ALZAMIENTO,ORG,1,1
+AMBAS,ORG,1,1
+AMERICAN DIPLOMATS INSIST,ORG,1,1
+AN Madrid,ORG,1,1
+AND BEFORE A,ORG,1,1
+ANTONIO TEJERO,PER,1,1
+ANUNCIADA LIBERTAD PROVISIONAL,ORG,1,1
+ANÓNIMO,ORG,1,1
+APARECE,ORG,1,1
+APOYO,ORG,1,1
+APROBACION DE LA JUJFM,ORG,1,1
+AQUELLO,ORG,1,1
+ARAMBURU,ORG,1,1
+ARAP/08.03.82,LOC,1,1
+ARENAS + - Sr. Capitán D. FRANCISCO,ORG,1,1
+ARENAS Capitán de Infra,ORG,1,1
+ARMADA llamó,ORG,1,1
+ARMAS COMANDANNCIA,ORG,1,1
+ARRESTOS,ORG,1,1
+AS HE SAW FRANCOIS-PONCET TO HIS CAR,ORG,1,1
+AS IN THE CASE OF EL SALVADOR,ORG,1,1
+AS WAS THE CASE IN TURKEY,ORG,1,1
+ASEPROSA,ORG,1,1
+ASESOR,ORG,1,1
+ASI RECUPERAR,ORG,1,1
+ASISTIR A,ORG,1,1
+ASOCIACION,ORG,1,1
+ASPECIA,ORG,1,1
+ASPECTOS AMEJOS A,LOC,1,1
+ASSEMBLEIA,ORG,1,1
+ASUNTOS ATLANTICOS.- Núm,LOC,1,1
+ASYVO,LOC,1,1
+AT THE,ORG,1,1
+ATENCION PERMANENTE,ORG,1,1
+ATENCIÓN,ORG,1,1
+ATLANTIC,ORG,1,1
+AUSENCIA INJUSTIFICADA,ORG,1,1
+AUTORIDAD,ORG,1,1
+Abad,ORG,1,1
+Abad de El Alcázar,LOC,1,1
+Abad): Le,LOC,1,1
+Abatención,PER,1,1
+Absoluta,LOC,1,1
+Academia General Militar de Zaragoza,ORG,1,1
+Academia de Caballería,ORG,1,1
+Academia de Tráfico de la G.C,ORG,1,1
+Academia de la P.A,ORG,1,1
+Acata órdenes del Teniente General MILANS,LOC,1,1
+Acción Sindicalista Nacional del Trabajo,LOC,1,1
+Aceptada,PER,1,1
+Aceptó,PER,1,1
+Acera llegó,PER,1,1
+Aclaración,LOC,1,1
+Aclaración,PER,1,1
+Acompaña al Capitán Abad,ORG,1,1
+Acompañó,PER,1,1
+Acrecentar,LOC,1,1
+Actal,ORG,1,1
+Actuó,PER,1,1
+Actúa,LOC,1,1
+Acuartelamiento del Servicio Geográfico,ORG,1,1
+Acuartelamientos,ORG,1,1
+Acusar recibo,PER,1,1
+Adaptación de la Ley de Procedimiento Administrativo,ORG,1,1
+Ademar Ferández Secretario General,PER,1,1
+Adios,LOC,1,1
+Adios B,PER,1,1
+Adios Carmen Herminia,PER,1,1
+Adjunto,PER,1,1
+Administración Central,LOC,1,1
+Administración Militar,LOC,1,1
+Admisión,PER,1,1
+Adolfo Suárez,PER,1,1
+Adolfo de Miguel y Garcilopez,PER,1,1
+Adoptar,PER,1,1
+Aduanas,LOC,1,1
+Afirman,PER,1,1
+Agencia,ORG,1,1
+Agencia Cifra,ORG,1,1
+Agencias de Transportes,LOC,1,1
+Agentes de Seguridad,ORG,1,1
+Agradezco,PER,1,1
+Aire García Escudero,PER,1,1
+Al Congreso,ORG,1,1
+Al Coronel Alcalá-Galiano,ORG,1,1
+Al Coronel Escandell,ORG,1,1
+Al Cte,PER,1,1
+Al Excelentísimo Señor Embajador de España,PER,1,1
+Al Fiscal,PER,1,1
+Al General Armada,ORG,1,1
+Al General GARCIA,ORG,1,1
+Al General Juste,ORG,1,1
+Al Gral,PER,1,1
+Al Letrado Sr. Hermosilla,PER,1,1
+Al Sr,ORG,1,1
+Al Sr. Esquivel,PER,1,1
+Al Sr. Griño,PER,1,1
+Al Sr. Gómez García,PER,1,1
+Al Sr. Hermosilla.- Sólo,PER,1,1
+Al Sr. Liñan,PER,1,1
+Al Sr. Muñoz Perea,PER,1,1
+Al Sr. Salvá Paradela,PER,1,1
+Al Sr. Sanz López,PER,1,1
+Al Sr. Tent,PER,1,1
+Al TCOL,PER,1,1
+Al Tcol,ORG,1,1
+Alarma,PER,1,1
+Alava,LOC,1,1
+Alberto Aguilera,PER,1,1
+Alberto Orión,PER,1,1
+Alcalde Arespacochaga,LOC,1,1
+Alcalde de Henares,LOC,1,1
+Alcalde de Lérida,LOC,1,1
+Alcalde de MOTRIL,LOC,1,1
+Alcalá de Henares,PER,1,1
+Alcazar de Toledo,LOC,1,1
+Alcazar del 1-11-81,LOC,1,1
+Aleman,PER,1,1
+Alertar,LOC,1,1
+Alexander M. Haig,PER,1,1
+Alexander M. Haig Secretario de Estado WASHINGTON,PER,1,1
+Alfaro,LOC,1,1
+Alfonso,PER,1,1
+Alfonso Armada,PER,1,1
+Alfonso Guerra,PER,1,1
+Alfonso XIII,PER,1,1
+Algunos Guardias Civiles,ORG,1,1
+Aliaga Pascual,PER,1,1
+Alianza Popular,ORG,1,1
+Aliança Povo Unido,PER,1,1
+Almenta,LOC,1,1
+Almirante,PER,1,1
+Almirante Arevalo,PER,1,1
+Almirante Carrero,PER,1,1
+Almuñecar,LOC,1,1
+Alonso Hernández,PER,1,1
+Alonso Herraez,PER,1,1
+Alterminar,LOC,1,1
+Alto Destinatario,LOC,1,1
+Alto Destino,LOC,1,1
+Alto Tribunal,LOC,1,1
+Altos Hornos,ORG,1,1
+Altos Hornos del Mediterráneo,LOC,1,1
+Altos Mandos del Ejército,LOC,1,1
+Aluche,LOC,1,1
+Alude,PER,1,1
+Alvarez,LOC,1,1
+Alvarez,ORG,1,1
+Alvarez,PER,1,1
+Alvarez Arenas,LOC,1,1
+Alvarez Rodríguez,PER,1,1
+Amando de Mífull,PER,1,1
+Amenazas,PER,1,1
+Analizada,LOC,1,1
+Andalucía,PER,1,1
+Andorra,LOC,1,1
+Angel Centeno Pérez,PER,1,1
+Angel García Brera Agosto,PER,1,1
+Angel Sesma Fernández Excmo,PER,1,1
+Anoeta,LOC,1,1
+Ante,ORG,1,1
+Antes del 23-F los Servicios de Información,ORG,1,1
+Antoni,PER,1,1
+Antonio Castillo Ortega Paisano D. Esteban Sierra Muñiz,PER,1,1
+Antonio Filipe Reguina Pardal,PER,1,1
+Antonio Hernández Griñó,PER,1,1
+Antonio Izquierdo,PER,1,1
+Antonio Saenz,PER,1,1
+Antonio Tejero,PER,1,1
+Antônio Filipe Reguina Pardal,PER,1,1
+Apelar,PER,1,1
+Aporta,LOC,1,1
+Apoyo,PER,1,1
+Apoyo Técnico,PER,1,1
+Apresuradamente,PER,1,1
+Aprovecho,PER,1,1
+Apuntó,PER,1,1
+Aquí,LOC,1,1
+Aquí,PER,1,1
+Aragón,LOC,1,1
+Aralar,ORG,1,1
+Arana Lorite,LOC,1,1
+Aranjuez,LOC,1,1
+Aregurar,PER,1,1
+Armada en Zarzuela,ORG,1,1
+Armada en las Navidades del 80 en línea,ORG,1,1
+Armada-Cortina-Gómez Iglesias,PER,1,1
+Armamento,PER,1,1
+Armas,LOC,1,1
+Arrestó,PER,1,1
+Artillería,PER,1,1
+Artillería de la Brigada XI,LOC,1,1
+Artículo,PER,1,1
+Artículos,PER,1,1
+Arzallus,LOC,1,1
+Arévalo,LOC,1,1
+Asensio Cabanillas,PER,1,1
+Asesor General,ORG,1,1
+Asesor Jurídico,ORG,1,1
+Asesor Jurídico de la Guardia civil,ORG,1,1
+Asesoria Jurídica General,PER,1,1
+Asesoría General,LOC,1,1
+Asesoría Jurídica General,ORG,1,1
+Asiste,PER,1,1
+Asociación,ORG,1,1
+Asociación Socialista de Moncloa,ORG,1,1
+Assembleia Municipal,LOC,1,1
+Assembleia Municipal de Campo Maior,PER,1,1
+Assembleia Municipal do Concelho de Campo Maior,PER,1,1
+Astano,LOC,1,1
+Astilleros Miranda,PER,1,1
+Asumir,PER,1,1
+Atentamente,PER,1,1
+Atocha,LOC,1,1
+Auditor,ORG,1,1
+Australia,LOC,1,1
+Ausuim 23-F Ante,PER,1,1
+Auto,PER,1,1
+Autocares de la Guardia Civil,LOC,1,1
+Autoridad Civil,ORG,1,1
+Autoridad Gubernativa,ORG,1,1
+Autoridad Judicial,ORG,1,1
+Autoridad Superior,ORG,1,1
+Autoridad civil,ORG,1,1
+Autoridad militar,ORG,1,1
+Autoridades Judiciales,PER,1,1
+Autoridades Militares,PER,1,1
+Autorizó,PER,1,1
+Autos,PER,1,1
+Avenida Costa del Sol,LOC,1,1
+Aviación,LOC,1,1
+Aviación Rubio Luengo,PER,1,1
+Avisó,PER,1,1
+Ayer,PER,1,1
+Ayudante del General,LOC,1,1
+Ayudante del General Armada,PER,1,1
+Ayudante del General Esquivias,PER,1,1
+Ayudante del Gral Aramburu,PER,1,1
+Ayudante del Tte,PER,1,1
+Ayudantes del General MILANS,PER,1,1
+Ayudantes del Teniente General Milans del Boch,PER,1,1
+Ayuntamiento de Gerona,LOC,1,1
+Ayuntamiento de Madrid,LOC,1,1
+Ayuntamiento de Valencia,LOC,1,1
+Ayuntamientos,LOC,1,1
+Ayuntamientos,PER,1,1
+Añade,ORG,1,1
+Añadían,PER,1,1
+B - Bueno,PER,1,1
+B - Cómo,LOC,1,1
+BARCELONA Normalidad general,ORG,1,1
+BELIEVE,ORG,1,1
+BENDALA,ORG,1,1
+BERIAIN,ORG,1,1
+BERNAZARD,ORG,1,1
+BLANCA,ORG,1,1
+BLOQUEADA,ORG,1,1
+BOSCH,ORG,1,1
+BRIGADA,ORG,1,1
+BRIGADA INTERIOR ASUNTO,LOC,1,1
+BT N N N N,ORG,1,1
+BURGOS NUÑEZ,ORG,1,1
+Baja,LOC,1,1
+Balance Terrorista,PER,1,1
+Banco,LOC,1,1
+Banco Central,ORG,1,1
+Bando,LOC,1,1
+Bando del,PER,1,1
+Bandrés,PER,1,1
+Baqueira,LOC,1,1
+Bar de Suboficiales,LOC,1,1
+Barajas,LOC,1,1
+Barbara de Braganza de Madrid,PER,1,1
+Barreras,LOC,1,1
+Barros de Lis,PER,1,1
+Basa,PER,1,1
+Base del Subsector,LOC,1,1
+Bastaba,LOC,1,1
+Bazan,LOC,1,1
+Bea-ta María Ana de Jesús,LOC,1,1
+Beata María Ana de Jesús,PER,1,1
+Bewährungsprobe,PER,1,1
+Beziehungen,PER,1,1
+Biarriz,LOC,1,1
+Bilbao,LOC,1,1
+Blas Infante,PER,1,1
+Bobis,LOC,1,1
+Bobis,PER,1,1
+Bonel Esperanza,PER,1,1
+Borbones,LOC,1,1
+Boulevard de San Sebastián,LOC,1,1
+Breznov,PER,1,1
+Brigada Interior,LOC,1,1
+Bruno Kreisky,PER,1,1
+Bueno Sra,PER,1,1
+Buenos Aires,LOC,1,1
+Buenos días,LOC,1,1
+Burata,PER,1,1
+Buscar,LOC,1,1
+Báguena,LOC,1,1
+Bón de Carro,LOC,1,1
+C. Entiendes,PER,1,1
+C. J. M. Una,LOC,1,1
+C. N. T,LOC,1,1
+C.G. de Tierra,LOC,1,1
+C.G. de la División,LOC,1,1
+C.N. Menendez,ORG,1,1
+C.N. Menendez,PER,1,1
+C.T. Rojas,LOC,1,1
+C/ SG,PER,1,1
+C/. Biarritz,PER,1,1
+CABEZA CALAHORRA,ORG,1,1
+CACINERO,ORG,1,1
+CALA OPERACIONES,ORG,1,1
+CALAHORRA,ORG,1,1
+CALDO,ORG,1,1
+CALIDAD,ORG,1,1
+CALLE,ORG,1,1
+CALMA,ORG,1,1
+CAMPAÑA,ORG,1,1
+CANAL S,LOC,1,1
+CAPITÁN,ORG,1,1
+CARABANCHEL-LATINA,ORG,1,1
+CARACTER,ORG,1,1
+CARACTER GENERAL,ORG,1,1
+CARACTER MILITAR,ORG,1,1
+CARLOS ALVAREZ,ORG,1,1
+CARLOS MARTIN,PER,1,1
+CARRILLO DEJANDO A,ORG,1,1
+CARTA,ORG,1,1
+CARÁCTER,ORG,1,1
+CASA DE S. M. EL REY,LOC,1,1
+CASA DE S. M. EL REY EXCMO,PER,1,1
+CASA DE S. M. EL REY Lo,ORG,1,1
+CASACION,ORG,1,1
+CASTRO,ORG,1,1
+CATORCE DIAS,ORG,1,1
+CENTRALES,ORG,1,1
+CENTRO,LOC,1,1
+CENTRO,ORG,1,1
+CENTRO SUPERIOR,LOC,1,1
+CERTIFICACION SOLICITADA,ORG,1,1
+CESID A,ORG,1,1
+CEUTA,ORG,1,1
+CHICA,ORG,1,1
+CHORTAY,ORG,1,1
+CIFRADO,ORG,1,1
+CINTA,LOC,1,1
+CITOS CAMBICOS,LOC,1,1
+CIUDAD REAL,LOC,1,1
+CIUDAD REAL Propaganda,LOC,1,1
+CIVILES,ORG,1,1
+CLASA,ORG,1,1
+CLEMEN,ORG,1,1
+CODIGO,ORG,1,1
+CODIGO MILITAR,ORG,1,1
+COINVERSATIONS,ORG,1,1
+COLABORAR,ORG,1,1
+COMIN,ORG,1,1
+COMPAÑÍA,ORG,1,1
+COMPLEMENTO MILITAR A,ORG,1,1
+COMPUESTA,ORG,1,1
+COMUNALES,ORG,1,1
+COMUNICACION SE CORTA FORTUITAMENTE,ORG,1,1
+CON ABSOLUTA LEALTAD AL REY,ORG,1,1
+CONCLUSIONES,ORG,1,1
+CONDICIONES,ORG,1,1
+CONFECCION,ORG,1,1
+CONFEDERACION,ORG,1,1
+CONFIANZA,ORG,1,1
+CONFIDENCIAL Núm,LOC,1,1
+CONFIRMADAS,ORG,1,1
+CONFLICTO LABORAL,ORG,1,1
+CONFUSION,LOC,1,1
+CONOCIMIENTO PREVIO,ORG,1,1
+CONSEJERO,ORG,1,1
+CONSEJO,ORG,1,1
+CONSEJO SUPREMO DE JUSTICIA MILITAR,ORG,1,1
+CONSENTIMIENTO,ORG,1,1
+CONSIGNAS,ORG,1,1
+CONSTITUCIÓN,ORG,1,1
+CONSUMIDAD,ORG,1,1
+CONT'D,LOC,1,1
+CONTACT,ORG,1,1
+CONTENIDO,ORG,1,1
+CONTINUACION,ORG,1,1
+CONTRA,LOC,1,1
+CONTRA,ORG,1,1
+CONTRASTED,ORG,1,1
+CONTUNDENTE POR,ORG,1,1
+CONVERSACIONES,ORG,1,1
+CONVOCAN PUELOS,ORG,1,1
+CORREO,ORG,1,1
+CORTE ESPAÑOL,ORG,1,1
+CORTHAY Capitán de la G.C. D. ENRIQUE BOBIS,ORG,1,1
+COSLADA,ORG,1,1
+COUNTRIES,ORG,1,1
+CUEPPO,ORG,1,1
+CUERPO MADRID,ORG,1,1
+CUERPO REPRESIVOS,ORG,1,1
+CUESTIONALES,ORG,1,1
+CUESTIONES,ORG,1,1
+CUMPLIMIENTO,ORG,1,1
+Cabo 1a Monge,LOC,1,1
+Cabo de la Guardia Civil,LOC,1,1
+Cabre-S. Bastida,PER,1,1
+Cabría,PER,1,1
+Cadalso,PER,1,1
+Caja de Ahorros de Madrid,ORG,1,1
+Calatrava,PER,1,1
+Calatrava-Caballeria,LOC,1,1
+Calificación,LOC,1,1
+Camilo Menéndez Vives,PER,1,1
+Camiones Ej'ercito,PER,1,1
+Campamento,LOC,1,1
+Canarias,LOC,1,1
+Cap Abad,LOC,1,1
+Cap Muñecas,LOC,1,1
+Capitanes Bobis,ORG,1,1
+Capitanes Bobis González,ORG,1,1
+Capitanes Cid Fortea,PER,1,1
+Capitanes Dusmet,LOC,1,1
+Capitanes General,ORG,1,1
+Capitanes Generales,PER,1,1
+Capitanes Tamarit,LOC,1,1
+Capitanía General de la Zona Marítima del Mediterráneo,LOC,1,1
+Capitanías Generales,ORG,1,1
+Capitán Acera,ORG,1,1
+Capitán Alvarez-Arenas,LOC,1,1
+Capitán Alvará-Rrenas,LOC,1,1
+Capitán Astorga,LOC,1,1
+Capitán BATISTA,ORG,1,1
+Capitán BOBIS,LOC,1,1
+Capitán Bastista,LOC,1,1
+Capitán Caballero,LOC,1,1
+Capitán Caballero,PER,1,1
+Capitán Cid,PER,1,1
+Capitán Cid Fortea,PER,1,1
+Capitán D. CARLOS,LOC,1,1
+Capitán D. FRANCISCO,LOC,1,1
+Capitán D. JESUS,LOC,1,1
+Capitán DON GIL,LOC,1,1
+Capitán Don,LOC,1,1
+Capitán General Milans del Bosch,LOC,1,1
+Capitán General de Cataluña,LOC,1,1
+Capitán General de Valencia,LOC,1,1
+Capitán General de la,LOC,1,1
+Capitán Gil Sánchez Valiente,LOC,1,1
+Capitán Gral. de la 3a Región Militar,LOC,1,1
+Capitán Iglesias el TCol,LOC,1,1
+Capitán Ignacio,PER,1,1
+Capitán Ignacio Román,LOC,1,1
+Capitán Jomez Iglesias,LOC,1,1
+Capitán Llamada,LOC,1,1
+Capitán Lázaro Corthay,LOC,1,1
+Capitán MERLO,LOC,1,1
+Capitán MUÑECAS,LOC,1,1
+Capitán Mochales,LOC,1,1
+Capitán PASCUAL,PER,1,1
+Capitán Pascual Galvez,PER,1,1
+Capitán Pascual Gálvez,LOC,1,1
+Capitán Perez,LOC,1,1
+Capitán Perez de la Lastra,LOC,1,1
+Capitán Pérez Caballero,LOC,1,1
+Capitán Sanchez-Valiente,LOC,1,1
+Capitán Tamarit,PER,1,1
+Capitán Tostón,LOC,1,1
+Capitán de Artillería,LOC,1,1
+Capitán de Artillería D. Joaquin,LOC,1,1
+Capitán de Artillería D. Juan,LOC,1,1
+Capitán de Caballería,LOC,1,1
+Capitán de Infantería Alvarez Arenas,LOC,1,1
+Capitán de Infantería Alvarez-Arenas,LOC,1,1
+Capitán de Infantería Alvarez-Arenas Pardiñas,LOC,1,1
+Capitán de Infantería Don Carlos Alvarez Arenas Pardina,LOC,1,1
+Capitán de Infantería Dusmet Garcia-Figueras,LOC,1,1
+Capitán de Infra,LOC,1,1
+Capitán de Intendencia,LOC,1,1
+Capitán de Intendencia D. José,LOC,1,1
+Capitán de Navio D. Camilo Menendez Vives,LOC,1,1
+Capitán de Navío,LOC,1,1
+Capitán de Navío Don CAMILO,LOC,1,1
+Capitán de Navío Menéndez Vives,LOC,1,1
+Capitán de la Civil D. José Ramón Tostón de la Calle Cabo,LOC,1,1
+Capitán de la G. Civil Sánchez Valiente,LOC,1,1
+Capitán de la G.C. D. JUAN PEREZ DE LA,LOC,1,1
+Capitán de la G.C. Ignacio Román el 23-F,LOC,1,1
+Capitán de la GC,LOC,1,1
+Capitán de la GC Acera,LOC,1,1
+Capitán de la Guardia Civil Bobis,LOC,1,1
+Capitán de la Guardia Civil Caballero,LOC,1,1
+Capitán de la Guardia Civil D. Vicente GOMEZ IGLESIAS,LOC,1,1
+Capitán de la Guardia Civil Don CARLOS LAZARO GORTAIN,LOC,1,1
+Capitán de la Guardia Civil Don FRANCISCO,LOC,1,1
+Capitán de la Guardia Civil Don JUAN PEREZ DE LA LASTRA,LOC,1,1
+Capitán de la Guardia Civil Lázaro Cortaiz,LOC,1,1
+Capitán de la Guardia Civil Lázaro Corthay,LOC,1,1
+Capitán de la Guardia Civil Muñecas,LOC,1,1
+Capitán de la Lastra,LOC,1,1
+Capitán del Ejército del Aire,LOC,1,1
+Capt,LOC,1,1
+Careos,LOC,1,1
+Carlos Dáfora,PER,1,1
+Carlos LAZARO CORTHAY,PER,1,1
+Carmela,LOC,1,1
+Carmen Polo,PER,1,1
+Carmen vea,PER,1,1
+Caro,PER,1,1
+Carrero Blanco,PER,1,1
+Carres,LOC,1,1
+Carretera N-VI Km,LOC,1,1
+Carretero,LOC,1,1
+Cartel,ORG,1,1
+Cartellana,LOC,1,1
+Casa Militar,LOC,1,1
+Casa de Espana,PER,1,1
+Casa de Juntas de Guernica,LOC,1,1
+Casa de Juntas de Güernica,LOC,1,1
+Casa de S.M,PER,1,1
+Casa de S.M. el Rey,LOC,1,1
+Casa de Socorro,PER,1,1
+Cassinello,PER,1,1
+Castellón,ORG,1,1
+Castillo de San Fernando,LOC,1,1
+Castro San Martín,LOC,1,1
+Cataluña,LOC,1,1
+Católicos,ORG,1,1
+Cañas Barrera,PER,1,1
+Cecil,PER,1,1
+Cedaceros,LOC,1,1
+Cementerio,LOC,1,1
+Cementerio de La Almudena,LOC,1,1
+Central Sindical,ORG,1,1
+Central Telégrafo Se,LOC,1,1
+Centrales Sindicales,LOC,1,1
+Centro Superior de Información de la Defensa,LOC,1,1
+Centro Superior de Información de la Defensa MADRID,LOC,1,1
+Centro Vía F,LOC,1,1
+Centro Vía F 4,LOC,1,1
+Centro de Investigaciones,LOC,1,1
+Centro-Anzotegui,LOC,1,1
+Centros,ORG,1,1
+Centros Docentes y Oficiales,ORG,1,1
+Centros Oficiales,ORG,1,1
+Centros Universitarios,ORG,1,1
+Centros de Enseñanza,LOC,1,1
+Cenó,LOC,1,1
+Certificación del Presidente del Congreso Sr. LAVILLA,LOC,1,1
+Certificación del Teniente,LOC,1,1
+Certificado,LOC,1,1
+Chamorro,PER,1,1
+Cid F. Igualmente,PER,1,1
+Ciencias de la Educación,LOC,1,1
+Cifra,PER,1,1
+Cincuentes,PER,1,1
+Circula,LOC,1,1
+Circulación,LOC,1,1
+Circunscripción,LOC,1,1
+Cita,ORG,1,1
+Cita,PER,1,1
+Citaso,LOC,1,1
+Citrōen,LOC,1,1
+Ciudad Periodistas,LOC,1,1
+Ciudad Sanitaria 19 de Octubre,LOC,1,1
+Civiles,LOC,1,1
+Civiles,PER,1,1
+Claro,LOC,1,1
+Claro,PER,1,1
+Clave,LOC,1,1
+Codefensor Comandante,LOC,1,1
+Coincidió,LOC,1,1
+Coincido,PER,1,1
+Colegio Mayor,ORG,1,1
+Colocado,PER,1,1
+Columna Pardo,LOC,1,1
+Comandancia MALAGA,ORG,1,1
+Comandancia de San Sebastián,LOC,1,1
+Comandante BELLES,PER,1,1
+Comandante Bonell Esperanza,PER,1,1
+Comandante CORTINA,LOC,1,1
+Comandante D. JOSE,PER,1,1
+Comandante Goróstegui,PER,1,1
+Comandante Herrero de Intendencia A,LOC,1,1
+Comandante INESTRILLAS,LOC,1,1
+Comandante PARDO,ORG,1,1
+Comandante PARDO ZANCADA,PER,1,1
+Comandante PARDO y Sr. GARCIA,LOC,1,1
+Comandante Pardo Zancada,PER,1,1
+Comandante Pardos Aldea,ORG,1,1
+Comandante Perdo Zancada,LOC,1,1
+Comandante Quintero,PER,1,1
+Comandante Zorita,PER,1,1
+Comandante de Infantería DEM,ORG,1,1
+Comandante de Intendencia,LOC,1,1
+Comandante de la P.A,LOC,1,1
+Comentario,PER,1,1
+Comenzará,ORG,1,1
+Comienzan,PER,1,1
+Comisario final de Información,ORG,1,1
+Comisaría General de Información,LOC,1,1
+Comisaría General de Información,ORG,1,1
+Comisiones,PER,1,1
+Comisión de Defensa de las Cortes,ORG,1,1
+Comité Nacional de la C.N.T,LOC,1,1
+Comité de Defensa de la Democracia,ORG,1,1
+Comité de Madrid,LOC,1,1
+Comité del País Valenciano,LOC,1,1
+Como Sánchez-Valiente,PER,1,1
+Compara,LOC,1,1
+Comparto,PER,1,1
+Compañía,PER,1,1
+Compañía Telefónica Nacional de España,LOC,1,1
+Compañía de Reserva General,LOC,1,1
+Compañías,LOC,1,1
+Complemento,ORG,1,1
+Comunicação Social,PER,1,1
+Comunico,LOC,1,1
+Comunicó,PER,1,1
+Comunión Católico Monárquica,LOC,1,1
+Comuníquese,LOC,1,1
+Concejal del Ayuntamiento,LOC,1,1
+Conclusiones,LOC,1,1
+Conclusiones provisionales del Fiscal,ORG,1,1
+Concluyó,PER,1,1
+Concretamente,LOC,1,1
+Condecoraciones,LOC,1,1
+Condecoraciones,ORG,1,1
+Confederación,LOC,1,1
+Confederación General de Trabajadores del Uruguay,LOC,1,1
+Confesor,LOC,1,1
+Confiando,PER,1,1
+Confirma,PER,1,1
+Confirmado,LOC,1,1
+Confirmar,LOC,1,1
+Confirmó,PER,1,1
+Congreso - Negociaciones,ORG,1,1
+Congreso al Comandante Pardo Zancada,ORG,1,1
+Congreso de Diputados,ORG,1,1
+Congreso de Diputados procedía,ORG,1,1
+Congreso del los Diputados,ORG,1,1
+Congreso habló,ORG,1,1
+Congreso los Civiles,ORG,1,1
+Congreso norteamericano,ORG,1,1
+Congreso por el Comandante Pardo,ORG,1,1
+Congresso,LOC,1,1
+Conoce,PER,1,1
+Conocer,LOC,1,1
+Conocido,ORG,1,1
+Conocía al Tcol,PER,1,1
+Cons,LOC,1,1
+Consecuencia,PER,1,1
+Consejero Delegado,PER,1,1
+Consejero Tegado,LOC,1,1
+Consejero Togado,LOC,1,1
+Consejero Togado de Aguilar,PER,1,1
+Consejo Federal de Comisiones Obreras del Campo,ORG,1,1
+Consejo Superior del Ejército,ORG,1,1
+Consejo Supremo,LOC,1,1
+Consejo Supremo de Justicia Militar,LOC,1,1
+Consejo Supremo de Justicia Militar JUZGADO ESPECIAL S,ORG,1,1
+Consejo Supremo de Justicia Militar | Juzgado Especial,ORG,1,1
+Consejo de Administración,ORG,1,1
+Consejo de Estado Sr. Oriol,ORG,1,1
+Consejo de Estado.- El Tcol,ORG,1,1
+"Consejo de Guerra por la Operación ""Galaxia",ORG,1,1
+Consejo de Justicia—Militar,ORG,1,1
+Consejo de Ministros,ORG,1,1
+Consejo reunido,ORG,1,1
+Consejos Superiores de los Ejércitos de Tierra,ORG,1,1
+Consideración,PER,1,1
+Consideramos,LOC,1,1
+Consideran,PER,1,1
+Considere,LOC,1,1
+Considere,PER,1,1
+Consideró,PER,1,1
+Consistorio,PER,1,1
+Consta,LOC,1,1
+Constitución del nuevo Gobierno,LOC,1,1
+Constitui,LOC,1,1
+Construcciones Aeronauticas,LOC,1,1
+Construcciones Aeronauticas,ORG,1,1
+Construcción,LOC,1,1
+Consulado Espanhol em Elvas,PER,1,1
+Consultado,PER,1,1
+Consultados,LOC,1,1
+Contactos,LOC,1,1
+Contará,PER,1,1
+Contesta,PER,1,1
+Contestó,LOC,1,1
+Continua,PER,1,1
+Continuación,PER,1,1
+Continuando,PER,1,1
+Continúan,PER,1,1
+Contradice,LOC,1,1
+Contrainteligencia,LOC,1,1
+Contrasta,PER,1,1
+Convención Europea de Derechos,ORG,1,1
+Convención Europea de Derechos del Hombre,ORG,1,1
+Convención de Roma de Derechos del Hombre,ORG,1,1
+Convendría,PER,1,1
+Conveniencia,LOC,1,1
+Convisaentemente,LOC,1,1
+Convocatoria,ORG,1,1
+Convocatoria de CC.OO,LOC,1,1
+Coordinadora de Estibadores Portuarios,PER,1,1
+Copia,LOC,1,1
+Coran,LOC,1,1
+Coranules,LOC,1,1
+Corisco,LOC,1,1
+Coro,LOC,1,1
+Coronales,LOC,1,1
+Coronel ALCALA,LOC,1,1
+Coronel Astilleros,LOC,1,1
+Coronel Astilleros,PER,1,1
+Coronel CERVANTES,PER,1,1
+Coronel Cuesta,PER,1,1
+Coronel D. ANTONIO TEJERO,LOC,1,1
+Coronel D. ANTONIO TEJERO,PER,1,1
+Coronel D. Antonio ROMERO SANCHEZ,PER,1,1
+Coronel D. Antonio Tejero,PER,1,1
+Coronel D. Carlos Villanueva Retuer,PER,1,1
+Coronel D. Constantino Gómez González,PER,1,1
+Coronel D. DIEGO IBAÑEZ INGLES,LOC,1,1
+Coronel D. Elby Rovira Montero,LOC,1,1
+Coronel D. Fernando Sancho Garcia,PER,1,1
+Coronel D. Joaquín Vázquez García,PER,1,1
+Coronel D. Manuel Astilleros Miranda,PER,1,1
+Coronel D. Manuel Miler Hidalgo,PER,1,1
+Coronel D. PEDRO MAS OLIVER,PER,1,1
+Coronel Escaldell,PER,1,1
+Coronel Fernández Teijeiro,PER,1,1
+Coronel GARCHITORENA,PER,1,1
+Coronel GOMEZ LOPEZ,ORG,1,1
+Coronel Gómez López,PER,1,1
+Coronel Ibañez,LOC,1,1
+Coronel Ibáñez Inglés,PER,1,1
+Coronel Ibáñez visitó,PER,1,1
+Coronel Jefe,LOC,1,1
+Coronel Jefe de su Regimiento,PER,1,1
+Coronel Jefe del Regimiento Wad-Ras,PER,1,1
+Coronel Jefe del Tercio,LOC,1,1
+Coronel Juez Eventual,PER,1,1
+Coronel MANCHADO,PER,1,1
+Coronel Mas Oliver,PER,1,1
+Coronel PARDO,LOC,1,1
+Coronel PARDO DE SANTALLANA,LOC,1,1
+Coronel Quintero,PER,1,1
+Coronel SAN MARTIN El Presidente,PER,1,1
+Coronel San,PER,1,1
+Coronel Sancho,PER,1,1
+Coronel Sanmartín,PER,1,1
+Coronel Santos,PER,1,1
+Coronel Serrado,PER,1,1
+Coronel Sr. Escandell,PER,1,1
+Coronel Sánchez Bilbao,LOC,1,1
+Coronel VALENCIA,LOC,1,1
+Coronel Valencia Remon,PER,1,1
+Coronel al EM,LOC,1,1
+Coronel de Caballería Honorario,LOC,1,1
+Coronel de Infra,LOC,1,1
+Coronel de Navío Menéndez,LOC,1,1
+Coronel de la G. Civil D. Miguel Manchado,LOC,1,1
+Coronel de la G.C. D. MIGUEL,LOC,1,1
+Coronel de la G.C. Manchado,LOC,1,1
+Coronel de la Guardia Civil,LOC,1,1
+Coronel del Ejército,PER,1,1
+Coroneles Acuña López,PER,1,1
+Coroneles Cervantes Rosell,ORG,1,1
+Coroneles Sierra Moreno,PER,1,1
+Coroneles Villanueva,LOC,1,1
+Coronell Escandell,ORG,1,1
+Corporaciones,LOC,1,1
+Corporación del Ayuntamiento de la Capital,LOC,1,1
+Corral Rodríguez,LOC,1,1
+Corte Español,LOC,1,1
+Cortes,LOC,1,1
+Cortes Generales,LOC,1,1
+Cortina Prieto,PER,1,1
+Cortina-Tejero,LOC,1,1
+Coso Bajo de la Capital,LOC,1,1
+Covisa,LOC,1,1
+Cral,LOC,1,1
+Credibilidad,LOC,1,1
+Creyó,PER,1,1
+Creándose,LOC,1,1
+Creían,LOC,1,1
+Crol,LOC,1,1
+Cronología,LOC,1,1
+Cruz Laureada,LOC,1,1
+Crónica de España,PER,1,1
+Crónica de James M. Markham,PER,1,1
+Cte Cortina,PER,1,1
+Cte Pardo Zancada,LOC,1,1
+Cuartel,PER,1,1
+Cuartel General acompañado 6,ORG,1,1
+Cuartel General de la Acorazada Brunete,ORG,1,1
+Cuartel General de la DAC I el 23-F,ORG,1,1
+Cuartel General de la División Acorazada,ORG,1,1
+Cuartel?,ORG,1,1
+Cuerpo Continuación,PER,1,1
+Cuerpo Diplomático,ORG,1,1
+Cuerpo General,ORG,1,1
+Cuerpo Lázaro Corthay,PER,1,1
+Cuerpo militar,ORG,1,1
+Cuerpos,LOC,1,1
+Curso,LOC,1,1
+Curso de Ambientación,PER,1,1
+Curso de Circulación,PER,1,1
+Cuzco,LOC,1,1
+Cádiz,LOC,1,1
+Cádiz,PER,1,1
+Cámara,LOC,1,1
+Cámara de Representantes de Puerto Rico,ORG,1,1
+Cánovas del Castillo,LOC,1,1
+Câmara,LOC,1,1
+Cíboles,LOC,1,1
+Cómo,LOC,1,1
+D-1 Preparación,PER,1,1
+D. Arturo Garcia-Vaquero Salazar,PER,1,1
+D. FELIPE SANTANA,PER,1,1
+D. Félix Porras Blanco,PER,1,1
+D. JOSE,PER,1,1
+D. JUAN BATISTA,PER,1,1
+D. Jesús Gómez García,PER,1,1
+D. Joaquín Esquivel Giménez,PER,1,1
+D. José NUÑEZ,PER,1,1
+D. Juan,PER,1,1
+D. Juan Plá,PER,1,1
+D. Juan? B,PER,1,1
+D. Julio Ortiz Ortiz,PER,1,1
+D. MIGUEL MANCHADO,PER,1,1
+D. Oían,PER,1,1
+D. Pedro Liñán Lechuga,PER,1,1
+D. Pedro MAS OLIVER,PER,1,1
+D.C. Feb,LOC,1,1
+D.C. February,LOC,1,1
+D.E.M,PER,1,1
+DAC I. Relatos,ORG,1,1
+DAC el 23-F,ORG,1,1
+DATOS,ORG,1,1
+DE NO HACER,ORG,1,1
+DECISION,ORG,1,1
+DECLARACION,LOC,1,1
+DEFENSA,PER,1,1
+DEFIENDEN,ORG,1,1
+DEMAS,ORG,1,1
+DEMOCRACIA Y DE LA CONSTITUCION,ORG,1,1
+DEMONSTRATION,ORG,1,1
+DENTRO,ORG,1,1
+DEPARTAMENTO,ORG,1,1
+DEPARTAMENTO DE ESTADO Durante,ORG,1,1
+DERECHO,LOC,1,1
+DESPUES,ORG,1,1
+DESTACADO EN EL ESCUADRON,ORG,1,1
+DESTINA,ORG,1,1
+DETALLES,ORG,1,1
+DETENIDO,ORG,1,1
+DIAS 23,ORG,1,1
+DICHA AUTORIDAD EXPUSO,ORG,1,1
+DIEGO,ORG,1,1
+DISOLUCION,ORG,1,1
+DISPERSION,ORG,1,1
+DISPUESTA A EXIGIR,ORG,1,1
+DISTINTOS PUNTOS,ORG,1,1
+DIVISION,ORG,1,1
+DIVISION DE INFORMACION,ORG,1,1
+DONDE QUEDAN DEPOSITADAS,ORG,1,1
+DOS.- SOLICITO,ORG,1,1
+Daban,LOC,1,1
+Dabá,PER,1,1
+Dadas,PER,1,1
+Daños,PER,1,1
+De Capitanía,PER,1,1
+De Meer,ORG,1,1
+De Miguel,LOC,1,1
+De Orden,PER,1,1
+De Santiago,LOC,1,1
+De la Constitución,PER,1,1
+Dear Sir,PER,1,1
+Deber,PER,1,1
+Debería,PER,1,1
+Declaraciones de Cabos,PER,1,1
+Declaraciones de los Coroneles Casado Mestre,PER,1,1
+Declaraciones de los Generales Caruana,PER,1,1
+Declaraciones del Brigada González Mesas,PER,1,1
+Declaraciones del Capitán de Navio NIETO,PER,1,1
+Declaraciones del General,PER,1,1
+Declaraciones del General Jefe de la 3a Zona de la Guardia Civil,PER,1,1
+Declaraciones del General URRUTIA,PER,1,1
+Declaraciones del General Valencia Remón,PER,1,1
+Declaraciones del Tcol,PER,1,1
+Declaraciones del Tcol Bonelli,PER,1,1
+Declaraciones del Teniente,PER,1,1
+Declaraciones del Teniente General Miláns del Bosch,PER,1,1
+Declaración de los Coroneles de la Guardia Civil Villanueva,PER,1,1
+Declaración del Cabo,PER,1,1
+Declaración del Capitán de la G.C. Torres Villar,PER,1,1
+Declaración del Comandante,PER,1,1
+Declaración del Comité Ejecutivo,PER,1,1
+Declaración del Conductor,PER,1,1
+Declaración del Contralmirante Ingeniero de la Armada,PER,1,1
+Declaración del Coronel GOMEZ,PER,1,1
+Declaración del Cte,PER,1,1
+Declaración del General ARAMBURU,PER,1,1
+Declaración del Gobernador Civil de Madrid,PER,1,1
+Declaración del Juez Municipal Sr. Sierra Muñiz: El Cte,PER,1,1
+Declaración del Sargento Rando Parra,PER,1,1
+Declaración del Teniente Coronel AGUILAR,PER,1,1
+Decreto,PER,1,1
+Defender,LOC,1,1
+Defensa del Capitán Batista,LOC,1,1
+Defensa del Cte,PER,1,1
+Defensas,LOC,1,1
+Defensor,LOC,1,1
+Defensor del Comandante Pardo,LOC,1,1
+Defensor del Teniente General Exomo,LOC,1,1
+Definición,PER,1,1
+Dehesa,LOC,1,1
+Del Comandante Pardo,PER,1,1
+Del Coronel,LOC,1,1
+Del Pozo Pérez,PER,1,1
+Democracia y la Libertad van unidas,ORG,1,1
+Demokratien Europas,ORG,1,1
+Denegación,PER,1,1
+Denegada,PER,1,1
+Departamento de Anuario,LOC,1,1
+Departamento de Estado,ORG,1,1
+Dependía del Capitán Abad,PER,1,1
+Depuración,PER,1,1
+Der König,PER,1,1
+Der Spiegel,ORG,1,1
+Derecho,LOC,1,1
+Derecho de Petición,LOC,1,1
+Desarri,PER,1,1
+Desarrolla,LOC,1,1
+Desconoce,PER,1,1
+Desembarcó,PER,1,1
+Designación,PER,1,1
+Despachó,PER,1,1
+Después,ORG,1,1
+Después del Sepelio,PER,1,1
+Destacó,PER,1,1
+Destituyó,PER,1,1
+Detención,LOC,1,1
+Dices,PER,1,1
+Dicho Oficial,PER,1,1
+Diciendola,ORG,1,1
+Diego de León,PER,1,1
+Diga,PER,1,1
+Digamé,PER,1,1
+Dijo,PER,1,1
+Diligencia,LOC,1,1
+Diligencia,PER,1,1
+Dimas Sanz López,PER,1,1
+Dime Pedro,PER,1,1
+Diputado,PER,1,1
+Dirección General,PER,1,1
+Dirección General SIGC,ORG,1,1
+Dirección General de Europa Expedido,PER,1,1
+Dirección General de Transportes,ORG,1,1
+Dirección Gral. de la Guardia Civil,PER,1,1
+Director General,ORG,1,1
+Director General de la GC,ORG,1,1
+Dirigida,PER,1,1
+Discrepa,LOC,1,1
+Disponía,LOC,1,1
+Disso,ORG,1,1
+Distrito Universitario,LOC,1,1
+Distrito Universitario de Madrid,LOC,1,1
+Divaga,LOC,1,1
+División Acorazada Brunete,ORG,1,1
+Docentes,PER,1,1
+Domicilio Social,PER,1,1
+Domingo García Sabel,PER,1,1
+Don CARLOS GUERRERO,LOC,1,1
+Don DIEGO CAMACHO,ORG,1,1
+Don Felipe González,PER,1,1
+Dopico,PER,1,1
+Dr David Clark,PER,1,1
+Dr Edmund Marshall |,PER,1,1
+Dr J. Dickson Mabon,PER,1,1
+Dr Jeremy Bray | Mr Leo Abse | Mr Ted Rowlands,PER,1,1
+Dr M. S. Miller |,PER,1,1
+Dr. G,PER,1,1
+Dr. Guillermo Estevez Boero,PER,1,1
+Dr. Joaquim Manuel Pinheiro Caldeira,PER,1,1
+Duró,LOC,1,1
+Día 10.- Concentraciones,ORG,1,1
+Día 4-9.- Conferencias,LOC,1,1
+Día 8.- Cortes,ORG,1,1
+Díaz Alegria,PER,1,1
+E. Complemento,PER,1,1
+E. E. Y T. E,PER,1,1
+E. RECIBIDAS A,ORG,1,1
+E. ROMERO,PER,1,1
+E.E.M,ORG,1,1
+E.M. 1a Región Militar,LOC,1,1
+E.M. de la,LOC,1,1
+E.M. del JEME,LOC,1,1
+E.M.F,ORG,1,1
+E.P.K,ORG,1,1
+EASIER,ORG,1,1
+EAp Eng,LOC,1,1
+EE.UU,LOC,1,1
+EFE).-Acuden,LOC,1,1
+EFFECTS,ORG,1,1
+EFFECTUAN,ORG,1,1
+EJERCITO DESPIERTA,PER,1,1
+EJERCITO Núm,PER,1,1
+EL DE,ORG,1,1
+EL MILITAR,ORG,1,1
+ELASIV,ORG,1,1
+ELECTRÓNICA,ORG,1,1
+ELEMENTOS,ORG,1,1
+ELEVANDO SU LIDERAZGO,LOC,1,1
+ELLO SUPONE,ORG,1,1
+ELVAS,ORG,1,1
+EMBAJADOR PARSONS,ORG,1,1
+ENLACES,ORG,1,1
+ENRIQUE MUGICA,PER,1,1
+ENTRE TANTO,ORG,1,1
+ENTREGADA BREVEDAD,ORG,1,1
+ENTREGARAN,ORG,1,1
+ENTREGARLAS,ORG,1,1
+ENVIADA,ORG,1,1
+ENVIO A,ORG,1,1
+EQUIPE A,ORG,1,1
+ES NORMAL,ORG,1,1
+ESCANDELL,ORG,1,1
+ESCORIAL,ORG,1,1
+ESCRITO PROMOVIDO,ORG,1,1
+ESFUERZOS,LOC,1,1
+ESPARZA,ORG,1,1
+ESPAÑOL,LOC,1,1
+ESPOSA,ORG,1,1
+ESQUERRA,ORG,1,1
+ESTA ZONA,ORG,1,1
+ESTADO,ORG,1,1
+ESTADO MAYOR,ORG,1,1
+ESTADO MAYOR DEL,LOC,1,1
+ESTADOS UNIDOS,LOC,1,1
+ESTAMOS,ORG,1,1
+ESTAN,ORG,1,1
+ESTARÁ,ORG,1,1
+ESTEBAN,ORG,1,1
+ESTIMA,ORG,1,1
+ESTOY,ORG,1,1
+ESTRATEGIA,PER,1,1
+ESTÁ DURMIENDO,PER,1,1
+EUROPA,LOC,1,1
+EUROPA Expedido,LOC,1,1
+EVENTUALIDAD,ORG,1,1
+EXCELENTISIMO SEÑOR,ORG,1,1
+EXIJAMOS,ORG,1,1
+EXISTIEN,ORG,1,1
+EXPLOSIVOS RIO TINTO,PER,1,1
+EXPONEN,ORG,1,1
+EXPONTANEOS,ORG,1,1
+EXTENSIÓN,ORG,1,1
+EXTERIOR A,ORG,1,1
+EXTERIOR PREGUNTANADO,ORG,1,1
+EXTERIORES.- M A D R I D,ORG,1,1
+Económicas,LOC,1,1
+Edificio Rio-Sol,LOC,1,1
+Edifund,LOC,1,1
+Edmundo Alfaro,PER,1,1
+Eduardo Adsuara,PER,1,1
+Eduardo Peña Abizanda,PER,1,1
+Efectuar,ORG,1,1
+Ejecutó,PER,1,1
+Ejercer,PER,1,1
+Ejército Republicano,LOC,1,1
+Ejército Rojo,PER,1,1
+Ejército de Tierra,LOC,1,1
+Ejército de los Estados Unidos,LOC,1,1
+Ejército del Coronel IBAÑEZ INGLES,LOC,1,1
+Ejército del Fuera,LOC,1,1
+El 24-F,LOC,1,1
+El Ayuntamiento de ALCALA,LOC,1,1
+El Canciller,PER,1,1
+El Capitán Acera,ORG,1,1
+El Capitán Cid,LOC,1,1
+El Capitán G. Iglesias,LOC,1,1
+El Capitán Horrillos? B,ORG,1,1
+El Capitán Merlo,LOC,1,1
+El Capitán TAMARIT,LOC,1,1
+El Capitán de Navío Menéndez,LOC,1,1
+El Capitán de la GC,LOC,1,1
+El Capitán de la GC Sánchez Valiente,LOC,1,1
+El Capitán de la Guardia Civil,LOC,1,1
+El Capitán de la Guardia Civil Bobis,LOC,1,1
+El Comandante,LOC,1,1
+El Comandante Ostos,ORG,1,1
+El Comandante PARDO,PER,1,1
+El Comandante de la Guardia Civil Pardos Aldea,LOC,1,1
+El Coronel,LOC,1,1
+El Corte Español,ORG,1,1
+El Cte,LOC,1,1
+El Código,LOC,1,1
+El Defensor,PER,1,1
+El Escorial,LOC,1,1
+El Ferrol,LOC,1,1
+El General Alvarado,LOC,1,1
+El General Aramada,ORG,1,1
+El General Aramburu,ORG,1,1
+El General Aramburu,PER,1,1
+El General Caruana,ORG,1,1
+El General Director,ORG,1,1
+El General Farré,PER,1,1
+El General de División Vallespín,LOC,1,1
+El Gobierno Calvo Sotelo,PER,1,1
+El Gral. Aramburu,PER,1,1
+El Gral. Prieto,PER,1,1
+El Ilmo,PER,1,1
+El Jefe del Estado Mayor,ORG,1,1
+El M.C.A,LOC,1,1
+El Ministerio,LOC,1,1
+El Ministro del Interior,LOC,1,1
+El Movimiento Comunista,ORG,1,1
+El Presidente,LOC,1,1
+El Presidente consideró impropio,LOC,1,1
+El Presidente del Gobierno,PER,1,1
+El Presidente del Tribunal,PER,1,1
+El Regimiento,LOC,1,1
+El Secretario General.- Firmado,LOC,1,1
+El Sr. Hermosilla,PER,1,1
+El Sr. de,PER,1,1
+El Tcol,LOC,1,1
+El Telex de S.M,PER,1,1
+El Teniente Coronel Monzón,LOC,1,1
+El Teniente Coronel Más,LOC,1,1
+El Teniente Coronel Orozco,LOC,1,1
+El Teniente Coronel Pardo,LOC,1,1
+El Teniente Coronel TEJERO,LOC,1,1
+El Teniente General Gabeiras,LOC,1,1
+El Teniente General MILANS,LOC,1,1
+El Teniente General Milans,LOC,1,1
+Elgar de Inmaculada,PER,1,1
+Elisabeth Lacko,PER,1,1
+Elizaga,LOC,1,1
+Ello,PER,1,1
+Ellos,PER,1,1
+Elsa Pillar,PER,1,1
+Elícegui,LOC,1,1
+Embaixada de Espanha,LOC,1,1
+Embarques,LOC,1,1
+Emiliano Alfaro,PER,1,1
+Emilio,PER,1,1
+Emilio Alonso Manglano,PER,1,1
+Emilio Alonso Manglano Director del,PER,1,1
+Emilio Bonelli,PER,1,1
+Emilio Bonelli Otero,PER,1,1
+Emilio Manglaro,PER,1,1
+Emiratos Árabes,LOC,1,1
+Empiezan,PER,1,1
+Empleos,PER,1,1
+Empresa PIHER,LOC,1,1
+Empresas de Barcelona,LOC,1,1
+Empresas del Bajo Llobregat.- Paro,LOC,1,1
+Encluye,LOC,1,1
+Enero,PER,1,1
+Enfrentamiento Fiscal-Defensor,PER,1,1
+Enrique BOBIS GONZALEZ,PER,1,1
+Enrique Pérez-Hernández,PER,1,1
+Enseña Nacional,ORG,1,1
+Entidades,LOC,1,1
+Entiende,LOC,1,1
+Entienden,PER,1,1
+Entra S.M. EL REY,PER,1,1
+Entrando,PER,1,1
+Entre 23-F,ORG,1,1
+Entrevista Armada-Tejero,PER,1,1
+Ereignisse meine große Bewunderung,PER,1,1
+Es Su Majestad,PER,1,1
+Escala Activa,PER,1,1
+Escaldell,ORG,1,1
+Escandinavia,LOC,1,1
+Escorial,LOC,1,1
+Escribió,LOC,1,1
+Escuadrones,PER,1,1
+Escuchó,PER,1,1
+Escuela,ORG,1,1
+Escuela Militar de Montaña,ORG,1,1
+Escuela Naval,ORG,1,1
+Escuela de E.M,ORG,1,1
+Escúchame,ORG,1,1
+España El Ministerio de Relaciones Exteriores URGENTE NORTEAMERICA.-EUROPA,ORG,1,1
+España de Mis Generales,PER,1,1
+Esquema,LOC,1,1
+Esquivel,LOC,1,1
+Esrónelma,LOC,1,1
+Esta Ley,LOC,1,1
+Estaciona,LOC,1,1
+Estado Mayor de Capitanía,LOC,1,1
+Estado Subj,LOC,1,1
+Estado allí,LOC,1,1
+Estado de Derecho,LOC,1,1
+Estado de Necesidad,LOC,1,1
+Estado de los Estados Unidos,LOC,1,1
+Estado de opinión de las sentencias,LOC,1,1
+Estado del 23-F,LOC,1,1
+Estado para Asuntos de,LOC,1,1
+Estado solidariamente,LOC,1,1
+Estais,PER,1,1
+Estancia,LOC,1,1
+Estará,PER,1,1
+Estaría el Ejército,LOC,1,1
+Estate,PER,1,1
+Este Personal,LOC,1,1
+Este Servicio de Información,PER,1,1
+Estepona,LOC,1,1
+Estimó,LOC,1,1
+Estoy,LOC,1,1
+Estoy,PER,1,1
+Estuve,PER,1,1
+Está,LOC,1,1
+Están,LOC,1,1
+Europa Press,LOC,1,1
+Europa Press,ORG,1,1
+Euskadi,LOC,1,1
+Eustaquio Galan,PER,1,1
+Evalizar,LOC,1,1
+Evitación,PER,1,1
+Exacto,ORG,1,1
+Examina,ORG,1,1
+Examinado,LOC,1,1
+Excmo,LOC,1,1
+Excmos,LOC,1,1
+Exhibición,PER,1,1
+Exmo Senhor Consul de Espanha Avenida Conde Cantanhede,PER,1,1
+Exomos,LOC,1,1
+Expedido,PER,1,1
+Explicó,PER,1,1
+Expresa,PER,1,1
+Exterior,ORG,1,1
+F. Castaño,PER,1,1
+F. Excmo,ORG,1,1
+F. Gómez de Salazar,PER,1,1
+F. Según R,PER,1,1
+F. Vostras,ORG,1,1
+F. comió,ORG,1,1
+F. de Santiado,PER,1,1
+F.S.E,ORG,1,1
+F.de Santiago,LOC,1,1
+FALANGE ESPAÑOLA AUTENTICA,ORG,1,1
+FE de las JONS,ORG,1,1
+FEB 1980 P,ORG,1,1
+FEBRERO,ORG,1,1
+FECHA ENTRADA N/Rat SA/8372/22.05.81 S/Ref,ORG,1,1
+FEJONS,LOC,1,1
+FERNANDEZ,ORG,1,1
+FERNANDEZ CAMPO,PER,1,1
+FERNANDEZ CAMPOS,PER,1,1
+FERNANDO ARENAS,PER,1,1
+FEVEREIRO,ORG,1,1
+FIRMO HE ORDENADO,ORG,1,1
+FISCAL,ORG,1,1
+FOLLOWING A,LOC,1,1
+FORMACION,ORG,1,1
+FORMULA,ORG,1,1
+FORTEA Capitán de Infra,LOC,1,1
+FRAGA,ORG,1,1
+FRENTE A,ORG,1,1
+FUERZA NUEVA,ORG,1,1
+Facultad de Biológicas,LOC,1,1
+Facultad de Ciencias de Información de Madrid,LOC,1,1
+Facultad de Ciencias de la Información,LOC,1,1
+Facultad de Económicas,LOC,1,1
+Facultad de Historias,LOC,1,1
+Facultad de Veterinaria,LOC,1,1
+Facultades de Filología,PER,1,1
+Falta,PER,1,1
+Farmacia Militar de Aviación,ORG,1,1
+Farnesio,PER,1,1
+Fde.1 Auxilio Cabrero Montoro,PER,1,1
+Fe N/Ref,ORG,1,1
+Fe del Re,PER,1,1
+Fecha 25.2.81 VALORACION: S. Núm,ORG,1,1
+Federación Local de Madrid,ORG,1,1
+Federico Gómez de Salazar,PER,1,1
+Felange Española Autentica,PER,1,1
+Felicitación C.G.T.U. Excmo,ORG,1,1
+Felipe Gonz'alez,PER,1,1
+Felipe González,PER,1,1
+Felipe IV,PER,1,1
+Felizmente,PER,1,1
+Fellipe de la Morena,PER,1,1
+Fermín Galan,PER,1,1
+Fernandez Campos,PER,1,1
+Fernando Ortiz Call,PER,1,1
+Fernando Pardo de Santallana,PER,1,1
+Fernando Rodríguez Ventosa,PER,1,1
+Fernando Sancho Garcia,PER,1,1
+Fernando Sanz Esteban.- Regimiento,PER,1,1
+Fernando el Santo 16,PER,1,1
+Fernanflor,PER,1,1
+Fernández Pérez,PER,1,1
+Ferrocarril Metropolitano.-- Paros,LOC,1,1
+Fidel Castro Ruz Presidente del,PER,1,1
+Filiaciones,PER,1,1
+Filial ORIT,ORG,1,1
+Filología,LOC,1,1
+Filosofía B,LOC,1,1
+Finaliza,ORG,1,1
+Fincas,LOC,1,1
+Firmado,PER,1,1
+Fiscal/,LOC,1,1
+Fluo de Don,PER,1,1
+Formación,PER,1,1
+Forme,PER,1,1
+Formó,PER,1,1
+Forte,PER,1,1
+Fractura,PER,1,1
+Fraga VIABILIDAD → Escasas,PER,1,1
+Francisco Javier Dusmets García-Fiqueras,PER,1,1
+Francisco Laína García,PER,1,1
+Francisco Leina García,PER,1,1
+Fregas,PER,1,1
+Fuentes,PER,1,1
+Fuentes G. de Salazar,PER,1,1
+Fuentes Gómez,PER,1,1
+Fuera Guardias Civiles de las Cortes,ORG,1,1
+Fuerza Joven,ORG,1,1
+Fuerza Nacional,ORG,1,1
+Fuerza Nueva,PER,1,1
+Fuerza de la Guardia Civil,ORG,1,1
+Fuerza del Cuerpo,ORG,1,1
+Fuerzas 111a Comandancia,ORG,1,1
+Fuerzas Armadas al Rey,ORG,1,1
+Fuerzas Armas,ORG,1,1
+Fuerzas Guardia Civil,ORG,1,1
+Fuerzas Nacionales,ORG,1,1
+Fuerzas bajo,ORG,1,1
+Fuerzas de Orden Público,ORG,1,1
+Fuerzas de Seguridad,ORG,1,1
+Fuerzas de la Guardia Civil,ORG,1,1
+Fuerzas del interior del Congreso tenía,ORG,1,1
+Funcionarios,ORG,1,1
+Félix Porras Blanco,PER,1,1
+Führer,LOC,1,1
+G. A. C. M. DIRECTOR GENERAL CUERPO,LOC,1,1
+G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G,PER,1,1
+G. Mellado,PER,1,1
+G.C. Boza Carranco,ORG,1,1
+G.C. Bueno,PER,1,1
+G.C. De Madrid,LOC,1,1
+G.C. Don RAFAEL MONGE,LOC,1,1
+G.C. Pues,PER,1,1
+G.C. Quiero,PER,1,1
+G.C. Suerte,LOC,1,1
+G.C. ¿Lo entiendes?,ORG,1,1
+G.C. ¿Qué,ORG,1,1
+G.C. ¿Sabes,PER,1,1
+GABEIRA,ORG,1,1
+GABEIRAS,PER,1,1
+GALEGA,ORG,1,1
+GARANTICEN,ORG,1,1
+GARCIA CASTRO,PER,1,1
+GC Ramos,ORG,1,1
+GENERAL D. JAIME MILANS DEL,PER,1,1
+GETAFE,LOC,1,1
+GOBIERNO Registro General ENTRADA,ORG,1,1
+GOBIERNO YA,ORG,1,1
+GOLPE FASCISTA,ORG,1,1
+GOLPE MILITAR FASCISTA,ORG,1,1
+GRABAR,ORG,1,1
+GRANADA,ORG,1,1
+GRANADA Irregularidades,ORG,1,1
+GRANADA Normalidad,ORG,1,1
+GRANADA.- id.- Gobernador Civil de la Provincia,ORG,1,1
+GRINON,ORG,1,1
+GUARDIA CIVIL CENTRO,ORG,1,1
+GUARDIA CIVIL S. ZONA,ORG,1,1
+GUARDIA PREGUNTANDO,ORG,1,1
+Gabinete,LOC,1,1
+Gabinete Señor Ministro,PER,1,1
+Gabriel Cisneros,PER,1,1
+Gaceta Aerocopia,LOC,1,1
+Galicia,LOC,1,1
+Garaicoechea,LOC,1,1
+García,LOC,1,1
+García Almenta,LOC,1,1
+García Carres,PER,1,1
+García Carres negó,PER,1,1
+García Hernández,PER,1,1
+Geberales,PER,1,1
+General ARAMBURU,PER,1,1
+General ARMADA: No,ORG,1,1
+General Aramburu al Hotel,PER,1,1
+General Armada,LOC,1,1
+General Armada- del Teniente General Miláns del Bosch,LOC,1,1
+General Barcín,PER,1,1
+General Cabrera,ORG,1,1
+General Castro San Martín,PER,1,1
+General Consejero Togado Instructor de la Causa,PER,1,1
+General D. Jaime Milans del Bosch,PER,1,1
+General DON IGNACIO,PER,1,1
+General De Santiago,LOC,1,1
+General Dueñas,PER,1,1
+General Esquivias,ORG,1,1
+General Esquivias,PER,1,1
+General Excmo,ORG,1,1
+General FERNANDEZ,PER,1,1
+General FERNANDEZ CAMPOS,PER,1,1
+General Gabeiras,LOC,1,1
+General Jefe E,PER,1,1
+General Jefe E. M. Se,PER,1,1
+General Jefe E. N. 5678 S,PER,1,1
+General Jefe del Estado Mayor del Ejército,ORG,1,1
+General Jole B. M,PER,1,1
+General Juste?,PER,1,1
+General Jutares,PER,1,1
+General MILANS DEL BOSCH,LOC,1,1
+General MILANS DEL BOSCH,PER,1,1
+General Milan del Bosch,PER,1,1
+General Milana del Bosch,LOC,1,1
+General Milans,LOC,1,1
+General Milans,ORG,1,1
+General Milans del Bosch,ORG,1,1
+General Milans del Bosch,PER,1,1
+General Miláns del Bosch,PER,1,1
+General Orozco,PER,1,1
+General Ortiz,PER,1,1
+General Pascual,PER,1,1
+General Pascual Galmes,PER,1,1
+General Pontijas,PER,1,1
+General Pérez Iñigo,PER,1,1
+General Quintana,PER,1,1
+General Rodrigo,PER,1,1
+General Saenz de Tejada,PER,1,1
+General Saez,LOC,1,1
+General Sáenz,PER,1,1
+General Tequero,PER,1,1
+General Torres Rojas).- El General Juste,LOC,1,1
+General Urrutia,PER,1,1
+General Ventosa,PER,1,1
+General YUSTI VAZQUEZ,ORG,1,1
+General Yusti,LOC,1,1
+General de División,LOC,1,1
+General de División ARMADA,PER,1,1
+General de División Alvarado,LOC,1,1
+General de División Don,PER,1,1
+General de División Jefe de la División Acorazada,PER,1,1
+General de División TORRES,PER,1,1
+General de E. M. Se,LOC,1,1
+General de Intendencia,LOC,1,1
+Generales ARNAIZ,PER,1,1
+Generales Aramburu,PER,1,1
+Generales Armada y Milans,PER,1,1
+Generales Miláns del Bosch,PER,1,1
+Generales Prieto,PER,1,1
+Geografía,LOC,1,1
+Georges Bush,PER,1,1
+Gerrilleros de Cristo Rey,ORG,1,1
+Gestoras,LOC,1,1
+Gestoras Pro-Amnistía,LOC,1,1
+Getafe,LOC,1,1
+Gibert,LOC,1,1
+Gibert Crespo,PER,1,1
+Giorgio Almirante,PER,1,1
+Gobernador Militar,ORG,1,1
+Gobernador Militar de Madrid,ORG,1,1
+Gobernadores,LOC,1,1
+Gobernadores Civiles,PER,1,1
+Gobier,PER,1,1
+Gobierno Civil,LOC,1,1
+Gobierno Civil,ORG,1,1
+Gobierno Civil de,ORG,1,1
+Gobierno Militar de Lérida,ORG,1,1
+Gobierno Militar de Madrid,LOC,1,1
+Gobierno Militar de Madrid,ORG,1,1
+Gobierno Mixtes,ORG,1,1
+Gobierno de Concentración Nacional,ORG,1,1
+Gobierno de U.C.D. del 23-F,ORG,1,1
+Gobierno español,LOC,1,1
+Golpe Constitucional,ORG,1,1
+Golpe Militar,ORG,1,1
+Golpe Respecto,ORG,1,1
+Golpe militar,ORG,1,1
+Goróstegui,LOC,1,1
+Goya,PER,1,1
+Graciano,PER,1,1
+Grado,LOC,1,1
+Graiós,PER,1,1
+Gral Armada,PER,1,1
+Gral Gabeiras,PER,1,1
+Gral. A. Van a la Central,LOC,1,1
+Gral. ARMADA,ORG,1,1
+Gral. Cabeza,PER,1,1
+Gral. Calahorra,PER,1,1
+Gral. Castro San Martín,LOC,1,1
+Gral. Castro San Martín,PER,1,1
+Gral. Esquivias,PER,1,1
+Gral. Fernandez Campos,PER,1,1
+Gral. Fernández Campos,PER,1,1
+Gral. Flores,PER,1,1
+Gral. Gómez de Salazar,PER,1,1
+Gral. Hermosilla,PER,1,1
+Gral. Juste,PER,1,1
+Gral. MILANS la,PER,1,1
+Gral. Milans del Boch,PER,1,1
+Gral. Milans del Bosch,PER,1,1
+Gral. PONTIJAS,PER,1,1
+Gral. Pascual Galmes,PER,1,1
+Gral. Pastrana,PER,1,1
+Gral. Saenz,PER,1,1
+Gral. Subdiv,PER,1,1
+Gral. Sáenz,PER,1,1
+Gral. Urrutia,PER,1,1
+Gral. YUSTI,PER,1,1
+Gral. de División,PER,1,1
+Gral. de la Región,PER,1,1
+Grales,LOC,1,1
+Grandes,PER,1,1
+Granma,LOC,1,1
+Grot,PER,1,1
+Grund Ihrer Äußerungen,PER,1,1
+Grupo,ORG,1,1
+Grupo B,ORG,1,1
+Grupo Operativo de la Guardia Civil,ORG,1,1
+Grupo Servicios Especiales,ORG,1,1
+Grupo Servicios Especiales./ Gente de Tráfico,ORG,1,1
+Grupo Servicios Especiales/. Hay,ORG,1,1
+Grupo Servicios Especiales/. Km,ORG,1,1
+Grupo Servicios Especiales/. Son,ORG,1,1
+Grupo de,ORG,1,1
+Grupos Anarquistas,ORG,1,1
+Guar,PER,1,1
+Guardia Alvárez Sola,ORG,1,1
+Guardia Civil Abad,ORG,1,1
+Guardia Civil Abad Gutierrez,ORG,1,1
+Guardia Civil Carranza Espinal,ORG,1,1
+Guardia Civil Corricondo,ORG,1,1
+Guardia Civil D. CESAR ALVAREZ-FERNANDEZ,ORG,1,1
+Guardia Civil D. SANTIAGO,ORG,1,1
+Guardia Civil Don FRANCISCO,ORG,1,1
+Guardia Civil Don JESUS ALONSO HERNAIZ,ORG,1,1
+Guardia Civil Don JOSE,ORG,1,1
+Guardia Civil Don SANTIAGO,ORG,1,1
+Guardia Civil Don VICENTE CARRICONDO,ORG,1,1
+Guardia Civil Don VICENTE RAMOS RUEDA,ORG,1,1
+Guardia Civil García,ORG,1,1
+Guardia Civil José Gutierrez de la Rosa,ORG,1,1
+Guardia Civil Monge Segura,ORG,1,1
+Guardia Civil NÚÑEZ,ORG,1,1
+Guardia Civil Piriz González,ORG,1,1
+Guardia Civil Prieto,ORG,1,1
+Guardia Civil Pérez de la Lastra,ORG,1,1
+Guardia Civil de,ORG,1,1
+Guardia Civil de Málaga,ORG,1,1
+Guardia Civil señor Tejero,ORG,1,1
+Guardia civil,ORG,1,1
+Guardia llegó,PER,1,1
+Guardias 2os,ORG,1,1
+Guardias de los autobuses,ORG,1,1
+Guardino Civiles,PER,1,1
+Guillen,LOC,1,1
+Guillermo Estevez Boero Sec,PER,1,1
+Guillermo José Salva Paradela,PER,1,1
+Guillermo Salva Paradela,PER,1,1
+Guipúzcoa,LOC,1,1
+Gutierrez Mellado,PER,1,1
+Gómez,PER,1,1
+Gómez Iglésias,PER,1,1
+Gómez de Salazar,PER,1,1
+Gómez-Iglesias,LOC,1,1
+H.Q. H. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. N. S.N.T.O,PER,1,1
+HA CIRCULADO,ORG,1,1
+HA IBO,ORG,1,1
+HA ORDENADO A DETERMINADO,ORG,1,1
+HA RECIBIDO,ORG,1,1
+HABIENCOSE PASADO RECUENTO AQUAMENTO,ORG,1,1
+HACE UN LLAMAMIENTO A,ORG,1,1
+HACERSE,ORG,1,1
+HALCON,ORG,1,1
+HAN PARADO,ORG,1,1
+HAPPENED IS,ORG,1,1
+HARTA RESPONDIDO A,ORG,1,1
+HASTA,ORG,1,1
+HOSPITALISTAS DE LLOBREGAT,LOC,1,1
+HUMAN RIGHTS ISSUES IN LATIN AMERICA,ORG,1,1
+Habla,PER,1,1
+Habla MILANS,ORG,1,1
+Habla SABINO,ORG,1,1
+Hablar,ORG,1,1
+Había Policía Nacional,PER,1,1
+Hacia,LOC,1,1
+Hacia,ORG,1,1
+Haig,PER,1,1
+Hans-Dietrich Genscher Bundesminister des Auswärtigen der Bundesrepublik Deutschland,PER,1,1
+Hans-Dietrich Genscher Ministro Federal de Asuntos Exteriores,PER,1,1
+Helmut Smith,PER,1,1
+Heraldo,PER,1,1
+Heraldo Español,PER,1,1
+Herminia,LOC,1,1
+Hernández Griñó,PER,1,1
+Herrero de Minón,PER,1,1
+His Excellency,PER,1,1
+His Excellency José Pedro Pérez-Llorca,PER,1,1
+His Majesty,PER,1,1
+Hispanoamérica,LOC,1,1
+Hoja de Castigos,LOC,1,1
+Hoja de Servicio del Coronel Manchado,LOC,1,1
+Hoja de Servicios,LOC,1,1
+Hoja de Servicios del Cte,LOC,1,1
+Hojas,LOC,1,1
+Hola John,PER,1,1
+Honor,PER,1,1
+Honorífico Orozco,PER,1,1
+Hora Zulú,PER,1,1
+Hospital,LOC,1,1
+Hospital Militar Gómez Ulla,LOC,1,1
+Hospital Psiquiátrico de Nuestra Señora de la Purificación,LOC,1,1
+Hotel,PER,1,1
+Hotel Corona de Aragón,LOC,1,1
+Hotel Cuzco,LOC,1,1
+Hotel Palace,PER,1,1
+Hotel Palace/11 Guardias,LOC,1,1
+Hotel de la Universidad de la República del Congreso,LOC,1,1
+Huelva,LOC,1,1
+I Región Militar,ORG,1,1
+IDEAL de Granada,LOC,1,1
+IDEOLOGIA,PER,1,1
+IDEROAMERICA,ORG,1,1
+ILEGALIDADES,ORG,1,1
+IMAGEN,ORG,1,1
+IMAGEN MILITAR,ORG,1,1
+IMPLIQUE,ORG,1,1
+IN A SPEECH AT OXFORD,ORG,1,1
+IN MILITARY CIRCLES,ORG,1,1
+INDIGNATION,ORG,1,1
+INDSCRECCIONES,ORG,1,1
+INDULTO A,ORG,1,1
+INESTRILLAS,ORG,1,1
+INFORMACION,LOC,1,1
+INFORMANDO A,ORG,1,1
+INFORMAR,ORG,1,1
+INFORMO A,LOC,1,1
+INICIAL CULABLES,ORG,1,1
+INSPIRAN A NUESTRA SOCIEDAD,ORG,1,1
+INSTITUTO,ORG,1,1
+INSTRUCTOR DE LA CAUSA No,LOC,1,1
+INTEGRAR,ORG,1,1
+INTENSITIVE,ORG,1,1
+INTIMIDACION,ORG,1,1
+INVOLUCION A,ORG,1,1
+IV Región Militar,ORG,1,1
+IV.-Concretamente,PER,1,1
+Ibañez Navarro,PER,1,1
+Iberia,ORG,1,1
+Iberoamérica,LOC,1,1
+Idem,PER,1,1
+Iglesia,ORG,1,1
+Iglesias,LOC,1,1
+Iglesias,PER,1,1
+Ignacio Alfaro Arregui,PER,1,1
+Ignora,LOC,1,1
+Ignoraba,PER,1,1
+Ihnen,LOC,1,1
+Ihnen,ORG,1,1
+Ihnen aus Anlaß der,PER,1,1
+Ihns Sr. Don,PER,1,1
+Ihre Haltung,LOC,1,1
+Ihren historischen Befehl,PER,1,1
+Ilmos Sres,PER,1,1
+Imagínate,LOC,1,1
+Imprenta-Esquela H. Guardia Civil Mod,PER,1,1
+Impulso,PER,1,1
+Incluso el Fiscal,PER,1,1
+Incluyen,PER,1,1
+Incremento,ORG,1,1
+Indagatoria,LOC,1,1
+Infanteria,LOC,1,1
+Infantería,LOC,1,1
+Infantería D. Carlos ALVAREZ ARENAS,PER,1,1
+Infor,ORG,1,1
+Información Gobierno Militar de,ORG,1,1
+Informe,ORG,1,1
+Ing. DEM,PER,1,1
+Ingenieros,ORG,1,1
+Inspector General,PER,1,1
+Institución,LOC,1,1
+Institución Militar,LOC,1,1
+Institutionen des Staates,ORG,1,1
+Institutos,LOC,1,1
+Integrantes,PER,1,1
+Intendencia,LOC,1,1
+Intensificar,PER,1,1
+Intermédic,LOC,1,1
+Interpretaciones,PER,1,1
+Interpretan,LOC,1,1
+Interprete,PER,1,1
+Interregatario del Fiscal,PER,1,1
+Interrogatorio,LOC,1,1
+Interrogatorio de los Srs,LOC,1,1
+Interrogatorio del Capitán Alvarez Arenas,LOC,1,1
+Interrogatorio del Capitán de Intendencia Cid Fortea,LOC,1,1
+Interrogatorio del Capitán de la Guardia Civil Pérez de la Lastra,LOC,1,1
+Interrogatorio del Comandante Pardo,LOC,1,1
+Interrogatorio del Teniente,LOC,1,1
+Intervención Corona,PER,1,1
+Intervención del Capitán Caballero,PER,1,1
+Intervención del Comandante Pardos Aldea,LOC,1,1
+Intervención del Coronel ESCANDELL,LOC,1,1
+Intervención del General Alvarado,LOC,1,1
+Intervención del General Aramburu,LOC,1,1
+Intervención del General Dueñas Gavilán,PER,1,1
+Intervención del General Farré,PER,1,1
+Intervención del General Vallespín Morales,LOC,1,1
+Intervención del General de División CALZADA,LOC,1,1
+Intervención del Sr. Esquivel,LOC,1,1
+Intervención del Sr. García Villalonga,LOC,1,1
+Intervención del Sr. Gómez García,LOC,1,1
+Intervención del Sr. Novalvos,LOC,1,1
+Intervención del Sr. Ortiz Ortiz,LOC,1,1
+Intervención del Sr. Salva Paradela,LOC,1,1
+Intervención del Sr. Sánz López,LOC,1,1
+Intervención del Teniente General DE SANTIAGO,LOC,1,1
+Intervención del Teniente General Orozco,LOC,1,1
+Interviene el Sr. Escandell,PER,1,1
+Intervienen el Fiscal,PER,1,1
+Intervinieron,LOC,1,1
+Intervinieron,PER,1,1
+Interviú,PER,1,1
+Investigación Criminal,PER,1,1
+Invocando,LOC,1,1
+Irán,LOC,1,1
+Irún,LOC,1,1
+Isla de Menorca,LOC,1,1
+Islas Filipinas,LOC,1,1
+Izar,LOC,1,1
+Izquierdo Sánchez,PER,1,1
+Iñiguez,PER,1,1
+J. L. Cotterell,PER,1,1
+J. Marias,PER,1,1
+JA van al Hotel Palace,LOC,1,1
+JAOME,ORG,1,1
+JAVIER BLANCAFORT,ORG,1,1
+JEFE SEGUNDA ZONA A,ORG,1,1
+JEME llamó,LOC,1,1
+JORGE S. REMONDA-RUIBAL,PER,1,1
+JORNADAD JEFE ELI COMANDANDIA,ORG,1,1
+JOSE MARIA CARRASCAL,PER,1,1
+JUAN ANTONIO TEVAR GOMEZ,PER,1,1
+JUAN CARLOS,PER,1,1
+JUAN CARLOS I Facilitamos,PER,1,1
+JUAN JAURENES,PER,1,1
+JUEZ ESPECIAL -José María Garcia,ORG,1,1
+JUJEM,LOC,1,1
+JUNTA ORDEN PUBLICO A LA CUE,ORG,1,1
+JURIDICA,ORG,1,1
+JUSTE,ORG,1,1
+JUSTICIA MILITAR EXCMO,ORG,1,1
+JUSTICIA MILITAR EXCMO.SEÑOR: RELATORIA,ORG,1,1
+JUSTICIA MILITAR SER RAL CONSEJERO,ORG,1,1
+JUZGADO MILITAR ESPECIAL,ORG,1,1
+Jaca,LOC,1,1
+"Javier -- Pardo, Romero Ales",PER,1,1
+Jaén,LOC,1,1
+Jefatura,LOC,1,1
+Jefatura,PER,1,1
+Jefatura de Apoyo Logístico,LOC,1,1
+Jefatura de Estado Mayor del Cuerpo,LOC,1,1
+Jefatura de la División de Operaciones,LOC,1,1
+Jefatura del Estado,LOC,1,1
+Jefe E. M. Se,PER,1,1
+Jefe Nacional de Ventas,PER,1,1
+Jefe Rgto,LOC,1,1
+Jefe Rgto,PER,1,1
+Jefe de Estación,PER,1,1
+Jefe de Estado Mayor,PER,1,1
+Jefe de Gobierno,PER,1,1
+Jefe de la Acorazada,PER,1,1
+Jefe de la Agrupación,PER,1,1
+Jefe de la Agrupación de Tráfico,PER,1,1
+Jefe de la Guardia Civil,PER,1,1
+Jefe del,PER,1,1
+Jefe del Servicio de Derecho de Petición,PER,1,1
+Jefe del Servicio del Derecho de Petición,PER,1,1
+Jefes de Sección del E.M,ORG,1,1
+Jefes de U,PER,1,1
+Jefes de Unidad,ORG,1,1
+Jefes de la Guardia Civil Comandantes Villa Pascual,ORG,1,1
+Jefes de las Divisiones,ORG,1,1
+Jefes del CESID,ORG,1,1
+Jefes y Oficiales,PER,1,1
+Jefes y Oficiales del C. General,ORG,1,1
+Jefes y Oficiales del Cuartel General,ORG,1,1
+Jesus M. Paniaro,PER,1,1
+Jesús Marrieta,PER,1,1
+Jisejo Supremo de Justicia Militar,LOC,1,1
+John,PER,1,1
+Johny,PER,1,1
+Jordi Pujol,PER,1,1
+Jorge Dezcallar Excmo,PER,1,1
+Jose Antonio ASSIEGO,PER,1,1
+Jose Pedro Perez-Llorca NORTEAMERICA,PER,1,1
+José Alberto Zambrano,PER,1,1
+José Cabeiras Montero,PER,1,1
+José Faura,PER,1,1
+José Gabeiras Montero,PER,1,1
+José Gabriel Guma,PER,1,1
+José Pedro Pérez Llorca NORTEAMERICA,PER,1,1
+José Salva Paradela,PER,1,1
+José Zugasti Pellejero,PER,1,1
+Juan,PER,1,1
+Juan C. Villaviciosa,PER,1,1
+Juan Carlos I,PER,1,1
+Juan García Carres,PER,1,1
+Juan PEREZ DE LA LASTRA,PER,1,1
+Juan Pla,PER,1,1
+Juan Plá,PER,1,1
+Juan?,PER,1,1
+Juanillo,LOC,1,1
+Jubas Camarillo,LOC,1,1
+Juez,ORG,1,1
+Juez Especial,PER,1,1
+Juez Especial Consejero Togado García Escudero,ORG,1,1
+Juez Eventual,LOC,1,1
+Juez Togado Instructor,PER,1,1
+Juicio,ORG,1,1
+Julian Marias,PER,1,1
+Julio de 1980,ORG,1,1
+Julián Marías,PER,1,1
+Junio de 1981,PER,1,1
+Junta Civico-Militar,ORG,1,1
+Junta Jefes Estado Mayor,ORG,1,1
+Junta Superior,LOC,1,1
+Junta de Coordinación Informativa,PER,1,1
+Junta de Seguridad,ORG,1,1
+Jurisdicción Central de Marina,ORG,1,1
+Juste,PER,1,1
+Juste Fernández,PER,1,1
+Juste consideró,PER,1,1
+Juste mandó,PER,1,1
+Justicia Militar,ORG,1,1
+Justicia Militar A Gobierno,ORG,1,1
+Justifica,LOC,1,1
+Justifican,ORG,1,1
+Juventud Comunista de Madrid,ORG,1,1
+Juventudes Comunistas,PER,1,1
+Juventudes Comunistas Revolucionarias,PER,1,1
+Juz Instructor,PER,1,1
+K. K. K. An Seine Majestät König Juan Carlos I. von Spanien,PER,1,1
+K.A.S,ORG,1,1
+KING JUAN CARLOS AND THE,ORG,1,1
+L. No,PER,1,1
+LAS FABRICAS.-CONCENTRACIONES,ORG,1,1
+LASTRA Capitán de la G.C. D. CARLOS,ORG,1,1
+LCR-IV Internacional,ORG,1,1
+LEALTAD A,ORG,1,1
+LEGALIDAD,ORG,1,1
+LIQUIDACION,ORG,1,1
+LLAMA JAVIER GOMEZ SAN CRISTOBAL,ORG,1,1
+LLAMADA A,LOC,1,1
+LOCAR,ORG,1,1
+LONDRES,LOC,1,1
+LOS BARRIOS,LOC,1,1
+LOS MISMOS,ORG,1,1
+LOS PRECIOS,ORG,1,1
+LOS RECURSOS ES,ORG,1,1
+LOS SUDES,ORG,1,1
+LUCHA POPULAR CONTRA,ORG,1,1
+LUIS ABAD GUTIERREZ A Prisión Naval,PER,1,1
+LUIS CORTINA PRIETO,PER,1,1
+LUIS MARTIN,PER,1,1
+La Hipica,LOC,1,1
+La Junta,PER,1,1
+La Marina,PER,1,1
+La Reina,PER,1,1
+La Sala,PER,1,1
+La Sesión,LOC,1,1
+La Sociedad militar,ORG,1,1
+La Vista,LOC,1,1
+La Vista Pública,LOC,1,1
+Lacalle Leloup,PER,1,1
+Lainez,LOC,1,1
+Lamentable,PER,1,1
+Land Rover,ORG,1,1
+Land-Rover al Colegio de Guardias Jóvenes de VALDEMORO,ORG,1,1
+Landelino Lavilla,PER,1,1
+Landolino,PER,1,1
+Las Fuerzas,PER,1,1
+Las Provincias del 9,LOC,1,1
+Lastra,PER,1,1
+Latifundios,LOC,1,1
+Lawrence Eagleburger,PER,1,1
+Legislar,PER,1,1
+Letrado,LOC,1,1
+Letrado Exmo,LOC,1,1
+Letrado Sr. Sanz Arribas,PER,1,1
+Letrados,LOC,1,1
+Ley Antiterrorista,ORG,1,1
+Leyes,LOC,1,1
+León Pizarro,PER,1,1
+Libertades Fundamentales,LOC,1,1
+Lieber Kollege,ORG,1,1
+Liga Comunista Revolucionaria de los Trabajadores,ORG,1,1
+Lino Cortizo Presidente,PER,1,1
+Liñán,ORG,1,1
+Llama,PER,1,1
+Llamada de Capitanía General,PER,1,1
+Llamada del Alférez LOPEZ,LOC,1,1
+Llamamiento,ORG,1,1
+Llaman,PER,1,1
+Llamar a Balbín,PER,1,1
+Llamó,LOC,1,1
+Llega el 23-F,PER,1,1
+Llegan,PER,1,1
+Lleva,LOC,1,1
+Llevan,PER,1,1
+Llevó al Comandante Pardo,LOC,1,1
+Lloret de Mar,LOC,1,1
+Logra,PER,1,1
+London W10,PER,1,1
+Lope de Vega de Madrid,PER,1,1
+Los Generales,LOC,1,1
+Los Generales Gabeiras,ORG,1,1
+Los Gobernadores Civiles,ORG,1,1
+Los Guardias Civiles,ORG,1,1
+Los Inestrillos,LOC,1,1
+Los m.c.s,LOC,1,1
+Lothar Lahn,PER,1,1
+Lourdes,PER,1,1
+Lucia Canean Mates,PER,1,1
+Luis Alvarez Rodriguez,PER,1,1
+Luis Alvarez Rodríguez EXCMO.SEÑOR.MINISTRO DE DEFENSA,PER,1,1
+Luis Aramburu Topete,PER,1,1
+Luis Cano Portal,PER,1,1
+Luis Fernández Gutierrez,PER,1,1
+Luis Peralta España,PER,1,1
+Luis Sanz Arribas,PER,1,1
+Luis de Arana Lorite,PER,1,1
+Luis Álvarez,PER,1,1
+Lázaro,LOC,1,1
+Lázaro,PER,1,1
+López Cuadra,PER,1,1
+López Silva,LOC,1,1
+M. Villa,PER,1,1
+M1020-10283/5,PER,1,1
+MAIOR,ORG,1,1
+MALAGA,ORG,1,1
+MANDO,PER,1,1
+MANIFESTEN,ORG,1,1
+MANIPULACION,ORG,1,1
+MANTENER,ORG,1,1
+MANUEL FORNILLA,PER,1,1
+MANY OF WHICH ARE FORMER SPANISH COLONIES,ORG,1,1
+MARQUINA,ORG,1,1
+MAS ESTRICTO,ORG,1,1
+MAYORES,ORG,1,1
+MENECEN,ORG,1,1
+MENENDEZ,ORG,1,1
+MER SE,ORG,1,1
+MI NOMBRAMIENTO,PER,1,1
+MI PAIS,ORG,1,1
+MICROFILMACIQ,ORG,1,1
+MIGUEL,ORG,1,1
+MILANS,LOC,1,1
+MILANS,PER,1,1
+MILIAR,ORG,1,1
+MINISTRO Europa,LOC,1,1
+MISION,ORG,1,1
+MISMOS,ORG,1,1
+MODERNIZACION,ORG,1,1
+MODIFICACION,ORG,1,1
+MOMENTO NO,ORG,1,1
+MOMENTO SE TENGA,ORG,1,1
+MONTERA,ORG,1,1
+MOVILIZACION,ORG,1,1
+MOVIMIENTO,ORG,1,1
+MOVIMIENTO COMUNISTA DE ANDALUCIA,ORG,1,1
+MOVIMIENTO COMUNISTA DE ASTURIAS,ORG,1,1
+MOÇÃO,ORG,1,1
+MUERTE A LOS CULPABLES,ORG,1,1
+MULTIPLICAR,ORG,1,1
+MUNE A-5,PER,1,1
+MUNICIONAMIENTO,ORG,1,1
+MUNICIPAL F. M. de la Mesa,LOC,1,1
+Ma Asuntos Exteri,PER,1,1
+Ma Interior,PER,1,1
+Madrid León Valladolid,LOC,1,1
+Madrid ¿,LOC,1,1
+Magistra,LOC,1,1
+Magistrado de la Rota,LOC,1,1
+Maisterra,LOC,1,1
+Majestad,PER,1,1
+Majestad Juan Carlos I Rey de España,PER,1,1
+Majestät,LOC,1,1
+Malaga,LOC,1,1
+Mamá,PER,1,1
+Manchado,LOC,1,1
+Mando Superior,LOC,1,1
+Mando Supremo,LOC,1,1
+Mandos,LOC,1,1
+Manifestamento,PER,1,1
+Manifestar,LOC,1,1
+Manifiesto,PER,1,1
+Manifiestos,PER,1,1
+Mantener,PER,1,1
+Manuel Alonso Aquilar,PER,1,1
+Manuel Cervantes Rosell,PER,1,1
+Manuel González Lleras,PER,1,1
+Manuel Muller Hidalgo,PER,1,1
+Manuel Prieto López,PER,1,1
+Manuel Rui Azinhais Nabeiro Formato A,PER,1,1
+March,PER,1,1
+Maria Garcia,PER,1,1
+Mariano Cañas Barrera,PER,1,1
+Mariano Nicolas Garcia,PER,1,1
+Martín,PER,1,1
+Martín Prieto,PER,1,1
+Martínez García,PER,1,1
+Martínez Jiménez,PER,1,1
+Martínez de Merlo,PER,1,1
+María Fernández del Rio Fernández,LOC,1,1
+María García,PER,1,1
+Mascleta,LOC,1,1
+Mateo,PER,1,1
+Medidas,LOC,1,1
+Medinaceli,PER,1,1
+Meer,ORG,1,1
+Mencionó al Capitán General Miláns del Bosch,ORG,1,1
+Mendíbil,LOC,1,1
+Menor,PER,1,1
+Mensaje del Presidente Calvo Sotelo,PER,1,1
+Mensaje del Rey,LOC,1,1
+Mensajes,LOC,1,1
+Mercedes Coloma,PER,1,1
+Merino,PER,1,1
+Merry Gordon,PER,1,1
+Mesa del Congreso,LOC,1,1
+Metro de Sagrera,LOC,1,1
+Miguel Aguilar,PER,1,1
+Miguel Caballero Montes,PER,1,1
+Miguel Martínez-Vara de Rey,PER,1,1
+Milans,LOC,1,1
+Milans Presidente,PER,1,1
+Milans del Bosch,PER,1,1
+Milán del Bosch,LOC,1,1
+Minimizar,PER,1,1
+Minister of Foreign Affairs,LOC,1,1
+Ministerio de Administración Territorial,LOC,1,1
+Ministerio de Defensa,LOC,1,1
+Ministro,PER,1,1
+Ministro Federal de Asuntos Exteriores de la República Federal de Alemania,LOC,1,1
+Ministro de Defensa,ORG,1,1
+Ministro de Defensa Sr. Sahagún,LOC,1,1
+Ministro de Trabajo al Sr. Solé Tura,LOC,1,1
+Ministro del Interior,LOC,1,1
+Misiones Especiales,PER,1,1
+Miss Betty Boothroyd,PER,1,1
+Mister,LOC,1,1
+Mit allen,ORG,1,1
+Mixta Cívico-militar,ORG,1,1
+Mochales,PER,1,1
+Moción Censura,PER,1,1
+Mola,PER,1,1
+Momentaneamente,LOC,1,1
+Monarquía,ORG,1,1
+Moncloa,ORG,1,1
+Moncloa Palace,ORG,1,1
+Moreno,PER,1,1
+Moreno Wirtz,PER,1,1
+Morón de la Frontera,LOC,1,1
+Movilización,LOC,1,1
+Movimiento Comunista de Cataluña,ORG,1,1
+Movimiento Nacional,ORG,1,1
+Moção,LOC,1,1
+Mr Alan Williams,PER,1,1
+Mr Andy McMahon,PER,1,1
+Mr Clinton Davis,PER,1,1
+Mr David Ginsburg,PER,1,1
+Mr David Watkins,PER,1,1
+Mr Denis Howell,PER,1,1
+Mr Eric S. Heffer Mr Tristan Garel-Jones Mr Russell Johnston,PER,1,1
+Mr Frank McElhone,PER,1,1
+Mr George Morton,PER,1,1
+Mr Gerald Kaufman,PER,1,1
+Mr Greville Janner,PER,1,1
+Mr Hugh McCartney,PER,1,1
+Mr James Johnson,PER,1,1
+Mr Joe Ashton,PER,1,1
+Mr Joel Barnett,PER,1,1
+Mr John Cartwright,PER,1,1
+Mr John Tilley | Mr Allan Roberts,PER,1,1
+Mr John Wheeler,PER,1,1
+Mr Kevin McNamara,PER,1,1
+Mr Neil Kinnock,ORG,1,1
+Mr Norman Atkinson,PER,1,1
+Mr Robert Edwards |,PER,1,1
+Mr Robert Kilroy-Silk |,PER,1,1
+Mr Robert McTaggart,PER,1,1
+Mr Roger Stott,PER,1,1
+Mr Ron Leighton,PER,1,1
+Mr Roy Hattersley,PER,1,1
+Mr Roy Mason,PER,1,1
+Mr Russell Kerr,PER,1,1
+Mr William Wilson,PER,1,1
+Mrs Ann Taylor,PER,1,1
+Mrs Renée Short,PER,1,1
+Muestra,PER,1,1
+Mugardos,LOC,1,1
+Mugica,PER,1,1
+Mundido,LOC,1,1
+Municipais,LOC,1,1
+Murmurlos,LOC,1,1
+Museo Naval,LOC,1,1
+Mutilación,PER,1,1
+Muñecas,PER,1,1
+Muñecas Aguilar,PER,1,1
+MÁLAGA,ORG,1,1
+Májico,LOC,1,1
+Mérida,LOC,1,1
+Múgica,PER,1,1
+N. Gub,PER,1,1
+N.D. Fecha: F. Horas: Dp,PER,1,1
+NACIAN,ORG,1,1
+NACIONES,ORG,1,1
+NAVAL,ORG,1,1
+NE A-5,ORG,1,1
+NECESIDAD,ORG,1,1
+NO CONSIGUE HABLAR,ORG,1,1
+NO ESTAN,ORG,1,1
+NO ESTÁ,ORG,1,1
+NO HABLES,ORG,1,1
+NO HUBIERA DESTACADO,ORG,1,1
+NO OBSTANTE,ORG,1,1
+NO PODRAN,ORG,1,1
+NO SE HAN PODIDO,ORG,1,1
+NO SE HAN PRESENTADO,ORG,1,1
+NO TENGA,ORG,1,1
+NORTEAMERICA,ORG,1,1
+NOTA DEBE,ORG,1,1
+NOTA INTERIOR REF,LOC,1,1
+NOTICIA,ORG,1,1
+NUESTRA,ORG,1,1
+NUMERO 461,LOC,1,1
+Nacional,LOC,1,1
+Nacional Gallega,PER,1,1
+Nacionalistas de Izquierda,ORG,1,1
+Nada,LOC,1,1
+Navio Camilo Menedez,PER,1,1
+Navío López Rolandi,LOC,1,1
+Navío MENENDEZ,LOC,1,1
+Navío Menéndez,LOC,1,1
+Negada,PER,1,1
+Negar,PER,1,1
+Negarse,PER,1,1
+New York Times,ORG,1,1
+Nicolás García,PER,1,1
+Nieto Excmo,PER,1,1
+No fué,ORG,1,1
+No identifican,ORG,1,1
+Nombró,PER,1,1
+Norte,LOC,1,1
+Norteamérica,LOC,1,1
+Noruega,LOC,1,1
+Nosedulino,PER,1,1
+Nota Informativa de este Servicio,LOC,1,1
+Nota Informativa del,LOC,1,1
+Notario,LOC,1,1
+Noticias,LOC,1,1
+Nuestra,ORG,1,1
+Nuestra,PER,1,1
+Nuestro,PER,1,1
+Nueva York,LOC,1,1
+Nuncio,PER,1,1
+Nuncio Su Santidad,ORG,1,1
+Nuñez Simón,PER,1,1
+Núcleo,PER,1,1
+Número,LOC,1,1
+Núñez Ruano,ORG,1,1
+Núñez Ruano,PER,1,1
+O.M. núm. 120/4829/81,PER,1,1
+OBEDECE,ORG,1,1
+OBJETIVO,ORG,1,1
+OBLIGACION,ORG,1,1
+OBSERVADAS,ORG,1,1
+OBSERVARSE,ORG,1,1
+OBSERVATION JUST AFTER THE PARLIAMENT,ORG,1,1
+OFICIALES,LOC,1,1
+OFICINA,ORG,1,1
+OIDAS,ORG,1,1
+OIDREP de Defensa,ORG,1,1
+OJEME,ORG,1,1
+ONE WESTERN,ORG,1,1
+OPERATOR,ORG,1,1
+OPORTUNIDAD,ORG,1,1
+OPORTUNIDADES OPERATIVAS,ORG,1,1
+ORDEN A FAMILIA,ORG,1,1
+ORENSE,ORG,1,1
+ORIGEN: S. I. G. C. 312,ORG,1,1
+ORTEGA,ORG,1,1
+OTRAS INFORMACIONES,ORG,1,1
+OTROS,LOC,1,1
+Obedecen,LOC,1,1
+Obedeció,LOC,1,1
+Objetivos,LOC,1,1
+Objetivos,PER,1,1
+Observó,PER,1,1
+Octava Región Militar,ORG,1,1
+Ocupación,LOC,1,1
+Ocupate,ORG,1,1
+Odiel,LOC,1,1
+Oficial,ORG,1,1
+Oficial General,ORG,1,1
+Oficiales,PER,1,1
+Oficiales DEM,PER,1,1
+Oficiales Generales,PER,1,1
+Oficiales Subalternos,ORG,1,1
+Oficiales del Ejército Capitán Tamarit,LOC,1,1
+Oficio,PER,1,1
+Oliart,PER,1,1
+Olimpia,ORG,1,1
+Operaciones,LOC,1,1
+Operaciones,ORG,1,1
+Operación Galaxis,ORG,1,1
+Operación HALTON,PER,1,1
+Operación Mista,ORG,1,1
+Operación Nacional,LOC,1,1
+Operación Nacional,ORG,1,1
+Operación Turia,ORG,1,1
+Orden General,ORG,1,1
+Orden Ministerial,ORG,1,1
+Orden Público,ORG,1,1
+Orden Públicos,ORG,1,1
+Organización,LOC,1,1
+Organización,ORG,1,1
+Organización,PER,1,1
+Organizar,LOC,1,1
+Organo Judicial,LOC,1,1
+Oriente,LOC,1,1
+Orozco,PER,1,1
+Orozco Masieu,PER,1,1
+Ortiz,PER,1,1
+Ostos,LOC,1,1
+Ostos Mateo-Cañero,PER,1,1
+Otras,LOC,1,1
+Otros,LOC,1,1
+Oye Carmen A- ¿Qué,PER,1,1
+P'1a ALIANÇA POVO,LOC,1,1
+P. del Yeno,PER,1,1
+P.C.A,ORG,1,1
+P.C.E-E.P.K,ORG,1,1
+P.C.E.U,LOC,1,1
+P.J. Ramírez,PER,1,1
+P.L.O,ORG,1,1
+P.N.V,ORG,1,1
+P.S.P,ORG,1,1
+PACIFICO,LOC,1,1
+PACIFICO,ORG,1,1
+PACIFICO Hoja,LOC,1,1
+PALENCIA,ORG,1,1
+PAMPLONA,LOC,1,1
+PARDINA,ORG,1,1
+PARDO,LOC,1,1
+PARDO,ORG,1,1
+PARECE,ORG,1,1
+PARECE FUERA,ORG,1,1
+PARTICULARLY,ORG,1,1
+PARTIDO,ORG,1,1
+PARTIDO COMUNISTA DE ESPAÑA,ORG,1,1
+PARTIDO COMUNISTA DE ESPAÑA UNIFICADO,ORG,1,1
+PARTIDO DEL TRABAJO,ORG,1,1
+PARTIDO OBRERO SOCIALISTA,ORG,1,1
+PARTIDO SOCIALISTA POPULAR,ORG,1,1
+PARTIDO UCD PONIENDO,ORG,1,1
+PASADO,ORG,1,1
+PASCUAL GALVEZ Capitán de la G.C. D. FRANCISCO ACERA,PER,1,1
+PCE-CC.OO,LOC,1,1
+PENAS,ORG,1,1
+PEREZ-LLOR,ORG,1,1
+PEREZ-LLORCA,PER,1,1
+PERFECCIONAMIENTO,ORG,1,1
+PERHAPS A,LOC,1,1
+PERJUICIO,ORG,1,1
+PERSISTE,ORG,1,1
+PERSONAL,PER,1,1
+PERSONALES,ORG,1,1
+PERSONAS,ORG,1,1
+PERSUADE THEM THAT,ORG,1,1
+PERTAIN,ORG,1,1
+PISTOLAS,ORG,1,1
+PLANTEAMIENTO,ORG,1,1
+PLAZA,PER,1,1
+PLAZA.- Conforme,PER,1,1
+PLENA,ORG,1,1
+PODEMOS,ORG,1,1
+POLICÍA,ORG,1,1
+POLITICO,ORG,1,1
+POLÍTICA EXTERIOR,ORG,1,1
+PONER,ORG,1,1
+PONFERRADA,ORG,1,1
+PONTEVEDRA,ORG,1,1
+POR TANTO,ORG,1,1
+PORTAVOZ,ORG,1,1
+POSTERIORMENTE,ORG,1,1
+PRACTICA,ORG,1,1
+PREDOMINA,ORG,1,1
+PREGUNTANDO,ORG,1,1
+PREGUNTAR,ORG,1,1
+PREJUJEN,ORG,1,1
+PRENSA RELACIONADO,ORG,1,1
+PREPARACIÓN,ORG,1,1
+PRESIDENTE MINISTRO DE DEFENSA,ORG,1,1
+PRESTAR,ORG,1,1
+PRESUNTA,ORG,1,1
+PREVIA,ORG,1,1
+PREVINIENDO,ORG,1,1
+PRIDE AND,ORG,1,1
+PRIMERISIMA,ORG,1,1
+PROCESAMIENTO,ORG,1,1
+PROCURANDO,ORG,1,1
+PROFUNDIZACION,ORG,1,1
+PROFUSION,LOC,1,1
+PROGRAMA,ORG,1,1
+PROPOSITOS,ORG,1,1
+PROSPERIDAD,ORG,1,1
+PROTAGONISMO,ORG,1,1
+PROTOCOLO,ORG,1,1
+PUBLICA CRONICA,ORG,1,1
+PUBLICACION,ORG,1,1
+PUBLISHED SUNDAY A SERIES OF,ORG,1,1
+PUEDA SER,ORG,1,1
+PUEDAN INTERPONERSE,ORG,1,1
+PUESTOS DE,PER,1,1
+PUNTUAL,ORG,1,1
+PURPORTEDLY,ORG,1,1
+Pacheco Miguel,PER,1,1
+Pacto Internacional de Derechos Civiles de Nueva York,ORG,1,1
+Palace,ORG,1,1
+Palacio Barzuela,LOC,1,1
+Palacio Real,LOC,1,1
+Palacio de Congresos,LOC,1,1
+Palacio de Congresos de Palma de Mallorca,LOC,1,1
+Palacio de Congresos ¿,LOC,1,1
+Palacio de Justicia,LOC,1,1
+Palacio de Moncloa,LOC,1,1
+Palacio de las Cortes,LOC,1,1
+Paladina,LOC,1,1
+Papels,PER,1,1
+Paracuellos,LOC,1,1
+Pardo de Santallana,LOC,1,1
+Pardo de Santallana,PER,1,1
+Pardos Aldea,LOC,1,1
+Parlamento de España,ORG,1,1
+Paro,LOC,1,1
+Paro,PER,1,1
+Parque Automovilístico,LOC,1,1
+Parque de Automovilismo,LOC,1,1
+Parque de Automovilismo de la Guardia Civil,LOC,1,1
+Parque de dicho Cuerpo,LOC,1,1
+Parque de las Avenidas,LOC,1,1
+Parque del Oeste,LOC,1,1
+Participación,PER,1,1
+Partidas,LOC,1,1
+Partido Demócrata Cristiano del Uruguay,ORG,1,1
+Partido Socialista Obrero,ORG,1,1
+Partido Socialista Obrero Español,ORG,1,1
+Partido de los Trabajadores,ORG,1,1
+Partido político,ORG,1,1
+Partidos,LOC,1,1
+Partidos Políticos PSA,ORG,1,1
+Pasa,LOC,1,1
+Pasa S.M,PER,1,1
+Pascual,LOC,1,1
+Pascual,PER,1,1
+Pascual Galmes,PER,1,1
+Pascual Galvez,PER,1,1
+Paseo de la Castellana,LOC,1,1
+Paseo de las Delicias,LOC,1,1
+Paso Judyn,LOC,1,1
+Pasó,PER,1,1
+Patria,LOC,1,1
+Patrona,LOC,1,1
+Patrullaje,PER,1,1
+Pavia,ORG,1,1
+País Valencià,LOC,1,1
+Pedro Martín Fernández,PER,1,1
+Pedro Pérez Llorca Ministro de Asuntos Exteriores Madrid Excmo,PER,1,1
+Pedro Pérez Llorca Ministro de Asuntos Exteriores Ministerio de Asuntos Exteriores Madrid,PER,1,1
+Pedro Texeira,PER,1,1
+Pedro V. García,PER,1,1
+Penitenciarios Militares,PER,1,1
+Pensaba,LOC,1,1
+Pepe Cassinello,PER,1,1
+Pepe Peñas,PER,1,1
+Pequeñas,LOC,1,1
+Permaneció,LOC,1,1
+Permanenciendo allí,PER,1,1
+Permitiendo,LOC,1,1
+Permitió,ORG,1,1
+Personal,PER,1,1
+Persönlichkeiten der Geschichte,PER,1,1
+Pese,PER,1,1
+Petrus,PER,1,1
+Pide,LOC,1,1
+Pide al Tribunal,LOC,1,1
+Pidió,LOC,1,1
+"Pilar ""Pluma de Aguila",PER,1,1
+Pinochet,PER,1,1
+Pintor Gris,PER,1,1
+Pintor Juan Gris,PER,1,1
+Piserra,PER,1,1
+Plan de MILANS,PER,1,1
+Plantea,PER,1,1
+Planteamiento,LOC,1,1
+Plaza,LOC,1,1
+Plaza,PER,1,1
+Plaza Mayor,LOC,1,1
+Plaza de Castilla,LOC,1,1
+Plaza de Cibeles,LOC,1,1
+Plaza de España,LOC,1,1
+Plaza de Lavapies,LOC,1,1
+Plaza de Madrid,LOC,1,1
+Plaza de Oriente,LOC,1,1
+Plaza de San - Agustín,LOC,1,1
+Plaza de San Agustín,LOC,1,1
+Plaza de Santa Ana,LOC,1,1
+Plaza de la Moncloa,LOC,1,1
+Plaza del Oeste,LOC,1,1
+Pleno,LOC,1,1
+Plá García,PER,1,1
+Policia,LOC,1,1
+Policias,PER,1,1
+Policías,ORG,1,1
+Policías,PER,1,1
+Policías Nacionales,ORG,1,1
+Polideportivo,LOC,1,1
+Político,PER,1,1
+Ponece,LOC,1,1
+Por Télex,PER,1,1
+Porque,LOC,1,1
+Porteriormente,PER,1,1
+Portobello Road,LOC,1,1
+Portugal,LOC,1,1
+Positiva,LOC,1,1
+Poster,PER,1,1
+Potenciar,PER,1,1
+"Pozo ""Esparza",LOC,1,1
+Prado,LOC,1,1
+Predestinación,LOC,1,1
+Prefiero,PER,1,1
+Pregunta,LOC,1,1
+Pregunta Escandell,PER,1,1
+Preguntado,PER,1,1
+Preguntandole,PER,1,1
+Prensa,LOC,1,1
+Prensa,PER,1,1
+Preparar,PER,1,1
+Presencia,LOC,1,1
+Presentó,LOC,1,1
+Presidencia,LOC,1,1
+Presidencia,PER,1,1
+Presidencia del Gobierno,PER,1,1
+Presidente Fraga,PER,1,1
+Presidente Suárez,PER,1,1
+Presidente de Gobierno,PER,1,1
+Presidente del Tribunal indicó al Relator,ORG,1,1
+Prestar,ORG,1,1
+Pretende,LOC,1,1
+Previsiones,LOC,1,1
+Prieto López,PER,1,1
+Primera Instancia,LOC,1,1
+Primera R.M,LOC,1,1
+Primera Región Militar,ORG,1,1
+Primeramente,PER,1,1
+Primero,PER,1,1
+Primo de Rivera,PER,1,1
+Princesa Sofía,PER,1,1
+Prisión Militar,ORG,1,1
+Prisión Militar Naval de Carranza,ORG,1,1
+Prisión Naval,LOC,1,1
+Prisión Naval de Caranza,LOC,1,1
+Prof,PER,1,1
+Programa,ORG,1,1
+Promotor Martín Villa,PER,1,1
+Promovido,PER,1,1
+Propaganda de U.G.T,ORG,1,1
+Provincia,LOC,1,1
+Provincias,LOC,1,1
+Provincias Vascongadas,LOC,1,1
+Provocará,PER,1,1
+Provocó,LOC,1,1
+Príncipe,PER,1,1
+Publicado,PER,1,1
+Publicidad,LOC,1,1
+Puerta del Sol,LOC,1,1
+Puerto Rico,LOC,1,1
+Puerto de Barcelona.- Totalmente,LOC,1,1
+Pueyo,PER,1,1
+Punta Umbria,LOC,1,1
+Pérez Heredia,PER,1,1
+Pérez Hernández,PER,1,1
+Pérez Llorca,PER,1,1
+Pérez de Acevedo,PER,1,1
+QUEREMOS LIBERTAD,ORG,1,1
+QUINTANA APARICIO,ORG,1,1
+Querido,PER,1,1
+Querido Emilio,PER,1,1
+Querido Ministro,ORG,1,1
+Quienes,LOC,1,1
+Quiere,LOC,1,1
+Quiero,LOC,1,1
+Quinta,LOC,1,1
+Quintana Aparicio,LOC,1,1
+Quintero Sanjuan,LOC,1,1
+Quiso,PER,1,1
+Quitero Sanjuan,PER,1,1
+Quizá,PER,1,1
+Quién,LOC,1,1
+R. Sección E. M. GENERAL JEFE SEGUNDA ZONA A DIRECTOR GEERAL CUERPO MADRID,PER,1,1
+R. Villaviciosa,LOC,1,1
+RADIO ELETRÁTICO,ORG,1,1
+RAMON,LOC,1,1
+RAMON MEER,ORG,1,1
+RAMOS,ORG,1,1
+REACCION CONTRA ELLAS,ORG,1,1
+REALICEN,ORG,1,1
+RECEPCION,ORG,1,1
+RECORTARLAS,ORG,1,1
+REGIMEN,ORG,1,1
+REGISTRO,ORG,1,1
+REIVINDICACIONES SOCIALES,ORG,1,1
+REMISION,ORG,1,1
+REPRESIEN,ORG,1,1
+REPRESIVAS,ORG,1,1
+RESERVADA,ORG,1,1
+RESERVADO,ORG,1,1
+RESPETAN,ORG,1,1
+RESPONDER,ORG,1,1
+RESPONSABILIDADES,LOC,1,1
+RESTO ACTIVIDADES,ORG,1,1
+RETIRADA,ORG,1,1
+REVALUACION,ORG,1,1
+REVALUAR,ORG,1,1
+REVELACIONES,ORG,1,1
+RUPTURA DE LA DEMOCRACIA Y,ORG,1,1
+Radio Cadena,ORG,1,1
+Radio Intercontinental,ORG,1,1
+Radio Popular,ORG,1,1
+"Radio Popular, Sr. Castedo -/",ORG,1,1
+Radio Valencia,LOC,1,1
+Radio n.o P. 2,LOC,1,1
+Radio/,ORG,1,1
+Radio/Han,ORG,1,1
+Radio/Incidente del Sr. Fraga,ORG,1,1
+Radio/Se,ORG,1,1
+Rafael Allendesalazar Urbina,PER,1,1
+Rafael Monga Segura Guardia Civil D. José Alvarez Sola,PER,1,1
+Ramos Rueda,PER,1,1
+Ramón Fernández Sequeiros,PER,1,1
+Reaccionar,PER,1,1
+Reacciones,PER,1,1
+Reactivar,PER,1,1
+Reagan,PER,1,1
+Real,LOC,1,1
+Real,ORG,1,1
+Real Academia Española de la Lengua,ORG,1,1
+Real Decreto 3331/78,PER,1,1
+Reales Ordenanzas,LOC,1,1
+Reales Ordenanzas,ORG,1,1
+Realiza,PER,1,1
+Rebelión Militar,PER,1,1
+Recabar,LOC,1,1
+Recalca,LOC,1,1
+Recalca,PER,1,1
+Rechazo,LOC,1,1
+Recibe orden,PER,1,1
+Recibida,PER,1,1
+Recibió,LOC,1,1
+Reclutamiento,LOC,1,1
+Reconocidos,PER,1,1
+Recordó,LOC,1,1
+Rector,PER,1,1
+Recue,PER,1,1
+Recurso de Casación,LOC,1,1
+Recurso de Reposición,LOC,1,1
+Recurso de Reposición,PER,1,1
+Recusación del Consejero Togado,LOC,1,1
+Refleja,PER,1,1
+Refuerza,PER,1,1
+Región,ORG,1,1
+Región Policial de BARCELONA,ORG,1,1
+Reglamento de Información,ORG,1,1
+Reiter,PER,1,1
+Reiteraciones,PER,1,1
+Reitérole Señor Embajador,PER,1,1
+Relaciones Exteriores Wan Zuo Kei,LOC,1,1
+Relación,PER,1,1
+Relata,LOC,1,1
+Relator,ORG,1,1
+Relator,PER,1,1
+Relator dos Autos del Consejo,PER,1,1
+Relatores,LOC,1,1
+Reohal,ORG,1,1
+Repasa,LOC,1,1
+Representaciones Políticas,LOC,1,1
+Reproducción,PER,1,1
+República Federal de Alemania Exmo,LOC,1,1
+Reservas,LOC,1,1
+Residencia B - Pues ahí,ORG,1,1
+Residencia de Oficiales,LOC,1,1
+Resistencia,LOC,1,1
+Resolución,LOC,1,1
+Resolución del Congreso de los Estados Unidos,LOC,1,1
+Respaldados,PER,1,1
+Respecto,ORG,1,1
+Respecto,PER,1,1
+Responde,PER,1,1
+Respuesta,ORG,1,1
+Restó,PER,1,1
+Resulta,PER,1,1
+Resumen,PER,1,1
+Resumen del Instructor,PER,1,1
+Reticencias,PER,1,1
+Retraso,PER,1,1
+Reunido,LOC,1,1
+Reuniones,PER,1,1
+Revalúa,ORG,1,1
+Revistas,LOC,1,1
+Revocar,PER,1,1
+Rey Constitucional,PER,1,1
+Rey Don Juan Carlos,PER,1,1
+Rey de España,PER,1,1
+Ricardo,PER,1,1
+Ricardo Arozarena Girón,PER,1,1
+Ricardo GARCHITORENA,PER,1,1
+Roca,PER,1,1
+Rodrigo Ministro de Asuntos Exteriores M A D R I D,PER,1,1
+Rodriguez Solano,PER,1,1
+Rogelio García Villalonga,PER,1,1
+Rojas Marcos,PER,1,1
+Ron Hayward,PER,1,1
+Rovira Montero,PER,1,1
+Rubio,LOC,1,1
+Rueda,LOC,1,1
+Rumor,PER,1,1
+Rusia,LOC,1,1
+S. E. Pase,PER,1,1
+S. JUAN GARCIA,PER,1,1
+S. M. EL REY A,PER,1,1
+S. R. Página,PER,1,1
+S.E. el Capitán General de la Región,PER,1,1
+S.M. 3.- OTROS HECHOS,PER,1,1
+S.M. = el Rey,PER,1,1
+S.M. BRITANICA,PER,1,1
+S.M. EL REY EXCMO,PER,1,1
+S.M. EL REY ¿,PER,1,1
+S.M. Ha,PER,1,1
+S.M. según,PER,1,1
+SAGUNTO,ORG,1,1
+SALAMANCA,LOC,1,1
+SALVA,ORG,1,1
+SAN JUAN,LOC,1,1
+SAN SEBASTIAN Igualmente,ORG,1,1
+SANCHEZ A,LOC,1,1
+SANTANDER,ORG,1,1
+SARGENTOS,ORG,1,1
+SAVA-EN,ORG,1,1
+SE CONTESTA,ORG,1,1
+SE DICTAN A,ORG,1,1
+SE ENFRENTA,ORG,1,1
+SE ESPECULA,ORG,1,1
+SE HA TRATADO,ORG,1,1
+SE HAN ORIGINADO,ORG,1,1
+SE HAN PRODUCIDO,ORG,1,1
+SE HAYA,ORG,1,1
+SE LE,ORG,1,1
+SE OBSERVA,ORG,1,1
+SE PONE,ORG,1,1
+SECCION,LOC,1,1
+SECCION,ORG,1,1
+SECRETARIO,ORG,1,1
+SECTOR DE VALENCIA,LOC,1,1
+SEGGUDA REGIÓN MILITAR,ORG,1,1
+SENTENCIAS DICTADAS,ORG,1,1
+SERGIO,ORG,1,1
+SERVICIO,ORG,1,1
+SERÍA ESCASA,ORG,1,1
+SESION Defensa del Tcol,ORG,1,1
+SESSION,ORG,1,1
+SEVILLA Normalidad,ORG,1,1
+SG/5948/16.04.82,LOC,1,1
+SIGNED,ORG,1,1
+SIGUE,ORG,1,1
+SIMIL,ORG,1,1
+SIN NOVEDAD A,ORG,1,1
+SIN RESPUESTA,ORG,1,1
+SINDICATO,ORG,1,1
+SIRVIENDO,ORG,1,1
+SITUACION MILITAR,ORG,1,1
+SL 23-F,ORG,1,1
+SPANIARDS,ORG,1,1
+STRATEGIC COMMUNICATIONS,ORG,1,1
+SU ACTUACION,LOC,1,1
+SU COLECCION,PER,1,1
+SU DESE,ORG,1,1
+SU MOVILIZACION A,ORG,1,1
+SU REPERCUSION,LOC,1,1
+SUMARIO ESTUVIERA ABIERTO,ORG,1,1
+SUPPORTIVE,ORG,1,1
+SUPREMO,ORG,1,1
+SUS ACTIVIDADES,ORG,1,1
+Sabino Fernández,PER,1,1
+Sabino Fernández Campo 1.- Considero,PER,1,1
+Saboza,LOC,1,1
+Sabía,PER,1,1
+Sabían,PER,1,1
+Sacrificio,PER,1,1
+Sacó,PER,1,1
+Saenz,PER,1,1
+Saez de Santa María,LOC,1,1
+Sagunto,LOC,1,1
+Sala Olimpia de la Plaza de Lavapies,ORG,1,1
+Sala de Audiencias,LOC,1,1
+Sala de Justicia ACUERDA,LOC,1,1
+Sala de Justicia del,LOC,1,1
+Sala de Justicia del Consejo Supremo de Justicia Militar,LOC,1,1
+Sala del Juicio,LOC,1,1
+Sala el Sr. Pedrol Rius,LOC,1,1
+Salamanca,LOC,1,1
+Salazar,PER,1,1
+Sale,PER,1,1
+Salen,PER,1,1
+Salvador Escandell Cortés,PER,1,1
+Salvaguardar,PER,1,1
+Samper,LOC,1,1
+San Fernando del General,LOC,1,1
+San Gregorio,LOC,1,1
+San Quintin,LOC,1,1
+San Quintin,PER,1,1
+San Quintín,LOC,1,1
+San Romualdo,LOC,1,1
+Santa Catalina,PER,1,1
+Santa Coloma de Gramanet,LOC,1,1
+Santa María de Hurta,LOC,1,1
+Santa María de la Huerta,LOC,1,1
+Santa Sede,LOC,1,1
+Santamaria,LOC,1,1
+Santamaría llegó,PER,1,1
+Santiago Bastos,PER,1,1
+Santiago Carrillo,PER,1,1
+Santos Fernández,PER,1,1
+Sargento,LOC,1,1
+Sargento,PER,1,1
+Sargento OVIDIO GOMEZ,ORG,1,1
+Sargento SANCHEZ REINA,ORG,1,1
+Satrústegui,ORG,1,1
+Saturnino Suanzes,PER,1,1
+Secc,LOC,1,1
+Secc,PER,1,1
+Sección,PER,1,1
+Sección E,PER,1,1
+Sección E. M. 2272,PER,1,1
+Sección E. M. MADRID,PER,1,1
+Sección E. Mayor,PER,1,1
+Sección E. N. GENERAL JEFE SEGUNDA,PER,1,1
+Sección E. N. SEVILLA,PER,1,1
+Sección Estado Mayor,PER,1,1
+Sección G. M. 5621,PER,1,1
+Sección de E. Mayor,LOC,1,1
+Sección de E.M,LOC,1,1
+Sección de E.M. MADRID,LOC,1,1
+Sección de E.M. de la Guardia Civil,LOC,1,1
+Sección del E.M. de la D.A.C,LOC,1,1
+Sección del EME,LOC,1,1
+Seco,LOC,1,1
+Secretario - Relator,LOC,1,1
+Secretario Fotografía Vazquez Cachinero,LOC,1,1
+Secretario General,PER,1,1
+Secretario General al Despacho,ORG,1,1
+Secretario General de la Caja de Ahorros de Madrid,ORG,1,1
+Secretario General de la Casa,LOC,1,1
+Secretario General de la Casa,ORG,1,1
+Secretario de Estado,ORG,1,1
+Secretario de Estado Norteameri,ORG,1,1
+Secretario del JEME,LOC,1,1
+Secretary Haig the text of the official announcement made on,PER,1,1
+Secretary of State of the United States of America,PER,1,1
+Secretaría Permanente,LOC,1,1
+Sede,LOC,1,1
+Seguidamente el Presidente,PER,1,1
+Seguidamente negó,PER,1,1
+Segunda declaración del Capitán DUSMET,ORG,1,1
+Segunda declaración del Capitán de Artillería D. Juan BATISTA,ORG,1,1
+Segundas Secciones,LOC,1,1
+Segura Ferns,PER,1,1
+Segura Fers,PER,1,1
+Segura Ferus,PER,1,1
+Según F y R,PER,1,1
+Según J,PER,1,1
+Según el Fiscal,PER,1,1
+Según el Gral. PEREZ IÑIGO,PER,1,1
+Según el Ministerio Público,PER,1,1
+Semejante,PER,1,1
+Sentencia,ORG,1,1
+Sentirse,ORG,1,1
+Sepa,PER,1,1
+Separatismo,ORG,1,1
+Septiembre,ORG,1,1
+Servicio,ORG,1,1
+Servicio Militar de Construcciones,ORG,1,1
+Servicio de Seguridad,ORG,1,1
+Servicio del Rey,ORG,1,1
+Servicio solicitado,ORG,1,1
+Sesión,PER,1,1
+Señalan,PER,1,1
+Señaló,PER,1,1
+Señor,LOC,1,1
+Señor D. JAIME,PER,1,1
+Señor EL TENIENTE,LOC,1,1
+Señor Fiscal,PER,1,1
+Señor General de División,LOC,1,1
+Señor General de División,ORG,1,1
+Señor Laina,PER,1,1
+Señor Liñán,ORG,1,1
+Señor MINISTRO DE DEFENSA,ORG,1,1
+Señor Ministro de Asuntos Exteriores MADRID,LOC,1,1
+Señor Segura Fers,PER,1,1
+Señores Escandell,PER,1,1
+Señores Gómez García,PER,1,1
+Señores Novalbos,LOC,1,1
+Sheila Wright,PER,1,1
+Sierra Ginel,LOC,1,1
+Sierra Giner,LOC,1,1
+Sierra Moreno,LOC,1,1
+Signature,PER,1,1
+Sigue,ORG,1,1
+Sigue,PER,1,1
+Siguen,PER,1,1
+Simultáneamente,PER,1,1
+Sindicato Español Universitario,LOC,1,1
+Sir Thomas Williams,PER,1,1
+Situaciones,LOC,1,1
+Situación,PER,1,1
+Sociológicas,LOC,1,1
+Soy Herminia,PER,1,1
+Spain,PER,1,1
+Spanish-Democracy,LOC,1,1
+Sr. Aguilar,PER,1,1
+Sr. Capitán de Navio D. CAMILO MENENDEZ,PER,1,1
+Sr. Carrillo,PER,1,1
+Sr. Carrés,PER,1,1
+Sr. Comandante D. JOSE,PER,1,1
+Sr. Comandante D. RICARDO,PER,1,1
+Sr. Conde de Motrico,PER,1,1
+Sr. De Miguel,LOC,1,1
+Sr. Escandell,ORG,1,1
+Sr. Fraga,LOC,1,1
+Sr. García Garrés,PER,1,1
+Sr. Hans-Dietrich Genscher,PER,1,1
+Sr. López Griñó,LOC,1,1
+Sr. Manuel Novalvos,PER,1,1
+Sr. Ministro del Ejército,LOC,1,1
+Sr. Mugica,ORG,1,1
+Sr. Nieto,PER,1,1
+Sr. Nieto Funcia,PER,1,1
+Sr. Ortiz,PER,1,1
+"Sr. Ortiz ""¿",PER,1,1
+Sr. Pla,PER,1,1
+Sr. Quintana,LOC,1,1
+Sr. Sanz Arribas,PER,1,1
+Sr. Segura,LOC,1,1
+Sr. Suarez,PER,1,1
+Sr. Suárez,PER,1,1
+Sr. Toledano,PER,1,1
+Sra. A,LOC,1,1
+Sra. Carmela Garcia Moreno,LOC,1,1
+Sra. Echave,LOC,1,1
+Sra. Fernández España,PER,1,1
+Staatsmännern Europas,PER,1,1
+Stan Crowther,PER,1,1
+Su Jefe de Estado Mayor,PER,1,1
+Su Majestad el Rey Don Juan Carlos I,PER,1,1
+Su Majestad la Reina,PER,1,1
+Su Majestad la Reina Isabel II,PER,1,1
+Subde,LOC,1,1
+Subdler,PER,1,1
+Sube,PER,1,1
+Suboficial,PER,1,1
+Suboficiales,LOC,1,1
+Subrayó,PER,1,1
+Subsecretaría,LOC,1,1
+Subsecretaría de Defensa,ORG,1,1
+Subsecretaría de Defensa.- El referido Jefe,ORG,1,1
+Subteniente MOLINA,PER,1,1
+Sudamérica,LOC,1,1
+Sugerencia,PER,1,1
+Sugirió,PER,1,1
+Superior Servicio,LOC,1,1
+Supone,PER,1,1
+Supremo de Justicia Militar,LOC,1,1
+Surge,PER,1,1
+Surloeste,LOC,1,1
+Suspendiéndose,PER,1,1
+Sáez de Santamaría,PER,1,1
+Sánchez Valiente,LOC,1,1
+T. Adios Juanito,PER,1,1
+T. Al Alcázar,PER,1,1
+T. Bueno,PER,1,1
+T. Coño,PER,1,1
+T. Cómo,PER,1,1
+T. Dile,PER,1,1
+T. Gracias,LOC,1,1
+T. Juan,PER,1,1
+T. Juanillo,PER,1,1
+T. Venga,PER,1,1
+T. ¿Adonde?,PER,1,1
+T. ¿Armada? G.C. No,ORG,1,1
+T. ¿Con Milans del Bosch,PER,1,1
+T. ¿Demasiado,PER,1,1
+T. ¿Dónde? G.C. Oye,PER,1,1
+T. ¿Eso,PER,1,1
+T.G. Gutierrez Mellado,PER,1,1
+T.G. Milana del B,LOC,1,1
+TADAS NACIONALES,ORG,1,1
+TAMBIEN DEBERIA RECURRIR,ORG,1,1
+TCOC Cenpro Cunpina,PER,1,1
+TCOL D,LOC,1,1
+TCOL D. Arturo,LOC,1,1
+TCOL Fuentes,LOC,1,1
+TCOL Fuentes,PER,1,1
+TCOL Gibert,LOC,1,1
+TCOL Muller Hidalgo,LOC,1,1
+TCOL.TEJERO,ORG,1,1
+TCol,PER,1,1
+TENIDO,ORG,1,1
+TENSIONES,ORG,1,1
+TERMINOS,ORG,1,1
+TEXT OF U.S,LOC,1,1
+THAT WASHINGTON'S,ORG,1,1
+THE AMBASSADOR,ORG,1,1
+THE NEOFASCIST PRESS,ORG,1,1
+THE NEW YORK CORRESPONDENT,ORG,1,1
+THE NEW YORK TIMES,ORG,1,1
+THE QUESTION CAME AFTER A,ORG,1,1
+THE ROLE AND LEADERSHIP OF KING JUAN CARLOS,ORG,1,1
+THEY SUGGEST,ORG,1,1
+TOLEDO,LOC,1,1
+TOLEDO,ORG,1,1
+TOSTON,ORG,1,1
+TRABAJADORES,ORG,1,1
+TRANSCRIBO A,ORG,1,1
+TRANSMITASE El Jefe de Guardia Comuníquese,LOC,1,1
+TRASLADANDO,ORG,1,1
+TRETO,ORG,1,1
+TURCA,ORG,1,1
+TVE/. Parece,PER,1,1
+Talbot,PER,1,1
+Tamarit,LOC,1,1
+Tambien hay Policia Nacional./,PER,1,1
+Tcol Bonelli,PER,1,1
+Tcol Narro,LOC,1,1
+Tcol Porras,LOC,1,1
+Tcol Pérez Pérez,PER,1,1
+Tcols Somalo Aznar,PER,1,1
+Tejero - Cte,LOC,1,1
+Tejero-Cortina,ORG,1,1
+Tele Servicio,PER,1,1
+Teletipos,LOC,1,1
+Televisión B,LOC,1,1
+Televisión Española,LOC,1,1
+Telo-Sur,LOC,1,1
+Teléfono,LOC,1,1
+Temor,PER,1,1
+Teniente BOZA,PER,1,1
+Teniente Carricondo,PER,1,1
+Teniente Coronel,LOC,1,1
+Teniente Coronel C. M. E. DE RIBERA,LOC,1,1
+Teniente Coronel Catalán,ORG,1,1
+Teniente Coronel D. Angel Torres Riera,LOC,1,1
+Teniente Coronel Más,PER,1,1
+"Teniente Coronel de Meer, Sr. Esquivel, Sr. Gómez García",PER,1,1
+Teniente Coronel de la Guardia Civil Don ANTONIO TEJERO,LOC,1,1
+Teniente D. Antonio Hernández Griño,PER,1,1
+Teniente General Aramburu,ORG,1,1
+Teniente General Aramburu,PER,1,1
+Teniente General Cabezas Calahorra,ORG,1,1
+Teniente General DE SANTIAGO,LOC,1,1
+Teniente General GABEIRAS,LOC,1,1
+Teniente General Gabeiras,LOC,1,1
+Teniente General Gabeiras,ORG,1,1
+Teniente General Gabeiras Montero,ORG,1,1
+Teniente General Gabeiras y Sr. Laína,PER,1,1
+Teniente General Gutiérrez Mellado,ORG,1,1
+Teniente General Milans del/ Bosch,ORG,1,1
+Teniente General Miláns,PER,1,1
+Teniente General Miláns habló,ORG,1,1
+Teniente General Sáez,ORG,1,1
+Teniente Gral,PER,1,1
+Teniente Gral. Milans del Bosch,PER,1,1
+Teniente Ramos,PER,1,1
+Teniente Rueda,LOC,1,1
+Teniente Soler,PER,1,1
+Tenientes A,ORG,1,1
+Tenientes A - Oye,ORG,1,1
+Tenientes ALVAREZ FERNANDEZ,PER,1,1
+Tenientes Alonso Hernaiz,PER,1,1
+Tenientes Coroneles Ayudantes,ORG,1,1
+Tenientes Coroneles GUERRI,ORG,1,1
+Tenientes Coroneles Leiva,PER,1,1
+Tenientes Generales Gabeiras,PER,1,1
+Tenientes Ramos Rueda,ORG,1,1
+Tensiones,LOC,1,1
+Tent Soler,PER,1,1
+Tercera declaración del Capitán ALVAREZ ARENAS,PER,1,1
+Tercera declaración del Comandante PARDO,PER,1,1
+Tercio,LOC,1,1
+Tercio,PER,1,1
+Tercio Gua,PER,1,1
+Tercio Idem,PER,1,1
+Tercio de la Guardia Civil,PER,1,1
+Terence A. Todman,PER,1,1
+Terence A. Todman Attachments,PER,1,1
+Teus,PER,1,1
+The Congress congratulates the Government and people of Spain on,ORG,1,1
+This,PER,1,1
+Tierno Galván,PER,1,1
+Tierra,LOC,1,1
+Tinturé,PER,1,1
+Tipificación,LOC,1,1
+Todavía,PER,1,1
+Todman,PER,1,1
+Toduman,LOC,1,1
+Togado Gral. CANERO,PER,1,1
+Torrejon de Ardoz,LOC,1,1
+Torres Rojas llegó,PER,1,1
+Torrijos,PER,1,1
+Trabaja,PER,1,1
+Traducción,PER,1,1
+Traducción Exmo,PER,1,1
+Trafico,PER,1,1
+Tranquila,LOC,1,1
+Transportes de Barcelona,ORG,1,1
+Trasambrou,LOC,1,1
+Tratando,PER,1,1
+Trató,PER,1,1
+Trias Fargas,LOC,1,1
+Tribunal Constitucional,ORG,1,1
+Tribunal Internacional de Estrasburgo,ORG,1,1
+Tribunal Supremo de Justicia Civil,LOC,1,1
+Tribunal dicte,ORG,1,1
+Tribunal militar,ORG,1,1
+"Tribunal por ""atípico",ORG,1,1
+Tribunal?,ORG,1,1
+Tribunal? Pasa,ORG,1,1
+Tropa,PER,1,1
+Tte Coronel Cassinello,LOC,1,1
+Tte Coronel Polavieja,LOC,1,1
+Tte General Milans,LOC,1,1
+Tte General Milans del Bosch,LOC,1,1
+Técnicas Informativas,ORG,1,1
+Técnico de la Agrupación C - Cap,LOC,1,1
+Télex,PER,1,1
+U. También,PER,1,1
+U.C.D. Sr. SATRUSTEGUI,LOC,1,1
+U.S. Operativas,LOC,1,1
+UN ALUMNO,ORG,1,1
+UN ANTEFECTO,ORG,1,1
+UN ARTICULO,ORG,1,1
+UN CAPITAN,ORG,1,1
+UN CONDUCTOR,ORG,1,1
+UN IDEAL,ORG,1,1
+UN MODULO.CONTESTE,ORG,1,1
+UN OFICIAL A,ORG,1,1
+UN OFICIAL.- Excmo,ORG,1,1
+UN PROCESO,ORG,1,1
+UN SOLDADO,ORG,1,1
+UN TENIENTE,ORG,1,1
+UNCLAS USICA,ORG,1,1
+UNIDO,ORG,1,1
+UNIDO Fica,ORG,1,1
+UNIJAU MILITAR,ORG,1,1
+UNION,ORG,1,1
+UNIR A LOS MILITANTES DISIDENTES,ORG,1,1
+UNITARIO,ORG,1,1
+UNQUOTE,ORG,1,1
+UP FOR,ORG,1,1
+URBINA,ORG,1,1
+URGENTE Madrid,LOC,1,1
+URRUTIA,ORG,1,1
+URUGUAY,ORG,1,1
+USICA,ORG,1,1
+USSIA A Prisión Militar Naval de Carranza,ORG,1,1
+Un General de la 3a R.M,ORG,1,1
+Unesco,ORG,1,1
+Unidad de Operaciones,ORG,1,1
+Unidad de P.M,ORG,1,1
+Unidad de Tráfico,ORG,1,1
+Unidad de procedencia,ORG,1,1
+Unidad por el Excmo,ORG,1,1
+Unidades de Madrid,LOC,1,1
+Universidad,LOC,1,1
+Universidad de Chile Fdo,ORG,1,1
+Universidad de Gral. Subditor,ORG,1,1
+Universidad de Santiago,LOC,1,1
+Unión Militar Española,ORG,1,1
+Uruguay,LOC,1,1
+Ussia,ORG,1,1
+Ussía,PER,1,1
+Utilización,PER,1,1
+Utilizó,LOC,1,1
+VALENCIA,ORG,1,1
+VALENCIANO,ORG,1,1
+VAYA A TOMAR NINGUNA MEDIDA,ORG,1,1
+VECINO,ORG,1,1
+VECINOS,ORG,1,1
+VIGENTE,ORG,1,1
+VINCULADA A UNA,ORG,1,1
+VISITENOS,ORG,1,1
+Vale Jefe,ORG,1,1
+Valencia Remón,PER,1,1
+Valencia del Comandante Pardo,LOC,1,1
+Valencia del Cte,LOC,1,1
+Valero,LOC,1,1
+Valin Carreño Sr. TCOL,PER,1,1
+Valora,LOC,1,1
+Valverde Rodao Capitanes,LOC,1,1
+Vareongadas,LOC,1,1
+Vascongadas,PER,1,1
+Vecino Núñez,PER,1,1
+Vecinos,LOC,1,1
+Velazquez,PER,1,1
+Vengo,LOC,1,1
+Vicepresidente Primero,PER,1,1
+Vidal Frances,PER,1,1
+Viena,LOC,1,1
+Vigo,LOC,1,1
+Villagarcia de Arosa,LOC,1,1
+Villalber,LOC,1,1
+Villanueva Retuerta,LOC,1,1
+Villavisiosa,LOC,1,1
+Villoviciosa,LOC,1,1
+Visitó,PER,1,1
+Vitoria,LOC,1,1
+Vives,LOC,1,1
+Vizcaino Canzo,PER,1,1
+Vizcaya,LOC,1,1
+Volk,LOC,1,1
+Volvió,LOC,1,1
+Vrdela,PER,1,1
+Vulcano,PER,1,1
+Vázquez,PER,1,1
+Vázquez García,PER,1,1
+WALWORTH ROAD,PER,1,1
+WAS A SPANISH,ORG,1,1
+WAS OCCUPIED,ORG,1,1
+WE NOTE THAT THE CHALLENGE TO SPANISH,ORG,1,1
+WHITE HOUSE,LOC,1,1
+WIDELY,ORG,1,1
+WING MILITARY DICTATORSHIPS,ORG,1,1
+WITH A MIXTURE OF HURT,ORG,1,1
+Wete E. M. Se,PER,1,1
+William Clark Mr Michael Grylls Mr Maurice Macmillan Mr Edward du Cann Sir John Eden,PER,1,1
+XMXXXXX Toled,PER,1,1
+YA).-Son,PER,1,1
+Yours,PER,1,1
+Yusti,LOC,1,1
+Yusti Vazquez,PER,1,1
+ZANCADA A Prisión Naval,ORG,1,1
+ZARZUELA,ORG,1,1
+ZONA A,ORG,1,1
+Zaragoza del Gral. ARMADA,LOC,1,1
+Zarzuela,PER,1,1
+Zarzuela Palace,LOC,1,1
+Zarzuela del General,LOC,1,1
+Zona G. Civil,LOC,1,1
+Zona LEON,LOC,1,1
+Zona de la G.C,LOC,1,1
+Zona de la Guardia Civil,LOC,1,1
+Zona del Cuerpo Idem,LOC,1,1
+Zonas,LOC,1,1
+Zulú,ORG,1,1
+Zulú,PER,1,1
+abandonaré España,PER,1,1
+acompañar al,LOC,1,1
+aguantad,LOC,1,1
+aha ☑,PER,1,1
+allí,PER,1,1
+als einem der Älteren,ORG,1,1
+arduous test,PER,1,1
+art.555 del Código de Justicia Militar,ORG,1,1
+as was I,PER,1,1
+asistía,LOC,1,1
+barahano martinez,PER,1,1
+bombarderos Backfire,PER,1,1
+c).- Observamos,PER,1,1
+c/ General Cabrera,LOC,1,1
+cabo Monge,LOC,1,1
+carabel,PER,1,1
+caso Dreyfus,PER,1,1
+columna del Cte,LOC,1,1
+congreso de institución,LOC,1,1
+dará,PER,1,1
+de Murcia,LOC,1,1
+de bandolero y sabe,PER,1,1
+declaración indagatoria,PER,1,1
+dirigí,LOC,1,1
+día 23,ORG,1,1
+efeito,PER,1,1
+el Báltico,LOC,1,1
+el Ministro,LOC,1,1
+en Estados Unidos,LOC,1,1
+ex-General Orígen,LOC,1,1
+existía,PER,1,1
+extensión,LOC,1,1
+fernandez flores,PER,1,1
+francisco mayor bordes,PER,1,1
+fué D. Juan de Borbón,PER,1,1
+general Chamorro,PER,1,1
+general Gabeiras,PER,1,1
+general Miláns,PER,1,1
+general Santa María,PER,1,1
+general adilant,PER,1,1
+golpe de Estado,ORG,1,1
+habló,PER,1,1
+héroe,PER,1,1
+islas Malvinas,LOC,1,1
+john,PER,1,1
+júbilo,LOC,1,1
+la Central,LOC,1,1
+la Telefónica,LOC,1,1
+lassen,PER,1,1
+llamó,LOC,1,1
+llegó,LOC,1,1
+lloro,PER,1,1
+lloró,LOC,1,1
+los Regimientos,PER,1,1
+metais,LOC,1,1
+metralleta,LOC,1,1
+metro de San Andrés,LOC,1,1
+ministro Fernández,PER,1,1
+ministro del Interior,LOC,1,1
+miranda,LOC,1,1
+mona,PER,1,1
+my Government was,PER,1,1
+más blanda,ORG,1,1
+ningún,ORG,1,1
+ningún caso,PER,1,1
+ningún procesado,PER,1,1
+nuevo careo,LOC,1,1
+obedecía,PER,1,1
+ordenó,PER,1,1
+orozco,PER,1,1
+oye Juan,PER,1,1
+oye Pedro,PER,1,1
+pedro sanchez perez,PER,1,1
+plaza de las Cortes,LOC,1,1
+policías,PER,1,1
+profirió,ORG,1,1
+qué entró,PER,1,1
+radio ¿,LOC,1,1
+ral Aramburu,PER,1,1
+rebeldía,PER,1,1
+resuelva,PER,1,1
+seat,ORG,1,1
+still remain,ORG,1,1
+sólo habló,PER,1,1
+televisión ¿,LOC,1,1
+teléfono la frase,PER,1,1
+teléfono ¿,PER,1,1
+tenían,PER,1,1
+the United States and Spain,ORG,1,1
+vehículos del Cap,LOC,1,1
+venía,PER,1,1
+who love freedom,ORG,1,1
+° R. Militar,ORG,1,1
+¿Carmen,PER,1,1
+¿Comandante Ostos? B - Sí,ORG,1,1
+¿Conocían,PER,1,1
+¿Cuándo,ORG,1,1
+¿Había Gobierno,PER,1,1
+¿Iba,ORG,1,1
+¿Por,LOC,1,1
+¿Por,ORG,1,1
+¿Porqué,ORG,1,1
+¿Quién,ORG,1,1
+¿Suponía,ORG,1,1
+¿Todavía,PER,1,1
+¿qué,LOC,1,1
+Álvarez,LOC,1,1
+Álvaro Gráfio,PER,1,1
+Ámsterdam,LOC,1,1
+Ángel López-Montero Juárez,PER,1,1
+Órdenes,PER,1,1
+éstos serían,PER,1,1
+órgãos,PER,1,1

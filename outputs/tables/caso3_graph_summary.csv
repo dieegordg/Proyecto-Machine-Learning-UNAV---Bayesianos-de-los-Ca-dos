@@ -1,0 +1,8 @@
+metric,value
+n_nodes,436.0
+n_edges,6728.0
+density,0.0709480122324159
+n_connected_components,4.0
+largest_component_size,433.0
+n_nodes_visual_subgraph,20.0
+n_edges_visual_subgraph,76.0
