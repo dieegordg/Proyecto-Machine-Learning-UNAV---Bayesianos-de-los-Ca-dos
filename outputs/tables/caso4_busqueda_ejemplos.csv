@@ -1,0 +1,16 @@
+consulta,rank,score,doc_id,seccion,title
+¿Qué documentos mencionan al CESID?,1,0.1243,rtve_1860,defensa,Vista oral 2/81 del Consejo Supremo de Justicia Militar (20 de febrero
+¿Qué documentos mencionan al CESID?,2,0.1007,rtve_1743,exteriores,D.1._AGMAE_R39017_Exp._4
+¿Qué documentos mencionan al CESID?,3,0.0919,rtve_1698,interior,Documento manuscrito de posible planificación del golpe.
+¿Qué aparece sobre Tejero en las vistas orales?,1,0.0856,rtve_1699,interior,Transcripción de cintas grabadas con conversaciones telefónicas con va
+¿Qué aparece sobre Tejero en las vistas orales?,2,0.0713,rtve_1784,interior,Policía Nacional. Informe de situación. Marca: reservado-confidencial 
+¿Qué aparece sobre Tejero en las vistas orales?,3,0.0706,rtve_1767,interior,"""Informe de las distintas Jefaturas Superiores: Comisaría General de I"
+¿Qué documentos hablan de la Guardia Civil?,1,0.0807,rtve_1743,exteriores,D.1._AGMAE_R39017_Exp._4
+¿Qué documentos hablan de la Guardia Civil?,2,0.0736,rtve_1698,interior,Documento manuscrito de posible planificación del golpe.
+¿Qué documentos hablan de la Guardia Civil?,3,0.0681,rtve_1696,interior,Conversaciones telefónicas de (presuntamente) la unidad militar El Par
+¿Qué documentos tratan sobre la sentencia?,1,0.097,rtve_1743,exteriores,D.1._AGMAE_R39017_Exp._4
+¿Qué documentos tratan sobre la sentencia?,2,0.0885,rtve_1698,interior,Documento manuscrito de posible planificación del golpe.
+¿Qué documentos tratan sobre la sentencia?,3,0.079,rtve_1860,defensa,Vista oral 2/81 del Consejo Supremo de Justicia Militar (20 de febrero
+¿Qué actores institucionales aparecen en documentos de Defensa?,1,0.0669,rtve_1743,exteriores,D.1._AGMAE_R39017_Exp._4
+¿Qué actores institucionales aparecen en documentos de Defensa?,2,0.0616,rtve_1735,defensa,SECRETO: traslado de peticiones de los Abogados de los condenados.
+¿Qué actores institucionales aparecen en documentos de Defensa?,3,0.061,rtve_1698,interior,Documento manuscrito de posible planificación del golpe.
